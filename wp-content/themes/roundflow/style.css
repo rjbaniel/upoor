@@ -1,0 +1,199 @@
+/*
+
+Theme Name: RoundFlow
+
+Description: Set every colour just how you like it.
+Author: The undersigned
+Tags: multi-color, one column, widget, threaded comments, custom header, fixed width
+WDP ID: 128
+Version: 1.3.7.9
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+*/
+
+/* Captions and image alignment for wordpress */
+
+div.aligncenter {
+	display: block !important;
+    margin: 0px auto 10px;
+}
+div.alignleft {
+	float: left !important;
+	margin-right: 10px;
+}
+div.alignright {
+	float: right !important;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.wp-caption {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+	background-color: #F8F8F8;
+	padding-top: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 16px;
+    text-align: center !important;
+	padding: 5px 4px;
+	margin: 0;
+	font-family: Arial, Tahoma, "Lucida Sans";
+	color: #949494;
+	font-style: normal;
+}
+
+blockquote p {
+	margin: 0px !important;
+	padding: 0px;
+}
+
+blockquote {
+	margin: 1em 25px;
+	line-height: 24px;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 10px;
+	font-family: Georgia, "Times New Roman", Helvetica, sans-serif;
+	font-style: italic;
+	border-left: 5px solid #000000;
+}
+
+
+pre {
+	margin: 8px 0px;
+	padding: 10px;
+	clear: both;
+	width: 92%;
+	overflow: scroll;
+	font-family: "Courier New", "MS Sans Serif", sans-serif, serif;
+	background: #FFFFFF;
+	color: #000000;
+	font-size: 13px;
+	line-height: 22px;
+	white-space: nowrap;
+	border: 1px solid #eeeeee;
+}
+em {
+	font-style: italic;
+}
+
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	float: right;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	float: left;
+	}
+
+.alignright {
+	float: right;
+	}
+
+.alignleft {
+	float: left;
+	}
+
+.commentlist {
+  margin: 10px 0px 10px 20px;
+  padding: 0px;
+  list-style: none;
+}
+.commentlist li {
+  margin-left: 0px;
+  padding: 8px;
+}
+.thread-alt {
+  background: #eee;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.commentlist .children {
+padding-left: 0px;
+}
+
+.commentlist .children img.avatar {
+  width: 32px;
+  height: 32px;
+}
+.commentlist .children {
+padding-left: 10px;
+margin-left: 20px;
+margin-top: 10px;
+border-left: 2px solid #ddd;
+list-style: none;
+}
+
+.commentlist .children .children img.avatar {
+  width: 25px;
+  height: 25px;
+}
+
+#post-navigator-single {
+width: 100%;
+float: left;
+}
+
+#pings {
+  list-style: none;
+}
+#author-block {
+  width: 94%;
+  padding: 3%;
+  float: left;
+  margin-bottom: 25px;
+  background: #eee;
+}
+#author-block h1 {
+display: block;
+width: 100%;
+float: left;
+font-size: 20px;
+  margin-bottom: 10px;
+}
+#author-block .info {
+ float: left;
+ width: 70%;
+ padding-left: 15px;
+}
+#author-block .info p {
+ font-size: 12px;
+ width: 100%;
+float: left;
+ margin-top: 0px;
+ margin-bottom: 16px;
+ line-height: 20px;
+}
+
+
+/* End captions and image alignment */
+
+/* 12852-1333369299 */

@@ -1,0 +1,568 @@
+# Copyright (C) 2013 ThemeBox
+# This file is distributed under the same license as the Dignity package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dignity 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/dignity\n"
+"POT-Creation-Date: 2013-06-28 10:17:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:4
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: archive.php:7
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:9 archive.php:13 archive.php:17
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:10 archive.php:69 index.php:13 search.php:41 single.php:19
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:21
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:33
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:37
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:38
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:39
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:40
+msgid "AIM:"
+msgstr ""
+
+#: archive.php:49
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:53 index.php:37 search.php:15 search.php:75
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: archive.php:56 index.php:40 search.php:21 search.php:81
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: archive.php:66 index.php:9 search.php:33
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:70 index.php:15 single.php:21
+msgid "by"
+msgstr ""
+
+#: archive.php:83
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: archive.php:90 index.php:25
+msgid "Category"
+msgstr ""
+
+#: archive.php:92 index.php:27 search.php:55 single.php:39
+msgid "Edit"
+msgstr ""
+
+#: archive.php:94 index.php:29 search.php:59
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:94 index.php:29 search.php:59
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:94 index.php:29 search.php:59
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:100
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:103
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:107 index.php:44
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:19
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:27
+msgid "Archives by Subject:"
+msgstr ""
+
+#: attachment.php:23 single.php:15
+msgid "Permanent Link:"
+msgstr ""
+
+#: attachment.php:35 single.php:28
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: attachment.php:37 page.php:15 single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:39
+msgid "This entry was posted"
+msgstr ""
+
+#: attachment.php:49 comments-popup.php:17
+msgid "on"
+msgstr ""
+
+#: attachment.php:49
+msgid "l, F jS, Y"
+msgstr ""
+
+#: attachment.php:49 functions.php:389
+msgid "at"
+msgstr ""
+
+#: attachment.php:51
+msgid "and is filed under"
+msgstr ""
+
+#: attachment.php:59
+msgid "feed"
+msgstr ""
+
+#: attachment.php:65
+msgid "You can"
+msgstr ""
+
+#: attachment.php:65
+msgid "leave a response"
+msgstr ""
+
+#: attachment.php:65
+msgid "or"
+msgstr ""
+
+#: attachment.php:65 attachment.php:71
+msgid "trackback"
+msgstr ""
+
+#: attachment.php:65 attachment.php:71
+msgid "from your own site"
+msgstr ""
+
+#: attachment.php:71
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: attachment.php:77
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: attachment.php:84
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: attachment.php:86 page.php:17
+msgid "Edit this entry."
+msgstr ""
+
+#: attachment.php:98
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments-popup.php:37
+msgid "Comments"
+msgstr ""
+
+#: comments-popup.php:39
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments-popup.php:81
+msgid "Comment"
+msgstr ""
+
+#: comments-popup.php:81
+msgid "Trackback"
+msgstr ""
+
+#: comments-popup.php:81
+msgid "Pingback"
+msgstr ""
+
+#: comments-popup.php:105
+msgid "No comments yet."
+msgstr ""
+
+#: comments-popup.php:111
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-popup.php:113
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: comments-popup.php:121 comments.php:103
+msgid "Name"
+msgstr ""
+
+#: comments-popup.php:133
+msgid "E-mail"
+msgstr ""
+
+#: comments-popup.php:147
+msgid "Your Comment"
+msgstr ""
+
+#: comments-popup.php:157
+msgid "Say It!"
+msgstr ""
+
+#: comments-popup.php:167
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-popup.php:175
+msgid "Close this window."
+msgstr ""
+
+#: comments-popup.php:191
+msgid "Provided by"
+msgstr ""
+
+#: comments-popup.php:191
+msgid ""
+"Provided by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: comments.php:38
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:38
+msgid "One Response"
+msgstr ""
+
+#: comments.php:38
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:38
+msgid "to"
+msgstr ""
+
+#: comments.php:62
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:89
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:91
+msgid "You must be"
+msgstr ""
+
+#: comments.php:91
+msgid "logged in"
+msgstr ""
+
+#: comments.php:91
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:99
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:99
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:99
+msgid "Logout"
+msgstr ""
+
+#: comments.php:103 comments.php:109
+msgid "(required)"
+msgstr ""
+
+#: comments.php:108
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:114 contact.php:157
+msgid "Website"
+msgstr ""
+
+#: comments.php:117
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:122
+msgid "Submit Comment"
+msgstr ""
+
+#: contact.php:129
+msgid "Continue Reading &#187;"
+msgstr ""
+
+#: contact.php:165
+msgid "AntiSpam Challenge"
+msgstr ""
+
+#: contact.php:179
+msgid "Send Message"
+msgstr ""
+
+#: footer.php:13
+msgid "Y"
+msgstr ""
+
+#: footer.php:13
+msgid "using"
+msgstr ""
+
+#: footer.php:26
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:34
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:61
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:79
+msgid "Home"
+msgstr ""
+
+#: functions.php:175
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:176
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:180
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:212
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:213
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:233
+msgid "Position"
+msgstr ""
+
+#: functions.php:234
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:237
+msgid "Left"
+msgstr ""
+
+#: functions.php:241
+msgid "Center"
+msgstr ""
+
+#: functions.php:245
+msgid "Right"
+msgstr ""
+
+#: functions.php:251
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:253
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile"
+msgstr ""
+
+#: functions.php:255
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:261
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:262
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:265
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:269
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:277
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:280
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:383
+msgid "Says:"
+msgstr ""
+
+#: functions.php:385
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:20
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:29
+msgid "| Tagged"
+msgstr ""
+
+#: index.php:45
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: links.php:17
+msgid "Links:"
+msgstr ""
+
+#: page.php:13
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: search.php:9
+msgid "Search Results"
+msgstr ""
+
+#: search.php:39
+msgid "Published"
+msgstr ""
+
+#: search.php:47
+msgid "in"
+msgstr ""
+
+#: search.php:89
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: sidebar.php:6
+msgid "Blog Search"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Categories"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Dignity 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:27
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: single.php:21
+msgid "and tagged"
+msgstr ""
+
+#: single.php:45
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Dignity"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Customisable headered and taglined with a green tint."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeBox"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""

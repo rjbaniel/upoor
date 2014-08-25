@@ -1,0 +1,361 @@
+# Copyright (C) 2013 Good Design Web
+# This file is distributed under the same license as the Japan Style package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Japan Style 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/japan-style\n"
+"POT-Creation-Date: 2013-06-28 10:18:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: archive.php:13 archive.php:19 archive.php:22 archive.php:25
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:16
+msgid "Posts tagged with"
+msgstr ""
+
+#: archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:41
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:45
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:46
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:47
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:48
+msgid "AIM:"
+msgstr ""
+
+#: archive.php:55
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:68 archives.php:20 index.php:10 search.php:12
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:79 index.php:12 page.php:12
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: archive.php:87 index.php:15
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:87 index.php:15
+msgid "on"
+msgstr ""
+
+#: archive.php:90 index.php:18 page.php:18
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:90 index.php:18 page.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:90 index.php:18 page.php:18
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:101 index.php:26 search.php:19
+msgid "&larr;Older"
+msgstr ""
+
+#: archive.php:101 index.php:26 search.php:19
+msgid "Newer&rarr;"
+msgstr ""
+
+#: archive.php:106 archives.php:30 index.php:31 page.php:29
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:14
+msgid "Blog Archives"
+msgstr ""
+
+#: archives.php:20
+msgid "bookmark"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "Comments (0)"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments (1)"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:73
+msgid "You must be"
+msgstr ""
+
+#: comments.php:73
+msgid "logged in"
+msgstr ""
+
+#: comments.php:73
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:76
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:80
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:80
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:80
+msgid "Logout"
+msgstr ""
+
+#: comments.php:84
+msgid "Name"
+msgstr ""
+
+#: comments.php:87
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:90
+msgid "Website"
+msgstr ""
+
+#: comments.php:98
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:7
+msgid "Y"
+msgstr ""
+
+#: footer.php:13
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:44
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:71
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:89
+msgid "Home"
+msgstr ""
+
+#: functions.php:185
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:186
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:190
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:222
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:223
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:243
+msgid "Position"
+msgstr ""
+
+#: functions.php:244
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:247
+msgid "Left"
+msgstr ""
+
+#: functions.php:251
+msgid "Center"
+msgstr ""
+
+#: functions.php:255
+msgid "Right"
+msgstr ""
+
+#: functions.php:261
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:262
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:263
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:264
+msgid "Tile"
+msgstr ""
+
+#: functions.php:265
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:266
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:271
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:272
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:275
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:279
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:287
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:290
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:370
+msgid "edit"
+msgstr ""
+
+#: functions.php:373
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:32 page.php:30
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: search.php:6
+msgid "Search Results:"
+msgstr ""
+
+#: search.php:24
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: sidebar.php:7
+msgid "GO"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Archive"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Blogroll"
+msgstr ""
+
+#: sidebar.php:35
+msgid "Hello! welcome to my blog."
+msgstr ""
+
+#: sidebar.php:39
+msgid "Meta"
+msgstr ""
+
+#: single.php:10
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: single.php:18
+msgid "[Edit this entry]"
+msgstr ""
+
+#: single.php:26
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Japan Style"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A very sophisticated and nicely designed theme, for anyone with a penchant "
+"for attention to detail."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Good Design Web"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""

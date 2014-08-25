@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nature\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-09 01:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\bptrunk\\wp-content\\themes\\nature_wdl\n"
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/single.php:10
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/single.php:14
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/single.php:14
+msgid "Posted in"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/single.php:14
+msgid "Posted on"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:28
+msgid "Continue Reading"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:40
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:41
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:41
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:41
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archive.php:47
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:47
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:47
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archives.php:12
+msgid "Archives By Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/archives.php:19
+msgid "Archives By Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:50
+msgid "Write a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:60
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:60
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:60
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:67
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:67
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:67
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:72
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:75
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:78
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/comments.php:86
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/footer.php:28
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/header.php:42
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/header.php:56
+msgid "Type your search here..."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/index.php:48
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/search.php:48
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/page.php:13
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/sidebar.php:9
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/sidebar.php:15
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/single.php:20
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/single.php:29
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/includes/fn-general.php:53
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\nature_wdl/includes/theme-options/obwp-settings-pages.php:246
+#, php-format
+msgid "Edit \"%s\""
+msgstr ""
+

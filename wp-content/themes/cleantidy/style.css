@@ -1,0 +1,449 @@
+/*
+Theme Name: CleanTidy
+
+Description: A strong, sleek and sensible look.
+Author: Pupung Budi Purnama
+Tags: fixed width, two columns, threaded-comments, widgets
+WDP ID: 128
+Version: 1.3.7.9
+
+*/
+
+                                                                     
+                                                                     
+                                                                     
+                                             
+/* Captions and image alignment for wordpress */
+
+.commentlist .children {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+.commentlist .children .avatar {
+  width: 16px;
+  height: 16px;
+}
+#respond, #post-navigator-single {
+  width: 100%;
+  float: left;
+}
+#commentform {
+  padding: 15px;
+}
+#custom-img-header {
+	width: 100%;
+	float: left;
+	padding: 15px 0 15px 0;
+	background: #141A23;
+}
+
+
+div.aligncenter {
+	display: block!important;
+	margin: 0px auto;
+}
+div.alignleft {
+	float: left!important;
+	margin-right: 10px;
+}
+div.alignright {
+	float: right!important;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.wp-caption {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+	background-color: #F8F8F8;
+	padding-top: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 16px;
+	padding: 5px 4px;
+	margin: 0;
+	font-family: Arial, Tahoma, "Lucida Sans";
+	color: #949494;
+	font-style: normal;
+}
+
+
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	float: right;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	float: left;
+	}
+
+.alignright {
+	float: right;
+	}
+
+.alignleft {
+	float: left;
+	}
+
+
+/* End captions and image alignment */
+
+html {
+	min-height: 100%;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font: 8pt Verdana, Arial, Helvetica, Sans-Serif;
+	background: #263248;
+	height: 100%;
+}
+h1,h2,h3,h4 {
+	font: Arial, Verdana, Helvetica;
+}
+h1 {
+	font-weight: normal;
+}
+h3 {
+	font-size: 13pt;
+}
+p {
+	line-height: 18px;
+}
+a {
+	color: #ff881d;
+	text-decoration: underline;
+}
+a:hover {
+	color: #FFA555;
+	text-decoration: none;
+}
+small {
+	text-transform: uppercase;
+	font-size: 7pt;
+}
+blockquote, pre, code {
+	background: #FEE5C8;
+	padding: 0 5px;
+}
+blockquote blockquote {
+	background: #FFB765;
+}
+.yellow {
+	color: #ff881d;
+}
+.clear {
+	clear: both;
+}
+img, a img {
+	border: none;
+	padding: 5px;
+	border: 1px solid #BFBFBF;
+	clear: both;
+	background: #CDCDCD;
+}
+img {
+	padding: 5px;
+	margin-right: 5px;
+	margin-bottom: 3px;
+	border: 1px solid #BFBFBF;
+	clear: both;
+	background: #CDCDCD;
+}
+img:hover {
+	border: 1px solid #ff881d;
+}
+
+
+h2 a {
+	color: #ff881d;
+	text-decoration: none;
+	background: none;
+}
+h2 a:hover {
+	color: #FFA555;
+	text-decoration: none;
+}
+#wrapcontainer {
+width: 720px;
+margin: 0px auto;
+
+}
+#container {
+width: 720px;
+float:left;
+ background: #263248;
+	padding: 10px;
+
+}
+#header {
+	background: #202633;
+	border-bottom: 1px solid #181e2c;
+	width: 96%;
+    padding: 2%;
+    float: left;
+    padding: 0 auto;
+
+}
+#header .wrapper {
+      width: 720px;
+    margin: 0 auto;
+}
+
+
+#header div h1 {
+	font-size: 19pt;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: White;
+	letter-spacing: -1px;
+	margin: 15px 0px 8px 0;
+	padding: 0;
+	float: left;
+}
+#header div h1 a {
+	color: #fff;
+	text-decoration: none;
+	background: none;
+}
+
+#recent {
+
+	border-bottom: 1px solid #181e2c;
+	text-align: center;
+}
+.container {
+	width: 720px;
+	margin: 0 auto;
+	text-align: left;
+	color: #fff;
+	padding: 10px 0;
+}
+.container h2 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	font-size: 16pt;
+}
+.recent-post {
+	width: 450px;
+	float: left;
+    padding-top: 25px;
+}
+
+.aboutbox {
+	width: 200px;
+	float: right;
+}
+.aboutbox h3, #sidebar ul.widgets h3 {
+	font-weight: normal;
+	color: #ff881d;
+}
+.aboutbox  {
+	float: right;
+	width: 200px;
+}
+.aboutbox  ul.widgets {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.aboutbox ul.widgets h3 {
+	margin: 0;
+	padding: 5px 0;
+	color: #E3E3E3;
+	border-bottom: 1px solid #3A4456;
+}
+.aboutbox  ul.widgets  li {
+	margin: 0;
+	padding: 0;
+}
+.aboutbox  ul.widgets ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.aboutbox  ul.widgets ul li {
+	margin: 0;
+	padding: 5px 0;
+	border-bottom: 1px solid #3A4456;
+}
+.aboutbox  ul.widgets a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #ff881d;
+	background: none;
+}
+.aboutbox  ul.widgets a:hover {
+	color: #FFA555;
+}
+.widgets h2 {
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+#posts .container {
+	color: #000;
+}
+#posts h2, .aboutbox h2 {
+	margin: 20px 0 0 0;
+}
+#posts h2 a{
+	font-size: 13pt;
+	font-weight: normal;
+	border: none;
+	background: none;
+}
+
+
+#sidebar {
+	float: right;
+	width: 200px;
+}
+#sidebar ul.widgets {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#sidebar ul.widgets h3 {
+	margin: 0;
+	padding: 5px 0;
+	color: #313A4A;
+	border-bottom: 1px solid #C7C8CA;
+}
+#sidebar ul.widgets  li {
+	margin: 0;
+	padding: 0;
+}
+#sidebar ul.widgets ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#sidebar ul.widgets ul li {
+	margin: 0;
+	padding: 5px 0;
+	border-bottom: 1px solid #C7C8CA;
+}
+#sidebar ul.widgets a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #ff881d;
+	background: none;
+}
+#sidebar ul.widgets a:hover {
+	color: #FFA555;
+}
+
+#footer {
+	background: #202633;
+	text-align: center;
+	vertical-align: middle;
+	color: #fff;
+    width: 100%;
+    float:left;
+	text-transform: uppercase;
+	padding: 15px 0px;
+	margin-top: 20px;
+}
+#footer a{
+	color: #ff881d;
+	text-decoration: none;
+	background: none;
+}
+#footer a:hover {
+	color: #FFA555;
+	text-decoration: none;
+}
+
+.navigation {
+	text-align: center;
+}
+.alignleft .alignright {
+	width: 200px;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+h3#comments, h3#respond {
+	font-family: verdana, arial, helvetica;
+	font-size: 12pt;
+	color: #000;
+}
+ol.commentlist {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ol.commentlist li {
+	background: #efefef;
+	margin: 20px 0;
+	padding: 10px;
+	border: 1px solid #BFBFBF;
+}
+ol.commentlist li ul li,ol.commentlist li ol li {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+ol.commentlist .alt {
+	background: #efefef;
+}
+
+ol.commentlist li:hover {
+	
+}
+ol.commentlist .poster {
+}
+ol.commentlist .poster p{
+}
+#comment-container {
+	/*background: #D9D9D9;*/
+	padding: 10px;
+	margin: 30px 0 0 0;
+	/*border: 1px solid #BFBFBF;*/
+}
+
+/*widgets*/
+#search {
+	padding: 7px 0;
+}
+#search input {
+	margin: 3px 0;
+}
+#search #searchform br {
+	display: none;
+}
+#flickrrss {
+}
+
+/* 12852-1333369299 */

@@ -1,0 +1,587 @@
+# Copyright (C) 2013 Allan Cole
+# This file is distributed under the same license as the AutoFocus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoFocus 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/autofocus\n"
+"POT-Creation-Date: 2013-06-28 10:17:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:8 header.php:4
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:10
+msgid ""
+"Apologies, but we were unable to find what you were looking for. Perhaps "
+"browseing the archive will help."
+msgstr ""
+
+#: archive.php:10
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:14
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:18
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:30 archive.php:63 author.php:13 author.php:47 category.php:12
+#: category.php:49 home.php:33 index.php:7 index.php:37 search.php:12
+#: search.php:46 tag.php:10 tag.php:43
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr ""
+
+#: archive.php:31 archive.php:64 author.php:14 author.php:48 category.php:13
+#: category.php:50 home.php:34 index.php:8 index.php:38 search.php:13
+#: search.php:47 tag.php:11 tag.php:44
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: archive.php:40 author.php:23 category.php:22 home.php:14 index.php:15
+#: search.php:23 tag.php:20
+msgid "Permalink to %s"
+msgstr ""
+
+#: archive.php:45 author.php:28 category.php:27 home.php:22 image.php:17
+#: index.php:20 search.php:28 single.php:21 tag.php:25
+msgid "Pages:"
+msgstr ""
+
+#: archive.php:51 author.php:34 category.php:33 index.php:23 search.php:34
+#: tag.php:31
+msgid "By %s"
+msgstr ""
+
+#: archive.php:51 author.php:34 category.php:33 image.php:26 index.php:23
+#: search.php:34 single.php:26 tag.php:31
+msgid "View all posts by %s"
+msgstr ""
+
+#: archive.php:52 author.php:35 search.php:35 tag.php:32
+msgid " Filed under: %s"
+msgstr ""
+
+#: archive.php:53 author.php:36 search.php:36 tag.php:33
+msgid "<span class=\"tag-links\">Tags: "
+msgstr ""
+
+#: archive.php:54 author.php:37 search.php:37 tag.php:34
+msgid "Add a Comment"
+msgstr ""
+
+#: archive.php:54 author.php:37 search.php:37 tag.php:34
+msgid "1"
+msgstr ""
+
+#: archive.php:54 author.php:37 search.php:37 tag.php:34
+msgid "%"
+msgstr ""
+
+#: archive.php:55 author.php:38 category.php:41 functions.php:1037
+#: functions.php:1064 image.php:47 index.php:27 page.php:17 search.php:38
+#: single.php:46 tag.php:35
+msgid "Edit"
+msgstr ""
+
+#: author.php:8
+msgid "Author: <span class=\"vcard\">%s</span>"
+msgstr ""
+
+#: category.php:7
+msgid "Category Archive:"
+msgstr ""
+
+#: category.php:36
+msgid "Also posted in %s"
+msgstr ""
+
+#: category.php:39 index.php:25
+msgid "<span class=\"tag-links\">Tagged "
+msgstr ""
+
+#: category.php:40 index.php:26
+msgid "Comments (0)"
+msgstr ""
+
+#: category.php:40 index.php:26
+msgid "Comments (1)"
+msgstr ""
+
+#: category.php:40 index.php:26
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:32
+msgid "<span>%d</span> Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "<span>One</span> Comment"
+msgstr ""
+
+#: comments.php:61
+msgid "<span>%d</span> Trackbacks"
+msgstr ""
+
+#: comments.php:61
+msgid "<span>One</span> Trackback"
+msgstr ""
+
+#: comments.php:77
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:77
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:82
+msgid ""
+"You must be <a href=\"%s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:92
+msgid ""
+"<span class=\"loggedin\">Logged in as <a href=\"%1$s\" title=\"Logged in as "
+"%2$s\">%2$s</a>.</span> <span class=\"logout\"><a href=\"%3$s\" title=\"Log "
+"out of this account\">Log out?</a></span>"
+msgstr ""
+
+#: comments.php:99
+msgid "Your email is <em>never</em> published nor shared."
+msgstr ""
+
+#: comments.php:99
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr ""
+
+#: comments.php:102
+msgid "Name"
+msgstr ""
+
+#: comments.php:102 comments.php:107
+msgid "<span class=\"required\">*</span>"
+msgstr ""
+
+#: comments.php:107
+msgid "Email"
+msgstr ""
+
+#: comments.php:112
+msgid "Website"
+msgstr ""
+
+#: comments.php:119
+msgid "Comment"
+msgstr ""
+
+#: comments.php:124
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: comments.php:129
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:21
+msgid "Sandbox"
+msgstr ""
+
+#: footer.php:26
+msgid "Autofocus"
+msgstr ""
+
+#: footer.php:31
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:27
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:58
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:76
+msgid "Home"
+msgstr ""
+
+#: functions.php:172
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:177
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:209
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:230
+msgid "Position"
+msgstr ""
+
+#: functions.php:231
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:234
+msgid "Left"
+msgstr ""
+
+#: functions.php:238
+msgid "Center"
+msgstr ""
+
+#: functions.php:242
+msgid "Right"
+msgstr ""
+
+#: functions.php:248
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:249
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "Tile"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:258
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:259
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:262
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:266
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:274
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:277
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:606 functions.php:613 functions.php:686 sidebar.php:13
+msgid "Search"
+msgstr ""
+
+#: functions.php:625 functions.php:688 sidebar.php:56
+msgid "Meta"
+msgstr ""
+
+#: functions.php:642 functions.php:690 functions.php:691
+msgid "RSS Links"
+msgstr ""
+
+#: functions.php:647 header.php:20 sidebar.php:50
+msgid "Posts RSS feed"
+msgstr ""
+
+#: functions.php:647 sidebar.php:50
+msgid "All posts"
+msgstr ""
+
+#: functions.php:648 header.php:21 sidebar.php:51
+msgid "Comments RSS feed"
+msgstr ""
+
+#: functions.php:648 sidebar.php:51
+msgid "All comments"
+msgstr ""
+
+#: functions.php:666
+msgid "Title:"
+msgstr ""
+
+#: functions.php:1033
+msgid ""
+"Posted %1$s at %2$s <span class=\"meta-sep\">|</span> <a href=\"%3$s\" title="
+"\"Permalink to this comment\">#</a>"
+msgstr ""
+
+#: functions.php:1038
+msgid ""
+"\t\t\t\t\t<span class='unapproved'>Your comment is awaiting moderation.</"
+"span>\n"
+msgstr ""
+
+#: functions.php:1045
+msgid "Reply"
+msgstr ""
+
+#: functions.php:1046
+msgid "Log in to reply."
+msgstr ""
+
+#: functions.php:1060
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: functions.php:1065
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation.</span>\\n"
+msgstr ""
+
+#: header.php:4
+msgid " &raquo; "
+msgstr ""
+
+#: header.php:55
+msgid "Skip navigation to the content"
+msgstr ""
+
+#: header.php:55
+msgid "Skip to content"
+msgstr ""
+
+#: home.php:6
+msgid "<span class=\"meta-nav\">&laquo;</span>"
+msgstr ""
+
+#: home.php:7
+msgid "<span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: image.php:15 index.php:18
+msgid "Read More <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: image.php:25
+msgid ""
+"This photograph was taken by %1$s and posted on <abbr class=\"published\" "
+"title=\"%2$sT%3$s\">%4$s at %5$s</abbr>. Bookmark the <a href=\"%8$s\" title="
+"\"Permalink to %9$s\" rel=\"bookmark\">permalink</a>. Follow any comments "
+"here with the <a href=\"%10$s\" title=\"Comments RSS to %9$s\" rel="
+"\"alternate\" type=\"application/rss+xml\">RSS feed for this post</a>."
+msgstr ""
+
+#: image.php:32 single.php:32
+msgid "and tagged"
+msgstr ""
+
+#: image.php:38 single.php:37
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:40 single.php:39
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:42 single.php:41
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:44 single.php:43
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: includes/theme-options.php:15
+msgid "Choose your global body font:"
+msgstr ""
+
+#: includes/theme-options.php:72
+msgid "Choose your global headline font:"
+msgstr ""
+
+#: includes/theme-options.php:134
+msgid ""
+"Choose your <strong>background colour</strong> *this will changed the body "
+"background color"
+msgstr ""
+
+#: includes/theme-options.php:141
+msgid ""
+"Choose your <strong>global text</strong> color: *if background is dark, "
+"recommend text color will be white"
+msgstr ""
+
+#: includes/theme-options.php:148
+msgid "Choose your <strong>link</strong> colour:"
+msgstr ""
+
+#: includes/theme-options.php:155
+msgid "Choose your <strong>link hover</strong> colour:"
+msgstr ""
+
+#: includes/theme-options.php:163
+msgid ""
+"Choose your <strong>comment alt</strong> background color: *only apply if "
+"thread comments activated"
+msgstr ""
+
+#: includes/theme-options.php:171
+msgid "Enable or disable description text for featured image"
+msgstr ""
+
+#: includes/theme-options.php:206
+msgid "Themes Settings"
+msgstr ""
+
+#: includes/theme-options.php:210
+msgid "How do the homepage image work:"
+msgstr ""
+
+#: includes/theme-options.php:211
+msgid ""
+"it will automatically find your latest or order by number post attachment "
+"gallery image (no hotlink image will be fetch)"
+msgstr ""
+
+#: includes/theme-options.php:264
+msgid "Save Options"
+msgstr ""
+
+#: includes/theme-options.php:271
+msgid "Reset Options"
+msgstr ""
+
+#: index.php:24
+msgid "Posted in %s"
+msgstr ""
+
+#: page.php:12
+msgid "Pages: "
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:53
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:55
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:60 sidebar.php:17
+msgid "Find"
+msgstr ""
+
+#: sidebar.php:6
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:32
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:48
+msgid "Subscribe"
+msgstr ""
+
+#: single.php:25
+msgid ""
+"This entry was written by %1$s, posted on <abbr class=\"published\" title="
+"\"%2$sT%3$s\">%4$s at %5$s</abbr>, filed under %6$s%7$s. Bookmark the <a "
+"href=\"%8$s\" title=\"Permalink to %9$s\" rel=\"bookmark\">permalink</a>. "
+"Follow any comments here with the <a href=\"%10$s\" title=\"Comments RSS to "
+"%9$s\" rel=\"alternate\" type=\"application/rss+xml\">RSS feed for this "
+"post</a>."
+msgstr ""
+
+#: tag.php:6
+msgid "Tag:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "AutoFocus"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A fantastic photoblogging / image based theme - to make the theme work "
+"properly just ensure you have am image in every post (it'll select the first "
+"image to create the homepage effect)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Allan Cole"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links Page"
+msgstr ""

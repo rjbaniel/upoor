@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frame\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-23 05:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\frametheme\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:9
+#, php-format
+msgid "Comments on %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:22
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:48
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:27
+msgid "The <acronym title=\"Uniform Resource Identifier\">URI</acronym> to TrackBack this entry is:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:46
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:46
+msgid "Trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:46
+msgid "Pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:46
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:52
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:45
+msgid "No comments yet."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:56
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:7
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:57
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:62
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:75
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:69
+msgid "E-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:74
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:78
+msgid "Your Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:84
+msgid "Say It!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:89
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:101
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:94
+msgid "Close this window."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:102
+#, php-format
+msgid "<cite>Powered by <a href=\"http://wordpress.org\" title=\"%s\"><strong>Wordpress</strong></a></cite>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments-popup.php:102
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:2
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:5
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:5
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:32
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:50
+msgid "TrackBack"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:50
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:59
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:59
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:59
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:70
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:70
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:70
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:75
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:78
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:78
+msgid "E-Mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:81
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:85
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/comments.php:88
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/footer.php:6
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/footer.php:6
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/footer.php:8
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/functions.php:42
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:10
+msgid "Edit This"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:10
+msgid "Filed under:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:10
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:21
+msgid "(more...)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:22
+msgid "Comments (0)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:22
+msgid "Comments (1)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:22
+msgid "Comments (%)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:41
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:34
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:43
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:37
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/index.php:43
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:37
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/page.php:12
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/page.php:14
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:6
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:12
+msgid "Categories:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:19
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:22
+msgid "Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:28
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:32
+msgid "Meta:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:36
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:36
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:37
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:37
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/sidebar.php:38
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:10
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\frametheme/single.php:10
+msgid "on"
+msgstr ""
+

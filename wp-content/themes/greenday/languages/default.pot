@@ -1,0 +1,530 @@
+# Copyright (C) 2013 Aditya Naik
+# This file is distributed under the same license as the Greenday package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Greenday 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/greenday\n"
+"POT-Creation-Date: 2013-06-28 10:17:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:6
+msgid ""
+"Looks like you have tried to access a page that does not exist or has been "
+"moved. Try the search or the archives"
+msgstr ""
+
+#: archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:9
+msgid "Category"
+msgstr ""
+
+#: archive.php:12 archive.php:16 archive.php:20
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:13
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:24
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:27
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:45
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:49
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:50
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:51
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:52
+msgid "AIM:"
+msgstr ""
+
+#: archive.php:65 archive.php:102 index.php:44
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:66 archive.php:103 index.php:45
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:76 index.php:15 single.php:14
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:77 index.php:16 single.php:15
+msgid "by"
+msgstr ""
+
+#: archive.php:89 index.php:28
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: archive.php:96 index.php:36
+msgid "Posted in "
+msgstr ""
+
+#: archive.php:96 index.php:36
+msgid "Edit"
+msgstr ""
+
+#: archive.php:96 index.php:36
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:96 index.php:36
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:96 index.php:36
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:108 index.php:52
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:11
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:16
+msgid "Archives by Subject:"
+msgstr ""
+
+#: attachment.php:14
+msgid "Permanent Link:"
+msgstr ""
+
+#: attachment.php:18 single.php:19
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: attachment.php:20 page.php:11 single.php:21
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:24 single.php:25
+msgid "This entry was posted"
+msgstr ""
+
+#: attachment.php:29 single.php:30
+msgid "on"
+msgstr ""
+
+#: attachment.php:29 single.php:30
+msgid "l, F jS, Y"
+msgstr ""
+
+#: attachment.php:29 functions.php:356 single.php:30
+msgid "at"
+msgstr ""
+
+#: attachment.php:30 single.php:31
+msgid "and is filed under"
+msgstr ""
+
+#: attachment.php:31 single.php:32
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: attachment.php:31 single.php:32
+msgid "feed"
+msgstr ""
+
+#: attachment.php:35 single.php:36
+msgid "You can"
+msgstr ""
+
+#: attachment.php:35 single.php:36
+msgid "leave a response"
+msgstr ""
+
+#: attachment.php:35 single.php:36
+msgid "or"
+msgstr ""
+
+#: attachment.php:35 attachment.php:39 single.php:36 single.php:40
+msgid "trackback"
+msgstr ""
+
+#: attachment.php:35 attachment.php:39 single.php:36 single.php:40
+msgid "from your own site"
+msgstr ""
+
+#: attachment.php:39 single.php:40
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: attachment.php:43 single.php:44
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: attachment.php:47 single.php:48
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: attachment.php:49 page.php:13 single.php:50
+msgid "Edit this entry."
+msgstr ""
+
+#: attachment.php:64
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "to"
+msgstr ""
+
+#: comments.php:46
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:83
+msgid "You must be"
+msgstr ""
+
+#: comments.php:83
+msgid "logged in"
+msgstr ""
+
+#: comments.php:83
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:94
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:94
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:94
+msgid "Logout"
+msgstr ""
+
+#: comments.php:99
+msgid "Name"
+msgstr ""
+
+#: comments.php:99 comments.php:102
+msgid "(required)"
+msgstr ""
+
+#: comments.php:102
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:105
+msgid "Website"
+msgstr ""
+
+#: comments.php:109
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:113
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:6
+msgid "Y"
+msgstr ""
+
+#: footer.php:6
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:8
+msgid "Hosted by"
+msgstr ""
+
+#: footer.php:11
+msgid "Entries (RSS)"
+msgstr ""
+
+#: footer.php:12
+msgid "Comments (RSS)"
+msgstr ""
+
+#: footer.php:13
+msgid "queries"
+msgstr ""
+
+#: footer.php:13
+msgid "seconds"
+msgstr ""
+
+#: functions.php:31
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:58
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:76
+msgid "Home"
+msgstr ""
+
+#: functions.php:172
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:177
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:209
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:230
+msgid "Position"
+msgstr ""
+
+#: functions.php:231
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:234
+msgid "Left"
+msgstr ""
+
+#: functions.php:238
+msgid "Center"
+msgstr ""
+
+#: functions.php:242
+msgid "Right"
+msgstr ""
+
+#: functions.php:248
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:249
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "Tile"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:258
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:259
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:262
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:266
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:274
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:277
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:350
+msgid "Says"
+msgstr ""
+
+#: functions.php:352
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:404
+msgid "Recent Posts"
+msgstr ""
+
+#: index.php:16 single.php:15
+msgid "and tagged"
+msgstr ""
+
+#: index.php:53
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: links.php:11
+msgid "Links:"
+msgstr ""
+
+#: page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:6 sidebar.php:8 sidebar.php:11 sidebar.php:14 sidebar.php:17
+#: sidebar.php:20
+msgid "About"
+msgstr ""
+
+#: sidebar.php:6
+msgid "You are currently browsing the archives for the"
+msgstr ""
+
+#: sidebar.php:6
+msgid "category."
+msgstr ""
+
+#: sidebar.php:8 sidebar.php:11 sidebar.php:14 sidebar.php:20
+msgid "You are currently browsing the"
+msgstr ""
+
+#: sidebar.php:8 sidebar.php:11 sidebar.php:14 sidebar.php:17 sidebar.php:20
+msgid "weblog archives"
+msgstr ""
+
+#: sidebar.php:9
+msgid "for the day"
+msgstr ""
+
+#: sidebar.php:15
+msgid "for the year"
+msgstr ""
+
+#: sidebar.php:17
+msgid "You have searched the"
+msgstr ""
+
+#: sidebar.php:18
+msgid "for"
+msgstr ""
+
+#: sidebar.php:18
+msgid ""
+"If you are unable to find anything in these search results, you can try one "
+"of these links."
+msgstr ""
+
+#: sidebar.php:24
+msgid "Recently"
+msgstr ""
+
+#: sidebar.php:38
+msgid "Monthly Archives"
+msgstr ""
+
+#: sidebar.php:50
+msgid "Categories"
+msgstr ""
+
+#: single.php:67
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Greenday"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A clean 1 column olive green theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aditya Naik"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""

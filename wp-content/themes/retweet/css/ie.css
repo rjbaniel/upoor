@@ -1,0 +1,12 @@
+.content_table {-moz-box-sizing:border-box;}
+#pagination {outline-color:-moz-use-text-color;}
+.top-navigation {+display:inline !important;zoom:1;}
+.entry .panel .add_fav a, .entry .panel .add_comment a, .entry .panel .edit_post a {outline-color:-moz-use-text-color;}
+#respond{_margin:30px 10px 10px;}
+ol.commentlist li.comment span.status-body {_padding:0 0 6px;}
+#profilebox_outer{_display:none;}
+.post pre{word-wrap:break-word;}
+.post .code{word-wrap:break-word;}
+.post .more-link{_position:relative;_right:0;_bottom:0;}
+
+/* 12852-1333369299 */

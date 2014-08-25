@@ -1,0 +1,372 @@
+# Copyright (C) 2013 Becca Wei
+# This file is distributed under the same license as the Ocadia package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocadia 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/ocadia\n"
+"POT-Creation-Date: 2013-06-28 10:18:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:3 index.php:100 single.php:26
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:5 single.php:27
+msgid "Sorry, but the page you requested cannot be found."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25 index.php:86
+msgid "Comments"
+msgstr ""
+
+#: comments.php:25 index.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:25 index.php:86
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Jump to the comments form"
+msgstr ""
+
+#: comments.php:55
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:88
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:92
+msgid "You must be"
+msgstr ""
+
+#: comments.php:92
+msgid "logged in"
+msgstr ""
+
+#: comments.php:92
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:102
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:102
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:102
+msgid "Logout"
+msgstr ""
+
+#: comments.php:108
+msgid "Name"
+msgstr ""
+
+#: comments.php:108 comments.php:113
+msgid "(required)"
+msgstr ""
+
+#: comments.php:113
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:118
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: comments.php:118
+msgid "URI"
+msgstr ""
+
+#: comments.php:128
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:2
+msgid "Y"
+msgstr ""
+
+#: footer.php:4
+msgid "Design by Beccary"
+msgstr ""
+
+#: footer.php:5
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:31
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:58
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:76
+msgid "Home"
+msgstr ""
+
+#: functions.php:172
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:177
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:209
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:230
+msgid "Position"
+msgstr ""
+
+#: functions.php:231
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:234
+msgid "Left"
+msgstr ""
+
+#: functions.php:238
+msgid "Center"
+msgstr ""
+
+#: functions.php:242
+msgid "Right"
+msgstr ""
+
+#: functions.php:248
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:249
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "Tile"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:258
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:259
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:262
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:266
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:274
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:277
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:351
+msgid "said"
+msgstr ""
+
+#: functions.php:352 index.php:66 single.php:9
+msgid "at"
+msgstr ""
+
+#: functions.php:352
+msgid "Permanent link to this comment"
+msgstr ""
+
+#: functions.php:352 index.php:87 page.php:10 single.php:17
+msgid "Edit"
+msgstr ""
+
+#: functions.php:407 searchform.php:5 sidebar.php:27
+msgid "Search"
+msgstr ""
+
+#: functions.php:418
+msgid "GO"
+msgstr ""
+
+#: index.php:9 index.php:15 index.php:18 index.php:21
+msgid "Archive for"
+msgstr ""
+
+#: index.php:12
+msgid "Posts tagged with"
+msgstr ""
+
+#: index.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: index.php:37
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: index.php:41
+msgid "Homepage:"
+msgstr ""
+
+#: index.php:42
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: index.php:43
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: index.php:44
+msgid "AIM:"
+msgstr ""
+
+#: index.php:51
+msgid "Search Results"
+msgstr ""
+
+#: index.php:65 index.php:85 single.php:8 single.php:16
+msgid "Permanent link to"
+msgstr ""
+
+#: index.php:66 single.php:9
+msgid "Posted in"
+msgstr ""
+
+#: index.php:66
+msgid "tagged "
+msgstr ""
+
+#: index.php:66 single.php:9
+msgid "by"
+msgstr ""
+
+#: index.php:77 single.php:12
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:85 single.php:16
+msgid "Permalink"
+msgstr ""
+
+#: index.php:86
+msgid "Comments off"
+msgstr ""
+
+#: index.php:95
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: index.php:95
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: index.php:102
+msgid "Sorry, but no posts matched your criteria."
+msgstr ""
+
+#: page.php:7
+msgid "Read the rest of this page &raquo;"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:33
+msgid "Themes"
+msgstr ""
+
+#: sidebar.php:43
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:47
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: sidebar.php:47
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: sidebar.php:48
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: sidebar.php:48
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ocadia"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean yet stylish two column blue-grey theme with lots of rounded edges."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Becca Wei"
+msgstr ""

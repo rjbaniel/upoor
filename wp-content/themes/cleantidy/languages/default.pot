@@ -1,0 +1,384 @@
+# Copyright (C) 2013 Pupung Budi Purnama
+# This file is distributed under the same license as the CleanTidy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CleanTidy 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/cleantidy\n"
+"POT-Creation-Date: 2013-06-28 10:17:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:19
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:61 archive.php:153
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: 404.php:64 archive.php:156
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:31
+msgid "category archive"
+msgstr ""
+
+#: archive.php:40 archive.php:132 index.php:14 index.php:46 single.php:13
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:40 archive.php:49 archive.php:58
+msgid "Archive"
+msgstr ""
+
+#: archive.php:67
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:76
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:85
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:131 index.php:13 index.php:45 page.php:12 single.php:12
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:132 index.php:14 index.php:46
+msgid "No comments"
+msgstr ""
+
+#: archive.php:132 index.php:14 index.php:46
+msgid "1 comment"
+msgstr ""
+
+#: archive.php:132 index.php:14 index.php:46
+msgid "% comments"
+msgstr ""
+
+#: archive.php:132 index.php:14 index.php:46
+msgid "Comments are off for this post"
+msgstr ""
+
+#: archive.php:132 index.php:14 index.php:46
+msgid "Edit this post"
+msgstr ""
+
+#: archive.php:136 index.php:16 index.php:48
+msgid "Continue reading"
+msgstr ""
+
+#: archive.php:171
+msgid "Not Found"
+msgstr ""
+
+#: comments-popup.php:25 comments-popup.php:64
+msgid "Comments"
+msgstr ""
+
+#: comments-popup.php:25
+msgid "on"
+msgstr ""
+
+#: comments-popup.php:70
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments-popup.php:133
+msgid "Comment"
+msgstr ""
+
+#: comments-popup.php:133
+msgid "Trackback"
+msgstr ""
+
+#: comments-popup.php:133
+msgid "Pingback"
+msgstr ""
+
+#: comments-popup.php:133
+msgid "by"
+msgstr ""
+
+#: comments-popup.php:151
+msgid "No comments yet."
+msgstr ""
+
+#: comments-popup.php:163
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-popup.php:166
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: comments-popup.php:181 comments.php:96
+msgid "Name"
+msgstr ""
+
+#: comments-popup.php:202
+msgid "E-mail"
+msgstr ""
+
+#: comments-popup.php:229
+msgid "Your Comment"
+msgstr ""
+
+#: comments-popup.php:247
+msgid "Say It!"
+msgstr ""
+
+#: comments-popup.php:262
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-popup.php:277
+msgid "Close this window."
+msgstr ""
+
+#: comments-popup.php:301
+msgid ""
+"Provided by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "to"
+msgstr ""
+
+#: comments.php:46
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "You must be"
+msgstr ""
+
+#: comments.php:76
+msgid "logged in"
+msgstr ""
+
+#: comments.php:76
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:81
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:91
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:91
+msgid "Logout"
+msgstr ""
+
+#: comments.php:96 comments.php:99
+msgid "(required)"
+msgstr ""
+
+#: comments.php:99
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:102
+msgid "Website"
+msgstr ""
+
+#: comments.php:106
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:110
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:6
+msgid "Y"
+msgstr ""
+
+#: footer.php:11
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:77 header.php:90
+msgid "Home"
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:174
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:178
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:211
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:231
+msgid "Position"
+msgstr ""
+
+#: functions.php:232
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Left"
+msgstr ""
+
+#: functions.php:239
+msgid "Center"
+msgstr ""
+
+#: functions.php:243
+msgid "Right"
+msgstr ""
+
+#: functions.php:249
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:259
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:260
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:267
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:278
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:358
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:80
+msgid "home page"
+msgstr ""
+
+#: index.php:27
+msgid "Categories"
+msgstr ""
+
+#: page.php:32
+msgid "Edit"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Archives"
+msgstr ""
+
+#: single.php:13
+msgid "Tagged"
+msgstr ""
+
+#: single.php:31
+msgid "More ..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "CleanTidy"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A strong, sleek and sensible look."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pupung Budi Purnama"
+msgstr ""

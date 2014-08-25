@@ -1,0 +1,180 @@
+/* -----------------------------------*/
+/* >> Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom-navigation {
+     	background: #111;
+	border-left: 10px solid #191919;
+	border-right: 10px solid #191919;
+    font-size: 1.1em;
+    list-style-type: none;
+	list-style-image: none;
+	padding: 0px 0px 0px 10px;
+	text-transform: lowercase;
+	width: 970px; z-index: 1000 !important;
+    float:left;
+	}
+    
+#alt_menu li.current_page_item a, #alt_menu li.current_menu_item a, #alt_menu li.current_page_item a:hover, #alt_menu li.current_menu_item a:hover {
+
+
+  color: #fff;
+}
+
+#alt_menu {
+
+	list-style: none;
+	float: left;
+	position: relative;
+	font-size: 1em;
+    z-index: 1000 !important;
+
+}
+
+#alt_menu ul {
+	background: transparent;
+}
+
+
+#alt_menu li {
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	}
+#alt_menu li:hover {
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+
+	}
+
+#alt_menu li li{
+	background: url(none)!important;
+	padding: 0px!important;
+	}
+
+#alt_menu li ul {
+	position: absolute;
+	left: 0px; /* Set 1px less than menu width */
+	top: 28px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 180px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+    box-shadow: 1px 2px 5px #222;
+	-moz-box-shadow: 1px 2px 5px #222;
+	-webkit-box-shadow: 1px 2px 5px #222;
+
+    background: #161616;
+
+	}
+
+/* Styles for Menu Items */
+#alt_menu li a {
+	text-decoration: none;
+	color: #888;
+	display: inline-block;
+	padding: 0px 15px;
+	margin: 0px;
+	float: left;
+	font-size: 1em;
+	line-height: 28px;
+	}
+#alt_menu li a:hover {
+	text-decoration: underline;
+	color: #fff;
+	display: inline-block;
+	padding: 0px 15px;
+	margin: 0px;
+	float: left;
+	font-size: 1em;
+	line-height: 28px;
+
+	}
+
+#alt_menu ul li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	display: inline-block;
+	padding: 5px 15px 5px 15px;
+	margin: 0px;
+	float: left;
+	width: 150px;
+	font-size: 1em;
+	line-height: 18px;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	}
+#alt_menu ul li a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	display: inline-block;
+	padding: 5px 15px 5px 15px;
+	margin: 0px;
+	float: left;
+	width: 150px;
+	font-size: 1em;
+	line-height: 18px;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+    background: #333;
+	}
+
+/* Holly Hack. IE Requirement \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+
+#alt_menu li:hover ul, #alt_menu li.over ul { display: block; } /* The magic */
+#custom #alt_menu li ul li:hover ul, #custom #alt_menu li ul li.over ul { display: block; } /* The magic */
+#custom #alt_menu li ul li ul li:hover ul, #custom #alt_menu li ul li ul li.over ul { display: block !important; } /* The magic */
+/* -----------------------------------*/
+/* >> End Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom #alt_menu li ul li ul {
+	position: absolute;
+	left: 180px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 180px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+#custom #alt_menu li ul li ul li ul {
+	position: absolute;
+	left: 180px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none !important;
+	margin: 0px;
+	padding: 0px;
+	width: 180px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+
+/* 12852-1333369299 */

@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iblog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-25 16:48+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\iblog\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/404.php:8
+msgid "Sorry, the page that you are looking for does not exist."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:45
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:45
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:45
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:69
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:110
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:118
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:118
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:118
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:132
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:132
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:132
+msgid "Logout &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:142
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:148
+msgid "<strong>Mail</strong> (will not be published) "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:154
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/comments.php:166
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:31
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:54
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/sidebar.php:103
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:61
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:72
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/sidebar.php:81
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:95
+msgid "Says:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/functions.php:99
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:22
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:13
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:25
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:38
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:42
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:43
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:44
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:45
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:52
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:63
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:63
+msgid "under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:63
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:13
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:63
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:13
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:63
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:13
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:77
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:15
+msgid "Continue reading &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:91
+msgid "Tagged with: "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:96
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:22
+msgid "Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:96
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:22
+msgid "Next Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:100
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:101
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:104
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/page.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:30
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:28
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/index.php:105
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/page.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:29
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/page.php:45
+msgid "<p>Continue reading &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/page.php:47
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:16
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/page.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:17
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:11
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:26
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/search.php:27
+msgid "Please try another search."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/searchform.php:3
+msgid "Go"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/sidebar.php:13
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/sidebar.php:35
+msgid "Tag Cloud"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/sidebar.php:59
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:12
+msgid "Add comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\iblog/single.php:25
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

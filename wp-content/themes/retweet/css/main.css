@@ -1,0 +1,8 @@
+body {background-image:url(images/bg.gif);background-repeat:no-repeat;background-attachment:fixed;background-color:#9ae4e8;}
+body,ul.top-navigation li.current_page_item a,#side h2, #side h3 {color:#333;}
+a, #logo div.description {color:#0084b4;}
+#logo h1 a {text-decoration:none;border-bottom:1px solid #0084b4;}
+#side_base {background-color:#ddffcc;border-left:1px solid #bddcad;}
+#side h2, #side h3 {border-bottom:1px solid #bddcad;}
+
+/* 12852-1333369299 */

@@ -1,0 +1,140 @@
+Changelog
+
+v2.3
+----
+- fixed category post number bug [styles.css]
+- fixed image 404 bug [styles.css]
+- fixed slashes appearing in about box [functions.php]
+- added homepage link(s) to header [header.php]
+- added ability to customise homepage link (point to external website) [header.php]
+- added ability to alter the text on home link tab [functions.php and header.php]
+- added additional colour schemes [switch.css & functions.php]
+- general css tweaks [styles.css]
+
+v2.2.1
+------
+- fixed "logout" problem on comment form
+- fixed localization error with sub pages
+- fixed sub pages not showing page menu
+
+----
+v2.2
+
+- German translation by Ralph Inselsbacher - http://vernetzt.ws/
+- Italian translation by Lucacicca - http://www.lucacicca.it/
+- Swedish translation by Sven Holmström
+- French translation by Stephane Bardou
+- Russian Translation by Titov Anton - http://titov.com.ua/
+
+- Fully tranlatable
+- Nicer "remember me" box
+- fixed a number of bugs that occur in older/ less common browsers (meaning the ones i didn't test in). Thanks Alwi - http://www.alwisaja.cjb.net/2006/06/28/en-css-freak-fixing-regulus-template/
+- added support for gravatars (see plugin here - http://gravatar.com/implement.php#section_2_2)
+
+------
+v2.1.3
+
+- changed admin panel to preview custom header image
+
+------
+v2.1.2
+
+- fixed widgets unregister bug
+- fixed search box for sites in sub folders (could have sworn I had done this already)
+- added the ability to hide the blog title and description. Useful for people who use custom header images
+- added type attribute to style tag (for validation)
+- added edit post link underneath the title for logged in users (as with version 2.0)
+- changed code and pre tags to use monospaced fonts and add a couple of extra styled doohickies
+
+------
+v2.1.1
+
+- fixed minor validation error(s)
+- fixed sidebar css issue
+- added back admin panel for all sidebars (including widgeted bars)
+
+-------------------
+v2.1 - Major Update
+
+- fixed safari footer bug (thanks Rasmus - http://podkammeret.dk/)
+- fixed multi word nav tab error in IE
+- fixed error with closed comments
+- fixed html error with category listing
+- fixed wp smileys being out of line on wordpress.com
+- added support for wordpress.com sidebar widgets plugin - http://automattic.com/code/widgets/
+- added ability to choose your own header graphic
+- added ability to use comments on pages if you wish (includes trackbacks)
+- added support for styling of extra elements (b, i, table, tr, td, th)
+- added ability to control positioning of sidebar (left / right)
+- added post categories to every page (including home page)
+- added extra 'blend' colour scheme. Fits with the standard ice blue being used throughout the rest of the theme
+- added 'super' mode. Gives you access to the features that have been removed (see below) :)
+- added post info bar under post heading (includes post categories and other post related info)
+- added trackback link to info bar
+- changed columns on sidebar width to improve spacing
+- changed colours in css styles to try and make things a bit more uniform in style
+- changed feeds so they use the standard feed icon (thanks to Wolfgang Bartlme - http://bartelme.at/journal/274/)
+- changed post author so it's always visible
+- changed next & previous post navigation to make it more obvious
+- changed blockquote style to make it more quotey
+- changed padding on menu nav to pixels so it hides less content when scaled
+- removed admin panel display and homepage excerpts as they caused too much confusion amongst users
+- removed widgets bar
+- removed underlines from sidebar list items (it looks cleaner)
+
+-------------------
+v2.0 - Major Update
+
+- rebuilt admin panel from scratch for wordpress 2.0
+- fixed list item colour in content
+- fixed get_sidebar not called twice on page.php anymore
+- fixed search function
+- fixed errors with certain plugins that messed up the about box content
+- fixed message label repeating css bug in IE
+- added reset button to admin panel (for easy uninstall)
+- added screenshot (used in wp2.0 only)
+- added some fancy little javascript doobries to let you preview style options in the admin panel itself
+- added white colour scheme
+- added link listing option and styled listings
+- added 404 page
+- added 4 new header graphics
+- changed line-height in css
+- changed password protected posts to hide cerain objects in the widgets bar if the password is not entered
+- swap categories and archives around
+- moved admin bar styles to external style sheet
+- only display 'read more' link if excerpts are used
+- option to display post author on individual posts on homepage
+- choose between default blog roll listing and the option to display link categories
+- made the html validate
+- optimised switch.css (reduce download size)
+
+-----
+V1.04
+
+- fixed em's and strongs not styled (doh!)
+- fixed protected post page so comments can't be posted (doh! again)
+- support for recent comments plugin (http://blog.jodies.de/archiv/2004/11/13/recent-comments/)
+
+-----
+V1.03
+
+- added sub pages menu for pages that have children
+
+-----
+V1.02
+
+- blog roll randomized
+- display sub categories
+- choose how monthly archives are laid out (display all/ display last 15)
+
+-----
+V1.01
+
+- Fixed Margins in lists and comments
+
+----
+V1.0
+
+- Initial Release
+
+12852-1333369299

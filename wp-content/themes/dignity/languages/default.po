@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dignity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-21 09:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\dignity\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/404.php:4
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:7
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:17
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:43
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:41
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:21
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:75
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:30
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:21
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:81
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:33
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:44
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:15
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:56
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:62
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:25
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:64
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:55
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:59
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:59
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:59
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:72
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:75
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archive.php:79
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:44
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archives.php:19
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/archives.php:27
+msgid "Archives by Subject:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:23
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:35
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/page.php:15
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:39
+msgid "This entry was posted"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:17
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:49
+msgid "l, F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/functions.php:75
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:51
+msgid "and is filed under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:59
+msgid "feed"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:65
+msgid "You can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:65
+msgid "leave a response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:65
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:71
+msgid "trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:71
+msgid "from your own site"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:71
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:77
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:84
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:86
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/page.php:17
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/attachment.php:98
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:37
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:39
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:81
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:81
+msgid "Trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:81
+msgid "Pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:105
+msgid "No comments yet."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:111
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:113
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:121
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:103
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:133
+msgid "E-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:147
+msgid "Your Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:157
+msgid "Say It!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:167
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:175
+msgid "Close this window."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:191
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/footer.php:25
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments-popup.php:191
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:25
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:38
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:38
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:38
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:38
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:62
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:89
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:91
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:91
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:91
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:99
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:99
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:99
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:103
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:109
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:108
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:114
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/contact.php:157
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:117
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/comments.php:122
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/contact.php:129
+msgid "Continue Reading &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/contact.php:165
+msgid "AntiSpam Challenge"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/contact.php:179
+msgid "Send Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/footer.php:13
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/footer.php:13
+msgid "using"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/footer.php:27
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/functions.php:69
+msgid "Says:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/functions.php:71
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:20
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:29
+msgid "| Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/index.php:45
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/links.php:17
+msgid "Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/page.php:13
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:9
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:39
+msgid "Published"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:47
+msgid "in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/search.php:89
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/sidebar.php:6
+msgid "Blog Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/sidebar.php:9
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/sidebar.php:27
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/single.php:21
+msgid "and tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\dignity/single.php:45
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

@@ -1,0 +1,615 @@
+# Copyright (C) 2013 Sivan
+# This file is distributed under the same license as the Retweet package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Retweet 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/retweet\n"
+"POT-Creation-Date: 2013-06-28 10:18:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:9 404.php:48 archive.php:82 attachment.php:47 index.php:33
+#: page.php:46 search.php:36 single.php:42
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:11 archive.php:83 attachment.php:48 index.php:34 page.php:47
+#: single.php:43
+msgid "Sorry, but you are searching for something that is not here."
+msgstr ""
+
+#: archive.php:12
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr ""
+
+#: archive.php:15
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr ""
+
+#: archive.php:18 archive.php:21 archive.php:24
+msgid "Archive for %1$s"
+msgstr ""
+
+#: archive.php:18 archive.php:45 attachment.php:12 attachment.php:21
+#: index.php:12 page.php:20 search.php:15 single.php:12 single.php:20
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:21
+msgid "F, Y"
+msgstr ""
+
+#: archive.php:24 footer.php:2
+msgid "Y"
+msgstr ""
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:45 attachment.php:12 index.php:12 search.php:15 single.php:12
+msgid "Date : "
+msgstr ""
+
+#: archive.php:45 attachment.php:12 index.php:12 search.php:15 single.php:12
+msgid "Category : "
+msgstr ""
+
+#: archive.php:45 attachment.php:12 index.php:12 page.php:12 search.php:15
+#: single.php:12
+msgid "Author : "
+msgstr ""
+
+#: archive.php:45 attachment.php:12 index.php:12 page.php:12 search.php:15
+#: single.php:12
+msgid "No comments"
+msgstr ""
+
+#: archive.php:45 attachment.php:12 index.php:12 page.php:12 search.php:15
+#: single.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:45 attachment.php:12 index.php:12 page.php:12 search.php:15
+#: single.php:12
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:48 index.php:15 search.php:18
+msgid "Tweet This"
+msgstr ""
+
+#: archive.php:49 index.php:16 search.php:19
+msgid "Add a comment"
+msgstr ""
+
+#: archive.php:63 attachment.php:14 index.php:19 page.php:13 search.php:22
+#: single.php:13
+msgid "More &raquo;"
+msgstr ""
+
+#: archive.php:76 index.php:27 search.php:30
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: archive.php:77 index.php:28 search.php:31
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: attachment.php:12 page.php:12 single.php:12
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:15 page.php:14 single.php:14
+msgid "<p><strong>Pages:</strong>"
+msgstr ""
+
+#: attachment.php:21 page.php:20 single.php:20
+msgid "This entry was posted on"
+msgstr ""
+
+#: attachment.php:21 page.php:20 single.php:20
+msgid " at "
+msgstr ""
+
+#: attachment.php:21 attachment.php:23 attachment.php:26 attachment.php:29
+#: attachment.php:32 page.php:20 page.php:22 page.php:25 page.php:28
+#: page.php:31 single.php:20 single.php:22 single.php:24 single.php:26
+#: single.php:28
+msgid "."
+msgstr ""
+
+#: attachment.php:22 page.php:21 single.php:21
+msgid "You can follow any responses to this entry through the "
+msgstr ""
+
+#: attachment.php:26 attachment.php:32 page.php:25 page.php:31 single.php:24
+#: single.php:28
+msgid "You can "
+msgstr ""
+
+#: attachment.php:26 attachment.php:32 page.php:25 page.php:31 single.php:24
+#: single.php:28
+msgid "Leave a response"
+msgstr ""
+
+#: attachment.php:26 page.php:25 single.php:24
+msgid ", or "
+msgstr ""
+
+#: attachment.php:26 page.php:25 single.php:24
+msgid "Trackback"
+msgstr ""
+
+#: attachment.php:29 page.php:28 single.php:26
+msgid "Responses are currently closed, but you can "
+msgstr ""
+
+#: attachment.php:29 page.php:28 single.php:26
+msgid "Trackback."
+msgstr ""
+
+#: attachment.php:35 page.php:34 single.php:30
+msgid "Both comments and pings are currently closed. "
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:17
+msgid "No Response"
+msgstr ""
+
+#: comments.php:17
+msgid "One Response"
+msgstr ""
+
+#: comments.php:17
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "&laquo; Previous"
+msgstr ""
+
+#: comments.php:49
+msgid "Next &raquo;"
+msgstr ""
+
+#: comments.php:59
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:59
+msgid "Leave a Reply for %s"
+msgstr ""
+
+#: comments.php:64
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:68
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: comments.php:68
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:68
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:73
+msgid "Welcome back <strong>%s</strong>."
+msgstr ""
+
+#: comments.php:74
+msgid "Change &raquo;"
+msgstr ""
+
+#: comments.php:75
+msgid "Close &raquo;"
+msgstr ""
+
+#: comments.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:81 comments.php:85
+msgid "(required)"
+msgstr ""
+
+#: comments.php:85
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:85
+msgid "will not be published"
+msgstr ""
+
+#: comments.php:89
+msgid "Website"
+msgstr ""
+
+#: comments.php:98
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:114
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+#: footer.php:8
+msgid "Hosted by"
+msgstr ""
+
+#: footer.php:15
+msgid "Welcome back %s,you are reading "
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:63
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:81
+msgid "Home"
+msgstr ""
+
+#: functions.php:177
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:178
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:182
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:214
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:215
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:235
+msgid "Position"
+msgstr ""
+
+#: functions.php:236
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:239
+msgid "Left"
+msgstr ""
+
+#: functions.php:243
+msgid "Center"
+msgstr ""
+
+#: functions.php:247
+msgid "Right"
+msgstr ""
+
+#: functions.php:253
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:255
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile"
+msgstr ""
+
+#: functions.php:257
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:258
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:263
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:264
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:267
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:271
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:279
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:282
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:458
+msgid "Default Style"
+msgstr ""
+
+#: functions.php:459
+msgid "&quot;Sun hand&quot; Style"
+msgstr ""
+
+#: functions.php:460
+msgid "&quot;I like to fly&quot; Style"
+msgstr ""
+
+#: functions.php:461
+msgid "&quot;Fantasy Island&quot; Style"
+msgstr ""
+
+#: functions.php:462
+msgid "&quot;Photosynthesis&quot; Style"
+msgstr ""
+
+#: functions.php:463
+msgid "Custom Style"
+msgstr ""
+
+#: functions.php:468
+msgid "Retweet Theme Options"
+msgstr ""
+
+#: functions.php:473
+msgid "Option"
+msgstr ""
+
+#: functions.php:475
+msgid "Basic option"
+msgstr ""
+
+#: functions.php:478
+msgid ""
+"Enable it to show notice at homepage.You can also use HTML to add a link,js "
+"code etc."
+msgstr ""
+
+#: functions.php:480
+msgid "Show Notice(HTML enabled)"
+msgstr ""
+
+#: functions.php:487
+msgid "Input a description and it is good for SEO."
+msgstr ""
+
+#: functions.php:488
+msgid "Blog description(Input for SEO,text only)"
+msgstr ""
+
+#: functions.php:494
+msgid ""
+"You can use your Feedburner feed instead original.If you don' need it please "
+"leave it blank."
+msgstr ""
+
+#: functions.php:495
+msgid "Custom RSS Feed (Leave blank if you don't need it)"
+msgstr ""
+
+#: functions.php:501 functions.php:504
+msgid "Input your twitter username to show your tweets at homepage"
+msgstr ""
+
+#: functions.php:502
+msgid "Your twitter username : "
+msgstr ""
+
+#: functions.php:505
+msgid "Tweet display number :"
+msgstr ""
+
+#: functions.php:508
+msgid "I recommend you enable it though it doesn's work in IE and invalid CSS3"
+msgstr ""
+
+#: functions.php:510
+msgid "Use Roundborder(do not work in IE and invalid CSS3)."
+msgstr ""
+
+#: functions.php:513
+msgid ""
+"I recommend you enable it,but first of all you need to make a Logo image for "
+"yourself."
+msgstr ""
+
+#: functions.php:515
+msgid ""
+"Use logo image instead of text(The logo image PSD is under the theme image "
+"folder)"
+msgstr ""
+
+#: functions.php:518
+msgid ""
+"Wide mode looks better in widescreen.The guests can control it at navmenu "
+"and save their habit by cookies."
+msgstr ""
+
+#: functions.php:520
+msgid "Use wide mode default"
+msgstr ""
+
+#: functions.php:523
+msgid "Open @reply and a link target the comment you reply."
+msgstr ""
+
+#: functions.php:525
+msgid "Use @reply"
+msgstr ""
+
+#: functions.php:531
+msgid "Design"
+msgstr ""
+
+#: functions.php:533
+msgid "Just like your twitter!"
+msgstr ""
+
+#: functions.php:536
+msgid ""
+"There is a default twitter style and four add-on style from twittergallery "
+"dot com.You can select &quot;Custom Style&quot; to design the style by "
+"yourself."
+msgstr ""
+
+#: functions.php:537
+msgid "Stylelist : "
+msgstr ""
+
+#: functions.php:550
+msgid "Please install a valid style first!"
+msgstr ""
+
+#: functions.php:556 functions.php:564
+msgid "It works when you select &quot;Custom Style&quot; mode."
+msgstr ""
+
+#: functions.php:557
+msgid "Change background image : "
+msgstr ""
+
+#: functions.php:561
+msgid "Tile background"
+msgstr ""
+
+#: functions.php:565
+msgid "Change design colors(Don't contain '#') : "
+msgstr ""
+
+#: functions.php:569
+msgid "background :"
+msgstr ""
+
+#: functions.php:572
+msgid "text :"
+msgstr ""
+
+#: functions.php:575
+msgid "links :"
+msgstr ""
+
+#: functions.php:579
+msgid "sidebar :"
+msgstr ""
+
+#: functions.php:582
+msgid "sidebar border :"
+msgstr ""
+
+#: functions.php:590
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: header.php:90 header.php:91 header.php:93 header.php:94 header.php:97
+#: header.php:98 header.php:100 header.php:101 header.php:111 header.php:112
+#: header.php:114 header.php:115 header.php:118 header.php:119 header.php:121
+#: header.php:122
+msgid "Switch to "
+msgstr ""
+
+#: header.php:90 header.php:93 header.php:97 header.php:100 header.php:111
+#: header.php:114 header.php:118 header.php:121
+msgid "Wide"
+msgstr ""
+
+#: header.php:91 header.php:94 header.php:98 header.php:101 header.php:112
+#: header.php:115 header.php:119 header.php:122
+msgid "Normal"
+msgstr ""
+
+#: profilebox.php:18
+msgid "Recent Posts"
+msgstr ""
+
+#: profilebox.php:25 profilebox.php:27 profilebox.php:28 profilebox.php:29
+msgid "Subscribe my blog"
+msgstr ""
+
+#: profilebox.php:34
+msgid "Close"
+msgstr ""
+
+#: search.php:9
+msgid "Results for &#8216;%1$s&#8217;"
+msgstr ""
+
+#: search.php:38
+msgid "Sorry,you are searching for &#8216;%1$s&#8217; but not found."
+msgstr ""
+
+#: sidebar.php:16
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Links"
+msgstr ""
+
+#: sidebar.php:28
+msgid "Archives"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Retweet"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Twitter style theme with multiple styles, plentiful options and tweetiful "
+"potential!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sivan"
+msgstr ""

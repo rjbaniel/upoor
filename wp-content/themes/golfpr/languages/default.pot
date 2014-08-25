@@ -1,0 +1,371 @@
+# Copyright (C) 2013 Logical Binary
+# This file is distributed under the same license as the Golf package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Golf 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/golfpr\n"
+"POT-Creation-Date: 2013-06-28 10:17:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: archive.php:18
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:18
+msgid "Category"
+msgstr ""
+
+#: archive.php:20
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:22 archive.php:24 archive.php:26
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:36 index.php:18 page.php:18 search.php:20 single.php:18
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:48
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: archive.php:55 home.php:66 index.php:20 search.php:22 single.php:20
+msgid "Posted in"
+msgstr ""
+
+#: archive.php:55 home.php:66 index.php:20 search.php:22 single.php:20
+msgid "Edit"
+msgstr ""
+
+#: archive.php:55 home.php:66 index.php:20 search.php:22 single.php:20
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:55 home.php:66 index.php:20 search.php:22 single.php:20
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:55 home.php:66 index.php:20 search.php:22 single.php:20
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:62 index.php:27 search.php:29 single.php:31
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: archive.php:63 index.php:28 search.php:30 single.php:32
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: archive.php:69 index.php:34 page.php:32 single.php:38
+msgid ""
+"<div class='post'><h1>Sorry, but there aren't any posts in the %s category "
+"yet.</h1></div>"
+msgstr ""
+
+#: archive.php:71 index.php:36 page.php:34 single.php:40
+msgid ""
+"<div class='post'><h1>Sorry, but there aren't any posts with this date.</"
+"h1></div>"
+msgstr ""
+
+#: archive.php:74 index.php:39 page.php:37 single.php:43
+msgid ""
+"<div class='post'><h1>Sorry, but there aren't any posts by %s yet.</h1></div>"
+msgstr ""
+
+#: archive.php:76 index.php:41 page.php:39 single.php:45
+msgid "<div class='post'><h1>No posts found.</h1></div>"
+msgstr ""
+
+#: comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:25
+msgid "One Response"
+msgstr ""
+
+#: comments.php:25
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:77
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:84
+msgid "logged in"
+msgstr ""
+
+#: comments.php:84
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:91
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:91
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:96
+msgid "Name"
+msgstr ""
+
+#: comments.php:101
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:106
+msgid "Website"
+msgstr ""
+
+#: comments.php:119
+msgid "submit"
+msgstr ""
+
+#: footer.php:27
+msgid "Y"
+msgstr ""
+
+#: footer.php:27
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:36
+msgid "Home Sidebar"
+msgstr ""
+
+#: functions.php:43
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:59
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:86
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:87
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:105
+msgid "Home"
+msgstr ""
+
+#: functions.php:201
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:202
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:206
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:238
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:239
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:259
+msgid "Position"
+msgstr ""
+
+#: functions.php:260
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:263
+msgid "Left"
+msgstr ""
+
+#: functions.php:267
+msgid "Center"
+msgstr ""
+
+#: functions.php:271
+msgid "Right"
+msgstr ""
+
+#: functions.php:277
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:278
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:279
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:280
+msgid "Tile"
+msgstr ""
+
+#: functions.php:281
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:282
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:287
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:288
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:291
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:295
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:303
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:306
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:394
+msgid " Read full article &raquo;"
+msgstr ""
+
+#: functions.php:410
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: home.php:25
+msgid "Featured News"
+msgstr ""
+
+#: home.php:37
+msgid "you have to create a category"
+msgstr ""
+
+#: home.php:37
+msgid "so post with featured category will show here"
+msgstr ""
+
+#: home.php:55
+msgid "Latest News"
+msgstr ""
+
+#: home.php:111
+msgid "Categories"
+msgstr ""
+
+#: home.php:119
+msgid "Monthly"
+msgstr ""
+
+#: index.php:19 single.php:19
+msgid "...read more"
+msgstr ""
+
+#: links.php:19
+msgid "Links:"
+msgstr ""
+
+#: search.php:15
+msgid "Search Results"
+msgstr ""
+
+#: search.php:35
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: searchform.php:3
+msgid "Go"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Golf"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A golf themed look (well, cricket, golf and fishing)... but don't despair "
+"you can easily change the custom header if you like the green, white and "
+"blue style."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Logical Binary"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services"
+msgstr ""

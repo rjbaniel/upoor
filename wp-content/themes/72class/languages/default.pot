@@ -1,0 +1,353 @@
+# Copyright (C) 2013 Alan Who
+# This file is distributed under the same license as the 72 Class package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 72 Class 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/72class\n"
+"POT-Creation-Date: 2013-06-28 10:17:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:10
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Page not found"
+msgstr ""
+
+#: archive.php:10 archive.php:12 archive.php:14 archive.php:16
+msgid "Archive"
+msgstr ""
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:18
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:20
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:35 index.php:19 page.php:13 single.php:22
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:40 index.php:26 single.php:32
+msgid "Posted in "
+msgstr ""
+
+#: archive.php:40 footer.php:15 functions.php:368 index.php:26 page.php:17
+msgid "Edit"
+msgstr ""
+
+#: archive.php:42 index.php:28 single.php:34
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:42 index.php:28 single.php:34
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:42 index.php:28 single.php:34
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:53 index.php:39 page.php:27 single.php:42
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: archive.php:55 index.php:41
+msgid "<p>Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: archive.php:65 index.php:51
+msgid "Previous Entries"
+msgstr ""
+
+#: archive.php:68 index.php:54
+msgid "Next Entries"
+msgstr ""
+
+#: archive.php:74 index.php:60
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:75 index.php:61
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:32
+msgid "No comments <span>so far</span>"
+msgstr ""
+
+#: comments.php:32
+msgid "1 comment <span>so far</span>"
+msgstr ""
+
+#: comments.php:32
+msgid "% comments <span>so far</span>"
+msgstr ""
+
+#: comments.php:37
+msgid "Feed for this Entry"
+msgstr ""
+
+#: comments.php:42
+msgid "Copy this URI to trackback this entry."
+msgstr ""
+
+#: comments.php:43
+msgid "Trackback Address"
+msgstr ""
+
+#: comments.php:69
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:103
+msgid "You must be"
+msgstr ""
+
+#: comments.php:103
+msgid "logged in"
+msgstr ""
+
+#: comments.php:103
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:116
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:116
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:116
+msgid "Logout"
+msgstr ""
+
+#: comments.php:122
+msgid "Your Details"
+msgstr ""
+
+#: comments.php:123
+msgid "Enter your full name "
+msgstr ""
+
+#: comments.php:123 comments.php:127
+msgid "(required)"
+msgstr ""
+
+#: comments.php:127
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:131
+msgid "Website"
+msgstr ""
+
+#: comments.php:140
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:144
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:10
+msgid "About"
+msgstr ""
+
+#: footer.php:20
+msgid "Y"
+msgstr ""
+
+#: footer.php:27
+msgid "Created by"
+msgstr ""
+
+#: footer.php:29
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:26
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:45
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:63
+msgid "Home"
+msgstr ""
+
+#: functions.php:158
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:159
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:163
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:196
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:197
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:217
+msgid "Position"
+msgstr ""
+
+#: functions.php:218
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:221
+msgid "Left"
+msgstr ""
+
+#: functions.php:225
+msgid "Center"
+msgstr ""
+
+#: functions.php:229
+msgid "Right"
+msgstr ""
+
+#: functions.php:235
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:236
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:237
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:238
+msgid "Tile"
+msgstr ""
+
+#: functions.php:239
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:240
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:245
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:246
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:249
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:253
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:261
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:264
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:377
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:26 single.php:32
+msgid "Tagged"
+msgstr ""
+
+#: page.php:44 single.php:65
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:27
+msgid ""
+"Provided by WordPress, state-of-the-art semantic personal publishing "
+"platform."
+msgstr ""
+
+#: single.php:43
+msgid "Edit this"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "72 Class"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Minmalist yet modern and beautifully executed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Alan Who"
+msgstr ""

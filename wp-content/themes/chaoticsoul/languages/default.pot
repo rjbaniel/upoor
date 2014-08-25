@@ -1,0 +1,478 @@
+# Copyright (C) 2013 Bryan Veloso
+# This file is distributed under the same license as the ChaoticSoul package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ChaoticSoul 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/chaoticsoul\n"
+"POT-Creation-Date: 2013-06-28 10:17:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:5
+msgid "Problem?"
+msgstr ""
+
+#: 404.php:6
+msgid ""
+"Looks like you have a problem here sir/madam. You sure you have the right "
+"place? Maybe you got a little lost? Maybe you're looking for something "
+"you're not supposed to find? Either way, just go search for it, it can't "
+"hurt."
+msgstr ""
+
+#: archive.php:9
+msgid "Archive for the '%s' Category"
+msgstr ""
+
+#: archive.php:12 archive.php:15 archive.php:18
+msgid "Archive for %s"
+msgstr ""
+
+#: archive.php:21 search.php:7
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:27
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:33 attachment.php:14 home.php:16 home.php:34 image.php:12
+#: search.php:12 single.php:10
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: archive.php:35 search.php:14
+msgid "Posted in %s"
+msgstr ""
+
+#: archive.php:35 functions.php:365 home.php:17 home.php:35 index.php:11
+#: search.php:14
+msgid "Edit"
+msgstr ""
+
+#: archive.php:35 search.php:14
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:35 search.php:14
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:35 search.php:14
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:51 search.php:20
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:52 search.php:21
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:57 home.php:52 index.php:22
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:11
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:16
+msgid "Archives by Subject:"
+msgstr ""
+
+#: attachment.php:18 image.php:17 single.php:15
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: attachment.php:20 image.php:19 page.php:10 single.php:16
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:25 image.php:24 sidebar.php:15
+msgid "This entry was posted on %s at %s and is filed under %s."
+msgstr ""
+
+#: attachment.php:26 image.php:25 sidebar.php:16
+msgid "You can follow any responses to this entry through the %s feed."
+msgstr ""
+
+#: attachment.php:29 image.php:28 sidebar.php:19
+msgid ""
+"You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel="
+"\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: attachment.php:32 image.php:31 sidebar.php:22
+msgid ""
+"Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback"
+"\">trackback</a> from your own site."
+msgstr ""
+
+#: attachment.php:36 image.php:35 sidebar.php:26
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: attachment.php:40 image.php:39 sidebar.php:30
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: attachment.php:43 image.php:42 page.php:11 sidebar.php:33
+msgid "Edit this entry."
+msgstr ""
+
+#: attachment.php:56 image.php:55
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "to"
+msgstr ""
+
+#: comments.php:50
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:78
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:87
+msgid "You must be"
+msgstr ""
+
+#: comments.php:87
+msgid "logged in"
+msgstr ""
+
+#: comments.php:87
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:94
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:94
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:94
+msgid "Logout"
+msgstr ""
+
+#: comments.php:99
+msgid "Name"
+msgstr ""
+
+#: comments.php:102
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:105
+msgid "Website"
+msgstr ""
+
+#: comments.php:116
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:6
+msgid "Y"
+msgstr ""
+
+#: footer.php:7
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:77
+msgid "Home"
+msgstr ""
+
+#: functions.php:179
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:180
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:184
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:216
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:217
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:237
+msgid "Position"
+msgstr ""
+
+#: functions.php:238
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:241
+msgid "Left"
+msgstr ""
+
+#: functions.php:245
+msgid "Center"
+msgstr ""
+
+#: functions.php:249
+msgid "Right"
+msgstr ""
+
+#: functions.php:255
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:256
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:257
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:258
+msgid "Tile"
+msgstr ""
+
+#: functions.php:259
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:260
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:265
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:266
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:269
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:273
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:281
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:284
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:358
+msgid "Says"
+msgstr ""
+
+#: functions.php:361
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:365
+msgid "at"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (ChaoticSoul 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:431
+msgid "Links"
+msgstr ""
+
+#: functions.php:432
+msgid "Search"
+msgstr ""
+
+#: home.php:17 home.php:35 index.php:11
+msgid "No Comments"
+msgstr ""
+
+#: home.php:17 home.php:35 index.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: home.php:17 home.php:35 index.php:11
+msgid "% Comments"
+msgstr ""
+
+#: home.php:20 home.php:38 index.php:14
+msgid "Continue reading"
+msgstr ""
+
+#: home.php:24 home.php:42
+msgid "Category:"
+msgstr ""
+
+#: home.php:24 home.php:42 single.php:17
+msgid "Tagged:"
+msgstr ""
+
+#: home.php:53 index.php:23
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr ""
+
+#: home.php:60 index.php:30
+msgid "Previous Entries"
+msgstr ""
+
+#: home.php:61 index.php:31
+msgid "Next Entries"
+msgstr ""
+
+#: links.php:11
+msgid "Links:"
+msgstr ""
+
+#: page.php:9
+msgid "Read the rest of this page &raquo;"
+msgstr ""
+
+#: search.php:26
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: searchform.php:3 searchform.php:10 searchform.php:16
+msgid "Journal Search..."
+msgstr ""
+
+#: sidebar.php:38
+msgid "Navigate"
+msgstr ""
+
+#: sidebar.php:41
+msgid "Previous:"
+msgstr ""
+
+#: sidebar.php:42
+msgid "Next:"
+msgstr ""
+
+#: sidebar.php:49 sidebar.php:53 sidebar.php:57 sidebar.php:61 sidebar.php:65
+#: sidebar.php:69
+msgid "About This Page"
+msgstr ""
+
+#: sidebar.php:50
+msgid "You are currently browsing the archives for the %s category."
+msgstr ""
+
+#: sidebar.php:54
+msgid "You are currently browsing the %s weblog archives for the day %s."
+msgstr ""
+
+#: sidebar.php:58
+msgid "You are currently browsing the %s weblog archives for %s."
+msgstr ""
+
+#: sidebar.php:62
+msgid "You are currently browsing the %s weblog archives for the year %s."
+msgstr ""
+
+#: sidebar.php:66
+msgid ""
+"You have searched the %s weblog archives for %s. If you are unable to find "
+"anything in these search results, you can try one of these links."
+msgstr ""
+
+#: sidebar.php:70
+msgid "You are currently browsing the %s weblog archives."
+msgstr ""
+
+#: sidebar.php:74
+msgid "Pages"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (ChaoticSoul 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:79
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:84
+msgid "Categories"
+msgstr ""
+
+#: single.php:17
+msgid "by"
+msgstr ""
+
+#: single.php:17
+msgid "on"
+msgstr ""
+
+#: single.php:29
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ChaoticSoul"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Dark, 2 column contemplation with a customizable header."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bryan Veloso"
+msgstr ""

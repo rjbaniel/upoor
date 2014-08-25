@@ -1,0 +1,560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: batavia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-11 03:46+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\batavia\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/404.php:13
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:9
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:20
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:10
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:22
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:27
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:36
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:59
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:104
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:60
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:34
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:105
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:42
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:55
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:76
+msgid "Posted in "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:76
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:76
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:76
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:76
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archive.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:30
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:118
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archives.php:37
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/archives.php:52
+msgid "Archives by Subject:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:25
+#, php-format
+msgid "Comments on %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:64
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:70
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:79
+msgid "The <acronym title=\"Uniform Resource Identifier\">URI</acronym> to TrackBack this entry is:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:136
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:136
+msgid "Trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:136
+msgid "Pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:136
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:154
+msgid "No comments yet."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:166
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:169
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:184
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:96
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:205
+msgid "E-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:220
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:232
+msgid "Your Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:250
+msgid "Say It!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:265
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:280
+msgid "Close this window."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:304
+#, php-format
+msgid "<cite>Powered by <a href=\"http://wordpress.org\" title=\"%s\"><strong>Wordpress</strong></a></cite>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments-popup.php:304
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:26
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:26
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:26
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:47
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:76
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:84
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:84
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:84
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:91
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:91
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:96
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:99
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:99
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:102
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:106
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/comments.php:109
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:13
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:16
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:18
+msgid "Entries (RSS)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:21
+msgid "and "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:21
+msgid "Comments (RSS)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:24
+msgid "queries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/footer.php:24
+msgid "seconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/functions.php:37
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/functions.php:39
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/functions.php:43
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:25
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:7
+msgid "Blog Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:35
+msgid "Bigger"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:35
+msgid "Bigger Font Size"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:36
+msgid "Smaller"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:36
+msgid "Smaller Font Size"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:37
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:37
+msgid "Left Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:38
+msgid "Justify"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:38
+msgid "Justify Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:39
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:39
+msgid "Right Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:40
+msgid "Bookmark<span>Bookmark This Page</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/header.php:41
+msgid "Print<span>Print This Page</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:12
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/search.php:76
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:26
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/index.php:31
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/links.php:31
+msgid "Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/page.php:8
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/page.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:16
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/page.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:46
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/searchform.php:3
+msgid "Find"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:11
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:18
+msgid "You are currently browsing the archives for the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:18
+msgid "category."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:21
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:37
+msgid "You are currently browsing the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:21
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:33
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:37
+msgid "weblog archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:22
+msgid "for the day"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:30
+msgid "for the year"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:33
+msgid "You have searched the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:34
+msgid "for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:34
+msgid "If you are unable to find anything in these search results, you can try one of these links."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:48
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:52
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:54
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:60
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:69
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:73
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:73
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/sidebar.php:74
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:12
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:14
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:20
+msgid "This entry was posted"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:25
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:25
+msgid "l, F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:26
+msgid "and is filed under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:27
+msgid "feed"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:31
+msgid "You can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:31
+msgid "leave a response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:31
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:35
+msgid "trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:31
+msgid "from your own site"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:35
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:35
+msgid "from your own site."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:40
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:44
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\batavia/single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

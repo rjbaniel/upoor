@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magazeen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-08 15:40+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\bptrunk\\wp-content\\themes\\magazeen\n"
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:20
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:23
+msgid "A 404 Error Has Occured"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:32
+msgid "This page is no longer avaliable."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:33
+msgid "This page has either been removed, or was possibly never been created. Try some of the links below to find your way around the site."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:35
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archives.php:35
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archives.php:40
+msgid "Archives by Subject:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/404.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/links.php:36
+msgid "Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:26
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:26
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:28
+msgid "Posts Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:30
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:32
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:34
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:36
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:38
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:44
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archives.php:23
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:97
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:53
+msgid "If you can't find what you are looking for, try searching for it below:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:71
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/header.php:81
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:94
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:132
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:206
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/page.php:24
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:57
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/single.php:25
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:74
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:29
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:209
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/links.php:27
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/page.php:27
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:60
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/single.php:28
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:85
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:72
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/archive.php:86
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:73
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:141
+msgid "0 Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:141
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:141
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:36
+msgid "It&lsquo;s quite in here! Why not leave a <a href=\"#respond\">response</a>?"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:81
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:81
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:81
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:88
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:88
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:88
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:93
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:96
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:99
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/footer.php:22
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/footer.php:22
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/footer.php:28
+msgid "Subscribe to"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/footer.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/header.php:57
+msgid "Subscribe"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/functions.php:91
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/functions.php:478
+msgid " Options &raquo; General"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/functions.php:478
+msgid "Basic Options"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/header.php:53
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/header.php:68
+msgid "Check out the Latest Articles:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/index.php:77
+msgid "Continue Reading"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/links.php:24
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:23
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:86
+msgid "You Searched"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:35
+msgid "Below is a list of related searches. If you can not find what you are looking for, please try a different keyword below:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:83
+msgid "No Results"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/search.php:95
+msgid "No results were found with those keywords. Try some of the links below, or search with a different keyword."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/searchform-header.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/sidebar.php:11
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\magazeen/sidebar.php:27
+msgid "Meta"
+msgstr ""
+

@@ -1,0 +1,16 @@
+svg#paperclip-icon {
+	transition:transform 1s;
+	-webkit-transition:transform: 1s;
+}
+
+a:hover svg#paperclip-icon {
+	transform:rotateZ(-40deg);
+}
+
+.bp-docs-attachment-drawer {
+	margin-top:0;
+}
+
+.bp-docs-attachment-drawer ul {
+	padding-left:0;
+}

@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pixel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-29 20:08+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\pixel\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:14
+msgid "Tag:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:20
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:22
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:32
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:36
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:37
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:38
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:39
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:46
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:53
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:12
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:53
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:92
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:12
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:53
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:12
+msgid "under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:13
+msgid "(continue reading...)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:73
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:14
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:73
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:14
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:73
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:14
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:75
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:22
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:16
+msgid "more..."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:84
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/page.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/page_fullwidth.php:30
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:44
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:85
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:32
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/page.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/page_fullwidth.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:45
+msgid "Sorry, but you are looking for something that isn't here. You can search again by using"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:85
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:32
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/page.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/page_fullwidth.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:45
+msgid "this form"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:91
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:38
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/archive.php:92
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/index.php:39
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:9
+msgid "<p class=\"nocomments\">This post is password protected. Enter the password to view comments.</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:29
+msgid "Comments for this entry"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:29
+msgid "Comment for this entry"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:44
+msgid "Trackbacks / Pingbacks for this entry"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:44
+msgid "Trackback or Pingback for this entry"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:110
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:66
+msgid "No comments filed"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:66
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:66
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:66
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:89
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:92
+msgid "edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:127
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:136
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:136
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:136
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:148
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:149
+msgid "Log out"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:149
+msgid "Logout &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:153
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:155
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:157
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/comments.php:167
+msgid "Leave comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/footer.php:31
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/footer.php:33
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/header.php:61
+msgid "search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/header.php:62
+msgid "skip to content &darr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/header.php:79
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/searchform.php:4
+msgid "Find it"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/sidebar.php:14
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/sidebar.php:23
+msgid "Browse by tags"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/sidebar.php:40
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/sidebar.php:59
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:19
+msgid "Edit this entry?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:33
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for this post (comments)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\pixel/single.php:35
+msgid "TrackBack <abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+msgstr ""
+

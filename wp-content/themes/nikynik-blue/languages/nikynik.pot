@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nikynik\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2006-04-04 18:04+0100\n"
+"Last-Translator: nikynik <niklav@gmail.com>\n"
+"Language-Team: www.nikynik.com <niklav@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: archive.php:8
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:8
+msgid "Category"
+msgstr ""
+
+#: archive.php:11
+#: archive.php:14
+#: archive.php:16
+msgid "Archive for "
+msgstr ""
+
+#: archive.php:11
+#: archive.php:38
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:19
+msgid "Search results"
+msgstr ""
+
+#: archive.php:22
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:32
+#: archive.php:57
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: archive.php:32
+#: archive.php:57
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: archive.php:44
+#: index.php:15
+#: search.php:24
+msgid "Filed under:"
+msgstr ""
+
+#: archive.php:45
+#: index.php:15
+#: search.php:24
+msgid "Edit"
+msgstr ""
+
+#: archive.php:46
+#: comments.php:20
+#: index.php:15
+#: search.php:24
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:46
+#: comments.php:20
+#: index.php:15
+#: search.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:46
+#: comments.php:20
+#: index.php:15
+#: search.php:24
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:62
+#: index.php:37
+#: search.php:39
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:10
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:15
+msgid "Archives by Subject:"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+#: comments.php:28
+msgid "Visit"
+msgstr ""
+
+#: comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:41
+msgid "Permanent link to this comment"
+msgstr ""
+
+#: comments.php:43
+msgid "(subscribed to comments)"
+msgstr ""
+
+#: comments.php:44
+msgid "says:"
+msgstr ""
+
+#: comments.php:51
+msgid "Quote this comment"
+msgstr ""
+
+#: comments.php:51
+msgid "Quote"
+msgstr ""
+
+#: comments.php:54
+#: comments.php:56
+msgid "Edit Comment"
+msgstr ""
+
+#: comments.php:59
+msgid "Posted"
+msgstr ""
+
+#: comments.php:97
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:107
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:113
+msgid "You must be"
+msgstr ""
+
+#: comments.php:113
+msgid "logged in"
+msgstr ""
+
+#: comments.php:113
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:127
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:127
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:127
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:137
+msgid "Name"
+msgstr ""
+
+#: comments.php:138
+#: comments.php:145
+msgid "(required)"
+msgstr ""
+
+#: comments.php:144
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:151
+msgid "Website"
+msgstr ""
+
+#: comments.php:167
+msgid "Submit Comment"
+msgstr ""
+
+#: index.php:15
+#: single.php:22
+msgid "on"
+msgstr ""
+
+#: index.php:15
+#: search.php:18
+#: single.php:22
+msgid "l, F jS, Y"
+msgstr ""
+
+#: index.php:15
+msgid "by"
+msgstr ""
+
+#: index.php:18
+#: page.php:9
+#: single.php:17
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:38
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: page.php:10
+#: single.php:18
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: page.php:10
+#: single.php:18
+msgid "number"
+msgstr ""
+
+#: search.php:7
+msgid "Search Results"
+msgstr ""
+
+#: search.php:9
+#: search.php:33
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: search.php:9
+#: search.php:33
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: searchform.php:7
+#: sidebar.php:45
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:4
+msgid "Themes"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Last Posts"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Archives:"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Categories:"
+msgstr ""
+
+#: sidebar.php:33
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:37
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: sidebar.php:37
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+msgstr ""
+
+#: sidebar.php:38
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr ""
+
+#: sidebar.php:38
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+
+#: sidebar.php:39
+msgid "Valid <abbr title=\"Valid Css!\">CSS</abbr> "
+msgstr ""
+
+#: sidebar.php:41
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: single.php:22
+msgid "This entry was posted"
+msgstr ""
+
+#: single.php:22
+msgid "on the category"
+msgstr ""
+
+#: single.php:23
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: single.php:26
+msgid "You can"
+msgstr ""
+
+#: single.php:26
+msgid "leave a response"
+msgstr ""
+
+#: single.php:26
+msgid "or"
+msgstr ""
+
+#: single.php:26
+#: single.php:29
+msgid "trackback"
+msgstr ""
+
+#: single.php:26
+#: single.php:29
+msgid "from your own site."
+msgstr ""
+
+#: single.php:29
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: single.php:32
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: single.php:35
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: single.php:36
+msgid "<br>Edit this entry"
+msgstr ""
+
+#: single.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

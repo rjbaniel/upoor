@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blogtheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-06 05:09+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\bptrunk\\wp-content\\themes\\blogtheme\n"
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:29
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:29
+msgid " Error!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:43
+msgid "Sorry! None has been found..."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:49
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:51
+msgid "We suggest that you try going back one page or visit"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:51
+msgid "our homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/404.php:51
+msgid "instead."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/archive.php:39
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:17
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/search.php:39
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/single.php:22
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/tag.php:38
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/archive.php:41
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:18
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/single.php:23
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/tag.php:39
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/archive.php:43
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:19
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/search.php:44
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/single.php:24
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/tag.php:40
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-sitemap.php:107
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/archive.php:63
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:29
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/search.php:64
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/tag.php:59
+msgid "Continue Reading..."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/archive.php:101
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:60
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/search.php:102
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/tag.php:96
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/archive.php:103
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:62
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/search.php:104
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/tag.php:98
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:7
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:31
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:31
+msgid "One Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:31
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:31
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:105
+msgid "Hi, Stranger! Leave Your Comment..."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:119
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:119
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:119
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:135
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:135
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:135
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:147
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:161
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:175
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/comments.php:193
+msgid "Message"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/footer.php:71
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/footer.php:71
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/footer.php:71
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/functions.php:135
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/header.php:445
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/header.php:447
+msgid "Where it all began"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/index.php:30
+msgid "Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:13
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:17
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:19
+msgid "You are currently browsing the archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:21
+msgid "You are currently browsing the archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:23
+msgid "You are currently browsing the tsg archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/sidebar.php:25
+msgid "You are currently browsing the search results for"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-archives.php:69
+msgid "comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-archives.php:79
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-sitemap.php:69
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-archives.php:91
+msgid "Monthly Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-sitemap.php:49
+msgid "Sitemap"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\blogtheme/template-sitemap.php:57
+msgid "Pages"
+msgstr ""
+

@@ -1,0 +1,367 @@
+# Copyright (C) 2013 Ed Merritt
+# This file is distributed under the same license as the Ocean Mist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Mist 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/oceanmist\n"
+"POT-Creation-Date: 2013-06-28 10:18:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:4
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:4
+msgid "File not Found"
+msgstr ""
+
+#: 404.php:7 index.php:102 single.php:54
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:24
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:72
+msgid "Leave a response"
+msgstr ""
+
+#: comments.php:77
+msgid "You must be"
+msgstr ""
+
+#: comments.php:77
+msgid "logged in"
+msgstr ""
+
+#: comments.php:77
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:92
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:92
+msgid "Logout"
+msgstr ""
+
+#: comments.php:96
+msgid "Name"
+msgstr ""
+
+#: comments.php:98
+msgid "Email"
+msgstr ""
+
+#: comments.php:100
+msgid "Website"
+msgstr ""
+
+#: comments.php:109
+msgid "Your response:"
+msgstr ""
+
+#: comments.php:112
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:5
+msgid "Y"
+msgstr ""
+
+#: footer.php:8
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:43
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:49
+msgid "By:"
+msgstr ""
+
+#: functions.php:49 functions.php:574 functions.php:611
+msgid "on"
+msgstr ""
+
+#: functions.php:49
+msgid "at"
+msgstr ""
+
+#: functions.php:49
+msgid "Edit Comment"
+msgstr ""
+
+#: functions.php:67
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:94
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:112
+msgid "Home"
+msgstr ""
+
+#: functions.php:208
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:209
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:213
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:245
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:246
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:266
+msgid "Position"
+msgstr ""
+
+#: functions.php:267
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:270
+msgid "Left"
+msgstr ""
+
+#: functions.php:274
+msgid "Center"
+msgstr ""
+
+#: functions.php:278
+msgid "Right"
+msgstr ""
+
+#: functions.php:284
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:285
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:286
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:287
+msgid "Tile"
+msgstr ""
+
+#: functions.php:288
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:289
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:294
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:295
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:298
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:302
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:310
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:313
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:405 sidebar.php:10
+msgid "Browse"
+msgstr ""
+
+#: functions.php:407 sidebar.php:14
+msgid "Monthly Archives"
+msgstr ""
+
+#: functions.php:418 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: functions.php:641
+msgid "Reset"
+msgstr ""
+
+#: index.php:9 index.php:15 index.php:18 index.php:21
+msgid "Archive for"
+msgstr ""
+
+#: index.php:12
+msgid "Posts tagged with"
+msgstr ""
+
+#: index.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: index.php:37
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: index.php:41
+msgid "Homepage:"
+msgstr ""
+
+#: index.php:42
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: index.php:43
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: index.php:44
+msgid "AIM:"
+msgstr ""
+
+#: index.php:51
+msgid "Search Results"
+msgstr ""
+
+#: index.php:62 single.php:16
+msgid "Posted by:"
+msgstr ""
+
+#: index.php:62 single.php:16
+msgid "| No Comment"
+msgstr ""
+
+#: index.php:62 single.php:16
+msgid "| 1 Comment"
+msgstr ""
+
+#: index.php:62 single.php:16
+msgid "| % Comments"
+msgstr ""
+
+#: index.php:62 single.php:16
+msgid "(edit)"
+msgstr ""
+
+#: index.php:76
+msgid "Read More..."
+msgstr ""
+
+#: index.php:88 single.php:31
+msgid "under:"
+msgstr ""
+
+#: index.php:89 single.php:32
+msgid "Tags: "
+msgstr ""
+
+#: index.php:96
+msgid "&#171; Newer Posts"
+msgstr ""
+
+#: index.php:96
+msgid "Older Posts &#187;"
+msgstr ""
+
+#: index.php:100 single.php:51
+msgid "Not Found"
+msgstr ""
+
+#: index.php:108 single.php:62
+msgid "Categories"
+msgstr ""
+
+#: page.php:12
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: page.php:15
+msgid "Edit this entry."
+msgstr ""
+
+#: page.php:17
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Subscribe"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Entries (RSS)"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Comments (RSS)"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ocean Mist"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Feeling Oceanic? Big custom header space included."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ed Merritt"
+msgstr ""

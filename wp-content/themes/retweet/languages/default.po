@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: retweet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-09 04:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\bptrunk\\wp-content\\themes\\retweet\n"
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/404.php:9
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/404.php:48
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:66
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:47
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:46
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:36
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:42
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/404.php:11
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:67
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:48
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:34
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:47
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:43
+msgid "Sorry, but you are searching for something that is not here."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:12
+#, php-format
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:15
+#, php-format
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:18
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:21
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:24
+#, php-format
+msgid "Archive for %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:18
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:21
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:20
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:20
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:21
+msgid "F, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:24
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "Date : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "Category : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "Author : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "No comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:48
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:18
+msgid "Tweet This"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:49
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:16
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:19
+msgid "Add a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:52
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:14
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:19
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:13
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:22
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:13
+msgid "More &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:60
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:27
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:30
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/archive.php:61
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/index.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:31
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:12
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:12
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:15
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:14
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:14
+msgid "<p><strong>Pages:</strong>"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:21
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:20
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:20
+msgid "This entry was posted on"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:21
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:20
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:20
+msgid " at "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:21
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:23
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:29
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:32
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:20
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:22
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:31
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:20
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:22
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:24
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:28
+msgid "."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:22
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:21
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:21
+msgid "You can follow any responses to this entry through the "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:32
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:31
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:24
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:28
+msgid "You can "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:32
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:31
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:24
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:28
+msgid "Leave a response"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:24
+msgid ", or "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:26
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:24
+msgid "Trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:29
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:26
+msgid "Responses are currently closed, but you can "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:29
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:26
+msgid "Trackback."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/attachment.php:35
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/page.php:34
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/single.php:30
+msgid "Both comments and pings are currently closed. "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:17
+msgid "No Response"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:17
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:17
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:19
+msgid "Trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:48
+msgid "&laquo; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:49
+msgid "Next &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:59
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:59
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:68
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:68
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:68
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:73
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:74
+msgid "Change &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:75
+msgid "Close &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:81
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:81
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:85
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:85
+msgid "E-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:85
+msgid "will not be published"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:89
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:98
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/comments.php:114
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/footer.php:8
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/footer.php:15
+#, php-format
+msgid "Welcome back %s,you are reading "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:135
+msgid "Default Style"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:136
+msgid "&quot;Sun hand&quot; Style"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:137
+msgid "&quot;I like to fly&quot; Style"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:138
+msgid "&quot;Fantasy Island&quot; Style"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:139
+msgid "&quot;Photosynthesis&quot; Style"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:140
+msgid "Custom Style"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:145
+msgid "Retweet Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:150
+msgid "Option"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:152
+msgid "Basic option"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:155
+msgid "Enable it to show notice at homepage.You can also use HTML to add a link,js code etc."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:157
+msgid "Show Notice(HTML enabled)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:164
+msgid "Input a description and it is good for SEO."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:165
+msgid "Blog description(Input for SEO,text only)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:171
+msgid "You can use your Feedburner feed instead original.If you don' need it please leave it blank."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:172
+msgid "Custom RSS Feed (Leave blank if you don't need it)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:178
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:181
+msgid "Input your twitter username to show your tweets at homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:179
+msgid "Your twitter username : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:182
+msgid "Tweet display number :"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:185
+msgid "I recommend you enable it though it doesn's work in IE and invalid CSS3"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:187
+msgid "Use Roundborder(do not work in IE and invalid CSS3)."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:190
+msgid "I recommend you enable it,but first of all you need to make a Logo image for yourself."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:192
+msgid "Use logo image instead of text(The logo image PSD is under the theme image folder)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:195
+msgid "Wide mode looks better in widescreen.The guests can control it at navmenu and save their habit by cookies."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:197
+msgid "Use wide mode default"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:200
+msgid "Open @reply and a link target the comment you reply."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:202
+msgid "Use @reply"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:208
+msgid "Design"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:210
+msgid "Just like your twitter!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:213
+msgid "There is a default twitter style and four add-on style from twittergallery dot com.You can select &quot;Custom Style&quot; to design the style by yourself."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:214
+msgid "Stylelist : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:227
+msgid "Please install a valid style first!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:233
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:241
+msgid "It works when you select &quot;Custom Style&quot; mode."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:234
+msgid "Change background image : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:238
+msgid "Tile background"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:242
+msgid "Change design colors(Don't contain '#') : "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:246
+msgid "background :"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:249
+msgid "text :"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:252
+msgid "links :"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:256
+msgid "sidebar :"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:259
+msgid "sidebar border :"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/functions.php:267
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:70
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:74
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:75
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:77
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:78
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:81
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:82
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:84
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:85
+msgid "Switch to "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:74
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:77
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:81
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:84
+msgid "Wide"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:75
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:78
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:82
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/header.php:85
+msgid "Normal"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/profilebox.php:18
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/profilebox.php:25
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/profilebox.php:27
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/profilebox.php:28
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/profilebox.php:29
+msgid "Subscribe my blog"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/profilebox.php:34
+msgid "Close"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:9
+#, php-format
+msgid "Results for &#8216;%1$s&#8217;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/search.php:38
+#, php-format
+msgid "Sorry,you are searching for &#8216;%1$s&#8217; but not found."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/sidebar.php:16
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/sidebar.php:22
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\retweet/sidebar.php:28
+msgid "Archives"
+msgstr ""
+

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: glossyblue\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-23 23:02+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\glossyblue\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:23
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:47
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:78
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:78
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:78
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:88
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:88
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:88
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:93
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:96
+msgid "Mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:96
+msgid "(will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:99
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/footer.php:4
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/footer.php:9
+msgid "Entries RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/footer.php:9
+msgid "Comments RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/functions.php:37
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/functions.php:39
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/functions.php:43
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/header.php:51
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/search.php:12
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:8
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:12
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:12
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:12
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:24
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:38
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/search.php:22
+msgid "Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:38
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/search.php:22
+msgid "Next Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:43
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/index.php:44
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/page.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:14
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/search.php:4
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/search.php:26
+msgid "Sorry, nothing found."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/sidebar.php:25
+msgid "Subpages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/sidebar.php:32
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/sidebar.php:38
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/sidebar.php:44
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:7
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:8
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:12
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:16
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\glossyblue/single.php:24
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

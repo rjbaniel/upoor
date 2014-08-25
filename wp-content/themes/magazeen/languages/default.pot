@@ -1,0 +1,359 @@
+# Copyright (C) 2013 Spencer
+# This file is distributed under the same license as the Magazeen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magazeen 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/magazeen\n"
+"POT-Creation-Date: 2013-06-28 10:18:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:20
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "A 404 Error Has Occured"
+msgstr ""
+
+#: 404.php:32
+msgid "This page is no longer avaliable."
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"This page has either been removed, or was possibly never been created. Try "
+"some of the links below to find your way around the site."
+msgstr ""
+
+#: 404.php:35 archives.php:35
+msgid "Archives by Month:"
+msgstr ""
+
+#: 404.php:40 archives.php:40
+msgid "Archives by Subject:"
+msgstr ""
+
+#: 404.php:45 links.php:36
+msgid "Links:"
+msgstr ""
+
+#: archive.php:26
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:26
+msgid "Category"
+msgstr ""
+
+#: archive.php:28
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:30 archive.php:32 archive.php:34
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:36
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Magazeen 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: archive.php:44 archives.php:23 search.php:97 sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: archive.php:53
+msgid "If you can't find what you are looking for, try searching for it below:"
+msgstr ""
+
+#: archive.php:71 header.php:121 index.php:26 index.php:94 index.php:132
+#: index.php:206 page.php:24 search.php:57 single.php:25
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:74 index.php:29 index.php:209 links.php:27 page.php:27
+#: search.php:60 single.php:28
+msgid "By"
+msgstr ""
+
+#: archive.php:85 search.php:72
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: archive.php:86 search.php:73
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25 index.php:40 index.php:141
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:25 index.php:40 index.php:141
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:25 index.php:40 index.php:141
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:36
+msgid ""
+"It&lsquo;s quiet in here! Why not leave a <a href=\"#respond\">response</a>?"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:81
+msgid "You must be"
+msgstr ""
+
+#: comments.php:81
+msgid "logged in"
+msgstr ""
+
+#: comments.php:81
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:88
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:88
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:88
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:93
+msgid "Name"
+msgstr ""
+
+#: comments.php:96
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:99
+msgid "Website"
+msgstr ""
+
+#: comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:26
+msgid "Y"
+msgstr ""
+
+#: footer.php:27
+msgid "Hosted by "
+msgstr ""
+
+#: footer.php:32
+msgid "Subscribe to"
+msgstr ""
+
+#: footer.php:32 header.php:97
+msgid "Subscribe"
+msgstr ""
+
+#: functions.php:54
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:81
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:99
+msgid "Home"
+msgstr ""
+
+#: functions.php:195
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:196
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:200
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:232
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:233
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:253
+msgid "Position"
+msgstr ""
+
+#: functions.php:254
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:257
+msgid "Left"
+msgstr ""
+
+#: functions.php:261
+msgid "Center"
+msgstr ""
+
+#: functions.php:265
+msgid "Right"
+msgstr ""
+
+#: functions.php:271
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:272
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:273
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:274
+msgid "Tile"
+msgstr ""
+
+#: functions.php:275
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:276
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:281
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:282
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:285
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:289
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:297
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:300
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:409
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:818
+msgid "Basic Options"
+msgstr ""
+
+#: header.php:108
+msgid "Check out the Latest Articles:"
+msgstr ""
+
+#: index.php:77
+msgid "Continue Reading"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Magazeen 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: links.php:24
+msgid "Links"
+msgstr ""
+
+#: search.php:23
+msgid "Search Results"
+msgstr ""
+
+#: search.php:26 search.php:86
+msgid "You Searched"
+msgstr ""
+
+#: search.php:35
+msgid ""
+"Below is a list of related searches. If you can not find what you are "
+"looking for, please try a different keyword below:"
+msgstr ""
+
+#: search.php:83
+msgid "No Results"
+msgstr ""
+
+#: search.php:95
+msgid ""
+"No results were found with those keywords. Try some of the links below, or "
+"search with a different keyword."
+msgstr ""
+
+#: searchform-header.php:3
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:27
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Magazeen"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A bold magazine theme with a crazy latest posts display function at the top "
+"(just make sure you include an image in every post for it to work nicely)... "
+"rock on!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Spencer"
+msgstr ""

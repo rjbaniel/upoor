@@ -1,0 +1,359 @@
+# Copyright (C) 2013 Mike Purdy
+# This file is distributed under the same license as the Quentin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quentin 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/quentin\n"
+"POT-Creation-Date: 2013-06-28 10:18:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24
+msgid ""
+"The <acronym title=\"Uniform Resource Identifier\">URI</acronym> to "
+"TrackBack this entry is:"
+msgstr ""
+
+#: comments.php:26
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments.php:31
+msgid "Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:31
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:33
+msgid "Leave a comment."
+msgstr ""
+
+#: comments.php:60
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:88
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:92
+msgid "You must be"
+msgstr ""
+
+#: comments.php:92
+msgid "logged in"
+msgstr ""
+
+#: comments.php:92
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:104
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:104
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:104
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:109
+msgid "Name"
+msgstr ""
+
+#: comments.php:109 comments.php:112
+msgid "(required)"
+msgstr ""
+
+#: comments.php:112
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:115
+msgid "Website"
+msgstr ""
+
+#: comments.php:119
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:123
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:7
+msgid "Y"
+msgstr ""
+
+#: functions.php:8
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: functions.php:8
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+msgstr ""
+
+#: functions.php:9
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: functions.php:9
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+msgstr ""
+
+#: functions.php:11
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:45
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:72
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:90
+msgid "Home"
+msgstr ""
+
+#: functions.php:186
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:187
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:191
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:223
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:224
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:244
+msgid "Position"
+msgstr ""
+
+#: functions.php:245
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:248
+msgid "Left"
+msgstr ""
+
+#: functions.php:252
+msgid "Center"
+msgstr ""
+
+#: functions.php:256
+msgid "Right"
+msgstr ""
+
+#: functions.php:262
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:263
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:264
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:265
+msgid "Tile"
+msgstr ""
+
+#: functions.php:266
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:267
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:272
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:273
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:276
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:280
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:288
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:291
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:359 index.php:39 single.php:33
+msgid "on"
+msgstr ""
+
+#: functions.php:359 index.php:39 single.php:33
+msgid "at"
+msgstr ""
+
+#: functions.php:361
+msgid "Edit This"
+msgstr ""
+
+#: functions.php:364
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:440
+msgid "Calendar"
+msgstr ""
+
+#: functions.php:441 functions.php:459 sidebar.php:10
+msgid "Search"
+msgstr ""
+
+#: headline.php:5 headline.php:11 headline.php:14 headline.php:17
+msgid "Archive for"
+msgstr ""
+
+#: headline.php:8
+msgid "Posts tagged with"
+msgstr ""
+
+#: headline.php:20
+msgid "Author Archive"
+msgstr ""
+
+#: headline.php:33
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: headline.php:37
+msgid "Homepage:"
+msgstr ""
+
+#: headline.php:38
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: headline.php:39
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: headline.php:40
+msgid "AIM:"
+msgstr ""
+
+#: headline.php:47
+msgid "Search Results"
+msgstr ""
+
+#: index.php:12 single.php:12
+msgid "Permanent Link:"
+msgstr ""
+
+#: index.php:27 single.php:21
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: index.php:39 single.php:33
+msgid "Published in:"
+msgstr ""
+
+#: index.php:40 single.php:34
+msgid "Comments (0)"
+msgstr ""
+
+#: index.php:40 single.php:34
+msgid "Comments (1)"
+msgstr ""
+
+#: index.php:40 single.php:34
+msgid "Comments (%)"
+msgstr ""
+
+#: index.php:42 single.php:36
+msgid "Tags: "
+msgstr ""
+
+#: index.php:65 single.php:59
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: index.php:66 single.php:60
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: index.php:70 single.php:64
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: sidebar.php:17
+msgid "Categories:"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Archives:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Quentin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A dignified theme, it says here."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mike Purdy"
+msgstr ""

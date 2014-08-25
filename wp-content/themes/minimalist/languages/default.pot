@@ -1,0 +1,342 @@
+# Copyright (C) 2013 Joey Robinson
+# This file is distributed under the same license as the Minimalist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimalist 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/minimalist\n"
+"POT-Creation-Date: 2013-06-28 10:18:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archive.php:21
+msgid "News for the"
+msgstr ""
+
+#: archive.php:21
+msgid "Category"
+msgstr ""
+
+#: archive.php:25
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:29 archive.php:33 archive.php:37
+msgid "News for"
+msgstr ""
+
+#: archive.php:41
+msgid "Author News Archive"
+msgstr ""
+
+#: archive.php:45
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:59 index.php:15 page.php:11 single.php:14
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:70 index.php:21 search.php:19 single.php:21
+msgid "Posted:"
+msgstr ""
+
+#: archive.php:71 index.php:22 search.php:20 single.php:22
+msgid "Categories:"
+msgstr ""
+
+#: archive.php:72 index.php:23 search.php:21 single.php:23
+msgid "Tags:"
+msgstr ""
+
+#: archive.php:73 index.php:24 search.php:22 single.php:24
+msgid "Comments:"
+msgstr ""
+
+#: archive.php:73 index.php:24 search.php:22 single.php:24
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:73 index.php:24 search.php:22 single.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:73 index.php:24 search.php:22 single.php:24
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:2
+msgid "This page is password protected. Enter your password to continue!"
+msgstr ""
+
+#: comments.php:30
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:44
+msgid "Write a comment"
+msgstr ""
+
+#: comments.php:52
+msgid "You must be"
+msgstr ""
+
+#: comments.php:52
+msgid "logged in"
+msgstr ""
+
+#: comments.php:52
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:62
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:62
+msgid "Logout"
+msgstr ""
+
+#: comments.php:65
+msgid "Name:"
+msgstr ""
+
+#: comments.php:67
+msgid "E-mail:"
+msgstr ""
+
+#: comments.php:69
+msgid "URL:"
+msgstr ""
+
+#: comments.php:73
+msgid "Message:"
+msgstr ""
+
+#: comments.php:76
+msgid "Submit!"
+msgstr ""
+
+#: footer.php:7
+msgid "Y"
+msgstr ""
+
+#: footer.php:8
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:26
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:53
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:71
+msgid "Home"
+msgstr ""
+
+#: functions.php:167
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:168
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:172
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:204
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:205
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:225
+msgid "Position"
+msgstr ""
+
+#: functions.php:226
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:229
+msgid "Left"
+msgstr ""
+
+#: functions.php:233
+msgid "Center"
+msgstr ""
+
+#: functions.php:237
+msgid "Right"
+msgstr ""
+
+#: functions.php:243
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:244
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:245
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:246
+msgid "Tile"
+msgstr ""
+
+#: functions.php:247
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:248
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:253
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:254
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:257
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:261
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:269
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:272
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:354 sidebar.php:4
+msgid "Pages"
+msgstr ""
+
+#: functions.php:362 searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: functions.php:372 sidebar.php:27
+msgid "Links"
+msgstr ""
+
+#: functions.php:395
+msgid "from"
+msgstr ""
+
+#: functions.php:403
+msgid ""
+"Thank you for your comment! It has been added to the moderation queue and "
+"will be published here if approved by the webmaster."
+msgstr ""
+
+#: index.php:16
+msgid "Read more &raquo;"
+msgstr ""
+
+#: index.php:31 search.php:29
+msgid "Previous entries"
+msgstr ""
+
+#: index.php:32 search.php:30
+msgid "Next entries"
+msgstr ""
+
+#: index.php:36
+msgid "Not found!"
+msgstr ""
+
+#: index.php:37
+msgid ""
+"Could not find the requested page. Use the navigation menu to find your "
+"target, or use the search box below:"
+msgstr ""
+
+#: page.php:13
+msgid "<p class=\"serif\">Read more &raquo;</p>"
+msgstr ""
+
+#: page.php:15
+msgid "Edit this page"
+msgstr ""
+
+#: search.php:34
+msgid "Search results"
+msgstr ""
+
+#: search.php:35
+msgid ""
+"No matches. Please try again, or use the navigation menus to find what you "
+"search for."
+msgstr ""
+
+#: searchform.php:1
+msgid "Site search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:34
+msgid "Customise"
+msgstr ""
+
+#: sidebar.php:49
+msgid "Info"
+msgstr ""
+
+#: single.php:16
+msgid "<p>Read more &raquo;</p>"
+msgstr ""
+
+#: single.php:31
+msgid "No matching entries found."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Minimalist"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fast loading, minimalist theme, 5 different colour schemes, no images, cool."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Joey Robinson"
+msgstr ""

@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ocadia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-28 19:37+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\ocadia\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/404.php:3
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:100
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:26
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/404.php:5
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:27
+msgid "Sorry, but the page you requested cannot be found."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:86
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:86
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:27
+msgid "Jump to the comments form"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:55
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:88
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:92
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:92
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:92
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:102
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:102
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:102
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:108
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:108
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:113
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:113
+msgid "E-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:118
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:118
+msgid "URI"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/comments.php:128
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/footer.php:2
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/footer.php:2
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/footer.php:4
+msgid "Design by Beccary"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/footer.php:5
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/functions.php:37
+msgid "said"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/functions.php:38
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:9
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/functions.php:38
+msgid "Permanent link to this comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/functions.php:38
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:87
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/page.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:17
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/functions.php:93
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/searchform.php:5
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:27
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/functions.php:104
+msgid "GO"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:21
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:12
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:37
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:41
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:42
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:43
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:44
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:51
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:85
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:8
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:16
+msgid "Permanent link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:9
+msgid "Posted in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:66
+msgid "tagged "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:9
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:77
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:12
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:85
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/single.php:16
+msgid "Permalink"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:86
+msgid "Comments off"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:95
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:95
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/index.php:102
+msgid "Sorry, but no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/page.php:7
+msgid "Read the rest of this page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:10
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:20
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:33
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:43
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:47
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:47
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:48
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\ocadia/sidebar.php:48
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+

@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: light\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-27 18:14+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\light\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/404.php:5
+msgid "The page you requested is no longer here!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/404.php:6
+msgid "Visit the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/404.php:6
+msgid "Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/404.php:7
+msgid "In order to improve our service, can you inform us that someone else has an incorrect link to our site?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/404.php:8
+msgid "Report broken link"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:21
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:24
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:15
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:27
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:40
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:44
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:45
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:46
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:47
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:54
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:70
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:11
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:70
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/functions.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:11
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:73
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:14
+msgid " Comments(0)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:73
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:14
+msgid " Comments(1)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:73
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:14
+msgid " Comments(%)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:74
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:15
+msgid " Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:83
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:90
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:22
+#, php-format
+msgid "category: %s &nbsp;&nbsp;&nbsp; %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:83
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:90
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:22
+msgid "tags: "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/page.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:20
+msgid "Read more &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:108
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:51
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/page.php:32
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:44
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:112
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:48
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/archive.php:112
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/index.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/single.php:48
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:25
+msgid "No Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:25
+msgid "1 Comment so far"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:25
+msgid "% Comments so far"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:48
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:65
+msgid "No comments yet"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:74
+msgid "Posting your comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:79
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:81
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:81
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:81
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:91
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:96
+msgid "name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:97
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:107
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:103
+msgid "email"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:105
+msgid "will not be shown"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:113
+msgid "website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:117
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/comments.php:122
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/footer.php:3
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/footer.php:3
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/footer.php:4
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/footer.php:5
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/functions.php:41
+msgid "Edit This"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/functions.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/header.php:59
+msgid "Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/page.php:13
+msgid "<strong> Edit</strong>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/pagefunctions.php:20
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/sidebar.php:5
+msgid "Find"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/sidebar.php:10
+msgid "Monthly Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/sidebar.php:14
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/sidebar.php:18
+msgid "Stay Updated"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/sidebar.php:20
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\light/sidebar.php:20
+msgid "RSS Articles"
+msgstr ""
+

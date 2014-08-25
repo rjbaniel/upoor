@@ -1,0 +1,14 @@
+dd{padding:0;}
+pre{white-space:normal;}
+#nav ul li ul li{background:url(../images/ie_fix.gif) no-repeat;}
+.contentbox {background:url(../images/ie_fix.gif) no-repeat;}
+.widgetbox ul li a{padding:2px 0;}
+.widgetbox2 ul li{padding:2px 3px 1px;}
+.widgetwrap{border-bottom:1px solid #CCC;}
+.widgetwrap-large form{background:url(../images/ie_fix.gif) no-repeat;}
+#searchform_onpage input{width:300px;}
+.commentform_blockdiv textarea{margin:0 0 0 3px;width:535px;}
+.c_input{margin:0 0 0 3px;}
+.c_submit{margin:0 0 0 3px;}
+
+/* 12852-1333369299 */

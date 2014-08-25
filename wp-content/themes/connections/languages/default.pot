@@ -1,0 +1,415 @@
+# Copyright (C) 2013 Patricia Muller
+# This file is distributed under the same license as the Connections package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Connections 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/connections\n"
+"POT-Creation-Date: 2013-06-28 10:17:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: category.php:6
+msgid "Archived Posts from this Category"
+msgstr ""
+
+#: category.php:16 date.php:47 index.php:11 search.php:35 single.php:11
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:24
+msgid "One Response"
+msgstr ""
+
+#: comments.php:24
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:24
+msgid "to"
+msgstr ""
+
+#: comments.php:51
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:81
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:93
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: comments.php:93
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:93
+msgid "Logout"
+msgstr ""
+
+#: comments.php:98
+msgid "Name"
+msgstr ""
+
+#: comments.php:98 comments.php:101
+msgid "(required)"
+msgstr ""
+
+#: comments.php:101
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:104
+msgid "Website"
+msgstr ""
+
+#: comments.php:108
+msgid "<strong>XHTML:</strong> You can use these tags:"
+msgstr ""
+
+#: comments.php:112
+msgid "Submit Comment"
+msgstr ""
+
+#: date.php:15
+msgid "Daily Archive"
+msgstr ""
+
+#: date.php:21
+msgid "Monthly Archive"
+msgstr ""
+
+#: date.php:29
+msgid "Yearly Archive"
+msgstr ""
+
+#: date.php:57 date.php:65 date.php:73 search.php:43
+msgid "Currently Browsing"
+msgstr ""
+
+#: date.php:57 date.php:65 date.php:73
+msgid "You are currently browsing the"
+msgstr ""
+
+#: date.php:57 date.php:65 date.php:73
+msgid "weblog archives"
+msgstr ""
+
+#: date.php:59
+msgid "for the day"
+msgstr ""
+
+#: date.php:75
+msgid "for the year"
+msgstr ""
+
+#: footer.php:1
+msgid "Y"
+msgstr ""
+
+#: footer.php:1
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:77 header.php:43
+msgid "Home"
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:174
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:178
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:211
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:231
+msgid "Position"
+msgstr ""
+
+#: functions.php:232
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Left"
+msgstr ""
+
+#: functions.php:239
+msgid "Center"
+msgstr ""
+
+#: functions.php:243
+msgid "Right"
+msgstr ""
+
+#: functions.php:249
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:259
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:260
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:267
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:278
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:351
+msgid "<cite>%s</cite> Says:"
+msgstr ""
+
+#: functions.php:353
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:356 single.php:20
+msgid "at"
+msgstr ""
+
+#: page.php:6 post.php:2
+msgid "Permanent Link:"
+msgstr ""
+
+#: page.php:7 post.php:3
+msgid "(edit this)"
+msgstr ""
+
+#: page.php:13
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: post.php:3
+msgid "Posted by"
+msgstr ""
+
+#: post.php:3 single.php:23
+msgid "Tags"
+msgstr ""
+
+#: post.php:3
+msgid "No Comments"
+msgstr ""
+
+#: post.php:3
+msgid "1 Comment"
+msgstr ""
+
+#: post.php:3
+msgid "[%] Comments"
+msgstr ""
+
+#: post.php:15
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:13
+msgid "Did you find what you wanted ?"
+msgstr ""
+
+#: search.php:25
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: search.php:33
+msgid "Not Found"
+msgstr ""
+
+#: search.php:43
+msgid "You have searched the archives"
+msgstr ""
+
+#: search.php:45
+msgid "for"
+msgstr ""
+
+#: search.php:45
+msgid ""
+"If you are unable to find anything in these search results, you can try one "
+"of these links."
+msgstr ""
+
+#: sidebar.php:8
+msgid "Links"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Categories:"
+msgstr ""
+
+#: sidebar.php:15
+msgid "Search:"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Monthly:"
+msgstr ""
+
+#: single.php:17
+msgid "Archived Entry"
+msgstr ""
+
+#: single.php:19
+msgid "<strong>Post Date :</strong>"
+msgstr ""
+
+#: single.php:21
+msgid "<strong>Category :</strong>"
+msgstr ""
+
+#: single.php:22
+msgid ", "
+msgstr ""
+
+#: single.php:24
+msgid "<strong>Do More :</strong>"
+msgstr ""
+
+#: single.php:27
+msgid "You can"
+msgstr ""
+
+#: single.php:27
+msgid "leave a response"
+msgstr ""
+
+#: single.php:27
+msgid "or"
+msgstr ""
+
+#: single.php:31
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: single.php:31
+msgid "trackback"
+msgstr ""
+
+#: single.php:31
+msgid "from your own site."
+msgstr ""
+
+#: single.php:36
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: single.php:40
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: single.php:42
+msgid "Edit this entry."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Connections"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Styled theme that's going places with a customisable header."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Patricia Muller"
+msgstr ""

@@ -1,0 +1,177 @@
+/* -----------------------------------*/
+/* >> Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom-navigation {
+	margin: 0px 0px 15px;
+	padding: 0px;
+	float: left;
+	width: 100%;
+    background: #e2e2e2; /* old browsers */
+    border-bottom: 1px solid #ddd;
+
+background: -moz-linear-gradient(top, #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); /* firefox */
+
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2e2e2), color-stop(50%,#dbdbdb), color-stop(51%,#d1d1d1), color-stop(100%,#fefefe)); /* webkit */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* ie */
+
+background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* opera */
+	}
+
+#nav {
+	margin: 0px !important;
+	padding: 0px !important;
+	list-style: none;
+	float: left;
+	position: relative;
+	font-size: 1em;
+    z-index: 1000 !important;
+    width: 100%;
+}
+#nav ul {
+	background: transparent;
+}
+
+
+#nav li {
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	}   
+#nav li:hover {
+	position: relative;
+	display: inline-block;
+	float: left;
+	
+	margin: 0px;
+	padding: 0px;
+	
+	}
+
+#nav li li{
+	background: url(none)!important;
+	padding: 0px!important;
+	z-index: 999;
+	}
+
+#nav li ul {
+	position: absolute;
+	left: 0px; /* Set 1px less than menu width */
+	top: 28px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+	}
+
+/* Styles for Menu Items */
+#nav li a {
+	text-decoration: none;
+	color: #000;
+	display: inline-block;
+	padding: 0px 15px;
+	margin: 0px;
+	float: left;
+	font-size: 1em;
+	line-height: 28px;
+	}
+#nav li a:hover {
+	text-decoration: none;
+	color: #FFF;
+	display: inline-block;
+	padding: 0px 15px;
+	margin: 0px;
+	float: left;
+	font-size: 1em;
+	line-height: 28px;
+	background: #333333;
+	}
+
+#nav ul li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	display: inline-block;
+	padding: 5px 12px 5px 17px;
+	margin: 0px;
+	float: left;
+	background: #000000!important;
+	border-bottom: 1px solid #333;
+	width: 215px;
+	font-size: 1em;
+	line-height: 18px;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	}
+#nav ul li a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	display: inline-block;
+	background: #333!important;
+	padding: 5px 12px 5px 17px;
+	margin: 0px;
+	float: left;
+	border-bottom: 1px solid #000000;
+	width: 215px;
+	font-size: 1em;
+	line-height: 18px;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	}
+
+/* Holly Hack. IE Requirement \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+
+#nav li:hover ul, #nav li.over ul { display: block; } /* The magic */
+#custom #nav li ul li:hover ul, #custom #nav li ul li.over ul { display: block; } /* The magic */
+#custom #nav li ul li ul li:hover ul, #custom #nav li ul li ul li.over ul { display: block !important; } /* The magic */
+/* -----------------------------------*/
+/* >> End Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom #nav li ul li ul {
+	position: absolute;
+	left: 240px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+#custom #nav li ul li ul li ul {
+	position: absolute;
+	left: 240px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none !important;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+
+/* 12852-1333369299 */

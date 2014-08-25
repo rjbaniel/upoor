@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jakarta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-25 18:04+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\jakarta\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/404.php:7
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:22
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:25
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:16
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:41
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:45
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:46
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:47
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:48
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:55
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:103
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:45
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:66
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:104
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:46
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:71
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:13
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:85
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:27
+msgid "...Click here to read more"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:37
+msgid "Posted by "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:37
+msgid "in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:37
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:37
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:37
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:37
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archive.php:109
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:50
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archives.php:16
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/archives.php:21
+msgid "Archives by Subject:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:23
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:45
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:73
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:73
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:73
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:83
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:83
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:83
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:88
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:91
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:91
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:94
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:98
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/comments.php:102
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/footer.php:5
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/footer.php:5
+msgid "is proudly powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/footer.php:6
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/footer.php:8
+msgid "Entries (RSS)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/footer.php:9
+msgid "and "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/footer.php:9
+msgid "Comments (RSS)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/functions.php:45
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/functions.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/functions.php:51
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:31
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/functions.php:51
+msgid "e"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:39
+msgid "Bigger Font Size"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:40
+msgid "Smaller Font Size"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:41
+msgid "Left Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:42
+msgid "Justify Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:43
+msgid "Right Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:44
+msgid "Bookmark This Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/header.php:45
+msgid "Print This Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/index.php:51
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/links.php:11
+msgid "Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/page.php:12
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/page.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:22
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/page.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:52
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/searchform.php:3
+msgid "Find"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/sidebar.php:22
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/sidebar.php:26
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/sidebar.php:28
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/sidebar.php:34
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/sidebar.php:43
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/sidebar.php:48
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:16
+msgid "bookmark"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:16
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:20
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:26
+msgid "This entry was posted"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:31
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:31
+msgid "l, F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:32
+msgid "Filed under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:32
+msgid "tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:33
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:33
+msgid "feed"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:37
+msgid "You can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:37
+msgid "leave a response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:37
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:41
+msgid "trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:41
+msgid "from your own site."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:41
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:46
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:50
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\jakarta/single.php:64
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

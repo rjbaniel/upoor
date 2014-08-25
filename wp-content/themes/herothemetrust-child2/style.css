@@ -1,0 +1,13 @@
+/*  
+Theme Name: Heroprint
+Theme URI: http://themetrust.com/themes/hero
+Description: Hero with full content for Posts & printing (with edits by Emily & Chris)
+Version: 1.0.6
+Author: Theme Trust (with edits by Emily & Chris)
+Author URI: http://themetrust.com
+Template: herothemetrust
+Tags: portfolio, responsive, blog, clean, minimal, white, two-columns, threaded-comments, translation-ready, custom-menus
+*/
+
+/* =Imports styles from the parent theme */
+@import url('../herothemetrust/style.css');

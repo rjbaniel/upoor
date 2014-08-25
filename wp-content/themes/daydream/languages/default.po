@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: daydream\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-24 03:11+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\daydream\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:10
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:10
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:17
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:21
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:14
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:25
+msgid "Search Results for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:39
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:7
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/searchtags.php:16
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:8
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:13
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:8
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:13
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:8
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:13
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:52
+msgid "...more &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:61
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:17
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:22
+msgid "Categorised in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:61
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:17
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:22
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/searchtags.php:22
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:62
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:23
+msgid "Tags: "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:83
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:38
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:84
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:30
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:39
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archive.php:91
+msgid "No Data Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archives.php:8
+msgid "Archives by Month"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/archives.php:13
+msgid "Archives by Subject"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:8
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:13
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/page.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:15
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:22
+msgid "This entry was posted"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:23
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:29
+msgid "l, F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/functions.php:396
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:23
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:30
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:24
+msgid "and is filed under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:31
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:31
+msgid "feed"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:35
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:32
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:36
+msgid "You can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:35
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:36
+msgid "leave a response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:35
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:36
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:35
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:39
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:36
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:40
+msgid "trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:35
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:39
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:36
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:40
+msgid "from your own site"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:39
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:40
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:43
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:47
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:48
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/page.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:50
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/attachment.php:61
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:48
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:66
+msgid "There are no comments on this post"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:85
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:88
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:88
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:88
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:98
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:98
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:98
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:103
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:106
+msgid "Mail (not published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:109
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:113
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/comments.php:117
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/footer.php:2
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/footer.php:3
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/footer.php:3
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/functions.php:297
+msgid "Uncategorized"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/functions.php:308
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/functions.php:391
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/header.php:8
+msgid "Blog Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/header.php:138
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/searchtags.php:19
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:35
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/index.php:36
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/links.php:5
+msgid "Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:7
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/search.php:47
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/searchtags.php:22
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/searchtags.php:22
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/searchtags.php:22
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/sidebar.php:10
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/sidebar.php:22
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/sidebar.php:26
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:24
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:28
+msgid "Tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:32
+msgid "this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:44
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed. "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/single.php:59
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\daydream/tags.php:18
+msgid ""
+"A tag cloud (more traditionally known as a weighted list in the field of visual design)\n"
+"\t\t\t\tis a visual depiction of content tags used on this blog."
+msgstr ""
+

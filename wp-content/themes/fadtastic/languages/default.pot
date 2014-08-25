@@ -1,0 +1,404 @@
+# Copyright (C) 2013 Andrew Faulkner
+# This file is distributed under the same license as the Fadtastic package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fadtastic 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/fadtastic\n"
+"POT-Creation-Date: 2013-06-28 10:17:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:6
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:8
+msgid "Sorry - this page cannot be found. Why not to search our archives?"
+msgstr ""
+
+#: archive.php:13 archive.php:17 archive.php:21
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:14
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:25 search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:41 archive.php:48 index.php:11 index.php:17 index.php:54
+#: search.php:13 search.php:18 single.php:8
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:42 index.php:12 index.php:55 single.php:9
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:42 index.php:12 index.php:55 single.php:9
+msgid "on"
+msgstr ""
+
+#: archive.php:42 index.php:12 index.php:55 single.php:9
+msgid "Tagged"
+msgstr ""
+
+#: archive.php:48 index.php:17
+msgid "Read Full Post"
+msgstr ""
+
+#: archive.php:48 index.php:20
+msgid "Make a comment"
+msgstr ""
+
+#: archive.php:48 index.php:20
+msgid "Make a Comment"
+msgstr ""
+
+#: archive.php:48 comments.php:27 index.php:27
+msgid "so far"
+msgstr ""
+
+#: archive.php:55 search.php:24
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:55 search.php:24
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:59 index.php:36 index.php:62 single.php:24
+msgid "Not Found"
+msgstr ""
+
+#: author.php:14 sidebar.php:6
+msgid "About"
+msgstr ""
+
+#: author.php:16
+msgid "Profile:"
+msgstr ""
+
+#: author.php:17
+msgid "Website:"
+msgstr ""
+
+#: author.php:20
+msgid "Latest posts by"
+msgstr ""
+
+#: author.php:24
+msgid "Permanent Link:"
+msgstr ""
+
+#: author.php:26
+msgid "in"
+msgstr ""
+
+#: author.php:29
+msgid "No posts by this author."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:27
+msgid "Make A Comment:"
+msgstr ""
+
+#: comments.php:37
+msgid "You must be"
+msgstr ""
+
+#: comments.php:37
+msgid "logged in"
+msgstr ""
+
+#: comments.php:37
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:43
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:43
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:43
+msgid "Logout"
+msgstr ""
+
+#: comments.php:46 comments.php:62
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:47
+msgid "Change comment box size: "
+msgstr ""
+
+#: comments.php:48
+msgid "(<em>blockquote</em> and <em>a</em> tags work here.)"
+msgstr ""
+
+#: comments.php:53 comments.php:83
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:69
+msgid "Name"
+msgstr ""
+
+#: comments.php:72
+msgid "Mail"
+msgstr ""
+
+#: comments.php:74
+msgid "Website"
+msgstr ""
+
+#: comments.php:86
+msgid "<em>blockquote</em> and <em>a</em> tags work here."
+msgstr ""
+
+#: comments.php:108
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:108
+msgid "One Response"
+msgstr ""
+
+#: comments.php:108
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:108
+msgid "to"
+msgstr ""
+
+#: comments.php:132
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:142
+msgid "Where's The Comment Form?"
+msgstr ""
+
+#: comments.php:150
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:5
+msgid "Liked it here?"
+msgstr ""
+
+#: footer.php:6
+msgid "Why not tryout the sites on the blogroll..."
+msgstr ""
+
+#: footer.php:25
+msgid "Y"
+msgstr ""
+
+#: footer.php:27
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:77
+msgid "Home"
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:174
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:178
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:211
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:231
+msgid "Position"
+msgstr ""
+
+#: functions.php:232
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Left"
+msgstr ""
+
+#: functions.php:239
+msgid "Center"
+msgstr ""
+
+#: functions.php:243
+msgid "Right"
+msgstr ""
+
+#: functions.php:249
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:259
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:260
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:267
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:278
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:364
+msgid "edit"
+msgstr ""
+
+#: functions.php:371
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:442
+msgid "Links"
+msgstr ""
+
+#: index.php:37 index.php:63 single.php:25
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: index.php:44
+msgid "Recently on"
+msgstr ""
+
+#: search.php:29
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:9
+msgid "RSS"
+msgstr ""
+
+#: sidebar.php:15
+msgid "Subscribe Via RSS"
+msgstr ""
+
+#: sidebar.php:22
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:38
+msgid "Topics"
+msgstr ""
+
+#: sidebar.php:43
+msgid "Archives"
+msgstr ""
+
+#: single.php:9
+msgid "Category:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Fadtastic"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A cheerful 'double the sidebar' specialist"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andrew Faulkner"
+msgstr ""

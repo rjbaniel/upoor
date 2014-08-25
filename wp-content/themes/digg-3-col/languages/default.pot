@@ -1,0 +1,413 @@
+# Copyright (C) 2013 Small Potato
+# This file is distributed under the same license as the Digg 3 Columns package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Digg 3 Columns 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/digg-3-col\n"
+"POT-Creation-Date: 2013-06-28 10:17:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:9 archive.php:42 index.php:38 page.php:31 search.php:78
+#: single.php:39
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:12 archive.php:45 index.php:41 page.php:34 search.php:87
+#: single.php:42
+msgid "Sorry, but you are looking for something that isn&#39;t here."
+msgstr ""
+
+#: archive.php:14 index.php:14 search.php:30 single.php:15
+msgid "Posted on"
+msgstr ""
+
+#: archive.php:14 search.php:30
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:14 index.php:14 search.php:30 single.php:15
+msgid "by"
+msgstr ""
+
+#: archive.php:14 index.php:14 search.php:30 single.php:15
+msgid "Edit"
+msgstr ""
+
+#: archive.php:25 index.php:24 search.php:41 single.php:25
+msgid "Filed under&#58;"
+msgstr ""
+
+#: archive.php:25 index.php:24 search.php:41
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:25 index.php:24 search.php:41
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:25 index.php:24 search.php:41
+msgid "% Comments &#187;"
+msgstr ""
+
+#: comments-popup.php:25 comments-popup.php:61
+msgid "Comments"
+msgstr ""
+
+#: comments-popup.php:25 functions.php:361
+msgid "on"
+msgstr ""
+
+#: comments-popup.php:67
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments-popup.php:127
+msgid "Comment"
+msgstr ""
+
+#: comments-popup.php:127
+msgid "Trackback"
+msgstr ""
+
+#: comments-popup.php:127
+msgid "Pingback"
+msgstr ""
+
+#: comments-popup.php:148
+msgid "No comments yet."
+msgstr ""
+
+#: comments-popup.php:160
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-popup.php:163
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: comments-popup.php:178 comments.php:92
+msgid "Name"
+msgstr ""
+
+#: comments-popup.php:199
+msgid "E-mail"
+msgstr ""
+
+#: comments-popup.php:214
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: comments-popup.php:226
+msgid "Your Comment"
+msgstr ""
+
+#: comments-popup.php:244
+msgid "Say It!"
+msgstr ""
+
+#: comments-popup.php:259
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-popup.php:274
+msgid "Close this window."
+msgstr ""
+
+#: comments-popup.php:298
+msgid "Provided by"
+msgstr ""
+
+#: comments-popup.php:298
+msgid ""
+"Provided by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: comments.php:7
+msgid "Password Protected"
+msgstr ""
+
+#: comments.php:8
+msgid "Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "to"
+msgstr ""
+
+#: comments.php:46
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:71
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:74
+msgid "You must be"
+msgstr ""
+
+#: comments.php:74
+msgid "logged in"
+msgstr ""
+
+#: comments.php:74
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:87
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:87
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:87
+msgid "Logout"
+msgstr ""
+
+#: comments.php:95
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:98
+msgid "Website"
+msgstr ""
+
+#: comments.php:102
+msgid "You can use these tags&#58;"
+msgstr ""
+
+#: comments.php:106
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:6
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:6
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:63
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:81
+msgid "Home"
+msgstr ""
+
+#: functions.php:177
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:178
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:182
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:214
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:215
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:235
+msgid "Position"
+msgstr ""
+
+#: functions.php:236
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:239
+msgid "Left"
+msgstr ""
+
+#: functions.php:243
+msgid "Center"
+msgstr ""
+
+#: functions.php:247
+msgid "Right"
+msgstr ""
+
+#: functions.php:253
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:255
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile"
+msgstr ""
+
+#: functions.php:257
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:258
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:263
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:264
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:267
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:271
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:279
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:282
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:361
+msgid "at"
+msgstr ""
+
+#: functions.php:361
+msgid "Said&#58;"
+msgstr ""
+
+#: functions.php:363
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:91
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: header.php:91
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: header.php:91
+msgid "Syndicate comments using RSS"
+msgstr ""
+
+#: header.php:91
+msgid "Comments RSS"
+msgstr ""
+
+#: index.php:19
+msgid "...read more"
+msgstr ""
+
+#: index.php:21 page.php:17 single.php:22
+msgid "Pages:"
+msgstr ""
+
+#: index.php:24
+msgid "Tagged under"
+msgstr ""
+
+#: obar.php:8 pagefunctions.php:12
+msgid "Pages"
+msgstr ""
+
+#: obar.php:10
+msgid "Categories"
+msgstr ""
+
+#: obar.php:16
+msgid "Archives"
+msgstr ""
+
+#: page.php:18
+msgid "Edit this entry."
+msgstr ""
+
+#: searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Calendar"
+msgstr ""
+
+#: sidebar.php:52
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:67
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: single.php:25
+msgid "Tagged"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Digg 3 Columns"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Like Digg, surprisingly."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Small Potato"
+msgstr ""

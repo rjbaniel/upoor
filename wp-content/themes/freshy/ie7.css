@@ -1,0 +1,13 @@
+.menu li a {
+	display: block;
+	padding-top: 32px;
+	height: 48px;
+}
+#page {
+	padding-left: 1px;
+}
+#footer {
+	margin-left: -1px;
+}
+
+/* 12852-1333369299 */

@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fadtastic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-22 03:28+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\fadtastic\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/404.php:6
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/404.php:6
+msgid "Page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/404.php:8
+msgid "Sorry - this page cannot be found. Why not to search our archives?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:17
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:21
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/functions.php:44
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:41
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:48
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:17
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:50
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/search.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/search.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/single.php:8
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:42
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:51
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:42
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:51
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:42
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:51
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/single.php:9
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:48
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:17
+msgid "Read Full Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:48
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:20
+msgid "Make a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:48
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:20
+msgid "Make a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:48
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:27
+msgid "so far"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/search.php:24
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/search.php:24
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/archive.php:59
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:36
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:58
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/single.php:26
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:6
+msgid "About"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:16
+msgid "Profile:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:17
+msgid "Website:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:20
+msgid "Latest posts by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:24
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:26
+msgid "in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/author.php:29
+msgid "No posts by this author."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:27
+msgid "Make A Comment:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:32
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:32
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:32
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:38
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:38
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:38
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:56
+msgid "Your Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:47
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:77
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:63
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:68
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:98
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:98
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:98
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:98
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:115
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/functions.php:40
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/comments.php:145
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/footer.php:24
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/functions.php:38
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/functions.php:44
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/functions.php:107
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:59
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/single.php:27
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/index.php:44
+msgid "Recently on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/page.php:10
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/search.php:29
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/searchform.php:2
+msgid "Search:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:9
+msgid "RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:15
+msgid "Subscribe Via RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:22
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:38
+msgid "Topics"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\fadtastic/sidebar.php:43
+msgid "Archives"
+msgstr ""
+

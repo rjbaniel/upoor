@@ -1,0 +1,225 @@
+/* -----------------------------------*/
+/* >> Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom-navigation {
+	margin: 0px auto;
+	padding: 0px;
+	width: 800px;
+
+    position: relative;
+	}
+.cwrap {
+  position: absolute;
+  right: -70px;
+  bottom: -100px;
+}
+
+
+#nav li.current_page_item a, #nav li.current_menu_item a, #nav li.current_page_item a:hover, #nav li.current_menu_item a:hover {
+  -moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+
+  color: #fff;
+  background: #968357; /* Old browsers */
+background: -moz-linear-gradient(top, #968357 0%, #4F410A 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#968357), color-stop(100%,#4F410A)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #968357 0%,#4F410A 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #968357 0%,#4F410A 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #968357 0%,#4F410A 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#968357', endColorstr='#4F410A',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #968357 0%,#4F410A 100%); /* W3C */
+
+}
+
+#nav {
+	margin: 0px !important;
+	padding: 0px !important;
+	list-style: none;
+	float: left;
+	position: relative;
+	font-size: 1em;
+    z-index: 1000 !important;
+    width: 100%;
+}
+#nav ul {
+	background: transparent;
+}
+
+
+#nav li {
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	}   
+
+
+#nav li li{
+	background: url(none)!important;
+	padding: 0px!important;
+	z-index: 999;
+	}
+
+#nav li ul {
+	position: absolute;
+	left: 10px; /* Set 1px less than menu width */
+	top: 26px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+    box-shadow: 1px 2px 2px #444;
+	-moz-box-shadow: 1px 2px 2px #444;
+	-webkit-box-shadow: 1px 2px 2px #444;
+
+    background: #D6D6D6; /* Old browsers */
+background: -moz-linear-gradient(top, #D6D6D6 0%, #eeeeee 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#D6D6D6), color-stop(100%,#eeeeee)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #D6D6D6 0%,#eeeeee 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #D6D6D6 0%,#eeeeee 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #D6D6D6 0%,#eeeeee 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D6D6D6', endColorstr='#eeeeee',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #D6D6D6 0%,#eeeeee 100%); /* W3C */
+
+	}
+
+/* Styles for Menu Items */
+#nav li a {
+	text-decoration: none;
+	color: #666;
+	display: inline-block;
+	padding: 0px 15px;
+	margin: 0px 0px 0px 10px;
+	float: left;
+	font-size: 1em;
+	line-height: 28px;
+
+     -moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+    background: #eeeeee; /* Old browsers */
+background: -moz-linear-gradient(top, #eeeeee 22%, #B2B2B2 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(22%,#eeeeee), color-stop(100%,#B2B2B2)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #eeeeee 22%,#B2B2B2 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #eeeeee 22%,#B2B2B2 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #eeeeee 22%,#B2B2B2 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#B2B2B2',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #eeeeee 22%,#B2B2B2 100%); /* W3C */
+
+	}
+#nav li a:hover {
+  	text-decoration: none;
+	color: #333;
+	display: inline-block;
+	padding: 0px 15px;
+   margin: 0px 0px 0px 10px;
+	float: left;
+	font-size: 1em;
+	line-height: 28px;
+
+     -moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+    background: #eeeeee; /* Old browsers */
+background: -moz-linear-gradient(top, #eeeeee 22%, #DBDAD4 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(22%,#eeeeee), color-stop(100%,#DBDAD4)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #eeeeee 22%,#DBDAD4 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #eeeeee 22%,#DBDAD4 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #eeeeee 22%,#DBDAD4 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#DBDAD4',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #eeeeee 22%,#DBDAD4 100%); /* W3C */
+
+	}
+
+#nav ul li a {
+	text-decoration: none;
+	color: #333;
+	display: inline-block;
+	padding: 5px 15px 5px 15px;
+  	margin: 0px !important;
+	float: left;
+	width: 220px;
+	font-size: 1em;
+	line-height: 18px;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+    background: transparent;
+	}
+#nav ul li a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	display: inline-block;
+	padding: 5px 15px 5px 15px;
+	margin: 0px !important;
+	float: left;
+	width: 220px;
+	font-size: 1em;
+	line-height: 18px;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+    background: #000;    -moz-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius:0px;
+	}
+
+/* Holly Hack. IE Requirement \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+
+#nav li:hover ul, #nav li.over ul { display: block; } /* The magic */
+#custom #nav li ul li:hover ul, #custom #nav li ul li.over ul { display: block; } /* The magic */
+#custom #nav li ul li ul li:hover ul, #custom #nav li ul li ul li.over ul { display: block !important; } /* The magic */
+/* -----------------------------------*/
+/* >> End Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom #nav li ul li ul {
+	position: absolute;
+	left: 250px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+#custom #nav li ul li ul li ul {
+	position: absolute;
+	left: 250px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none !important;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+
+/* 12852-1333369299 */

@@ -1,0 +1,540 @@
+/*
+
+Theme Name: Twilight
+
+Description: Purpley-blue mellowness.
+Author: Aubrey Brown
+Tags: white, purple, widget, custom header, threaded comments, fixed width
+WDP ID: 128
+Version: 1.3.7.9
+
+*/
+
+/* Captions and image alignment for wordpress */
+
+div.aligncenter {
+	display: block !important;
+    margin: 0px auto 10px;
+}
+div.alignleft {
+	float: left !important;
+	margin-right: 10px;
+}
+div.alignright {
+	float: right !important;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.wp-caption {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+	background-color: #F8F8F8;
+	padding-top: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 16px;
+    text-align: center !important;
+	padding: 5px 4px;
+	margin: 0;
+	font-family: Arial, Tahoma, "Lucida Sans";
+	color: #949494;
+	font-style: normal;
+}
+
+blockquote p {
+	margin: 0px !important;
+	padding: 0px;
+}
+
+blockquote {
+	margin: 1em 25px;
+	line-height: 24px;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 10px;
+	font-family: Georgia, "Times New Roman", Helvetica, sans-serif;
+	font-style: italic;
+	border-left: 5px solid #000000;
+}
+
+
+pre {
+	margin: 8px 0px;
+	padding: 10px;
+	clear: both;
+	width: 92%;
+	overflow: scroll;
+	font-family: "Courier New", "MS Sans Serif", sans-serif, serif;
+	background: #FFFFFF;
+	color: #000000;
+	font-size: 13px;
+	line-height: 22px;
+	white-space: nowrap;
+	border: 1px solid #eeeeee;
+}
+em {
+	font-style: italic;
+}
+
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	float: right;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	float: left;
+	}
+
+.alignright {
+	float: right;
+	}
+
+.alignleft {
+	float: left;
+	}
+
+.commentlist {
+  margin: 10px 0px 10px 20px;
+  padding: 0px;
+  list-style: none;
+}
+.commentlist li {
+  margin-left: 0px;
+  padding: 8px;
+  width: 98% !important;
+}
+#commentform {
+  width: 90%;
+  padding: 3%;
+}
+
+
+.commentlist .children {
+padding-left: 0px;
+width: 90% !important;
+}
+
+.commentlist .children img.avatar {
+  width: 32px;
+  height: 32px;
+}
+.commentlist .children {
+padding-left: 10px;
+margin-left: 0px;
+margin-top: 10px;
+list-style: none;
+}
+
+.commentlist .children .children img.avatar {
+  width: 25px;
+  height: 25px;
+}
+
+#post-navigator-single {
+width: 100%;
+float: left;
+}
+
+#pings {
+  list-style: none;
+}
+#author-block {
+  width: 94%;
+  padding: 3%;
+  float: left;
+  margin-bottom: 25px;
+  background: #eee;
+}
+#author-block h1 {
+display: block;
+width: 100%;
+float: left;
+font-size: 20px;
+  margin-bottom: 10px;
+}
+#author-block .info {
+ float: left;
+ width: 70%;
+ padding-left: 15px;
+}
+#author-block .info p {
+ font-size: 12px;
+ width: 100%;
+float: left;
+ margin-top: 0px;
+ margin-bottom: 16px;
+ line-height: 20px;
+}
+
+
+/* End captions and image alignment */
+
+
+a, a:link, a:active, a:visited {
+	color: #712796;
+}
+
+blockquote {
+	font-size: 9px;
+	background: #FAF7FD;
+	margin: 10px 30px 10px 30px;
+	padding: 10px 0 10px 0;
+	border: solid 1px #ddd;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #999;
+	font: 11px verdana, helvetica, sans-serif;
+}
+
+cite {
+	font: normal 13px verdana, helvetica, sans-serif;
+}
+
+code {
+	margin-left: 15px;
+}
+
+#container {
+	margin: auto;
+	width: 760px;
+}
+
+#container img.imgheader {
+	margin-left: 15px;
+	border: 0;
+}
+
+.date {
+	font-size: 11px;
+	float: right;
+	clear: right;
+	height: 60px;
+	width: 70px;
+	margin: 5px;
+	border-left: solid 1px #ddd;
+	border-bottom: solid 1px #ddd;
+	background: #FAF7FD;
+}
+
+.date span.day, .date span.month, .date span.year {
+	display: block;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+.date span.day {
+	font: bold 20px georgia, times, serif;
+	color: #ccc;
+}
+
+.date span.month {
+	margin-top: -10px;
+}
+
+
+.date span.year {
+	margin-top: -10px;
+}
+
+.entry {
+	margin-left: 24px;
+	margin-bottom: 12px;
+	width: 500px;
+	background: #F4EBFA;
+	border: solid 1px #ddd;
+}
+
+.entry div#commentform {
+	padding-left: 10px;
+}
+
+
+
+.entry ol li, .entry ul li {
+	margin: 5px 20px 10px 10px;
+	line-height: 15px;
+}
+
+.entry p {
+	margin: 5px 25px 10px 25px;
+	line-height: 18px;
+}
+
+.entry p.entrymeta {
+	border-top: solid 1px #ccc;
+	padding-top: 5px;
+	font-size: 9px;
+	text-align: right;
+}
+
+.entry p.entrymeta a, .entry p.entrymeta a:link, .entry p.entrymeta a:active, .entry p.entrymeta a:visited {
+	font-size: 9px;
+	color: #999;
+}
+
+.entry ul.links {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.entry ul.links li {
+	margin: 0;
+	padding:0;
+	list-style-type: none;
+}
+
+.entry ul.links li ul {
+	margin: 10px 0 10px 0;
+	padding: 0;
+	list-style-type: disc;
+}
+
+.entry ul.links li ul li {
+	margin-left: 40px;
+	line-height: 20px;
+	list-style-type: disc;
+}
+
+#footer {
+	background: #ccc;
+	width: 710px;
+	border-top: solid 1px #aaa;
+	text-align: center;
+	margin: 0 0 0 15px;
+	padding: 3px 0 3px 0;
+	font-size: 9px;
+}
+
+#footer a, #footer a:link, #footer a:active, #footer a:visited {
+	color: #666;
+}
+
+#footer p {
+	padding: 0;
+	margin: 0;
+	line-height: 18px;
+}
+
+form p {
+	margin-left: 15px;
+}
+
+h1	{
+	text-align: right;
+	letter-spacing: 1px;
+	margin: 0 65px 0 0;
+	padding-top: 60px;
+	font: 28px verdana, helvetica, sans-serif;
+	color: #fff;
+}
+
+h1 a:link, h1 a:active, h1 a:visited, h1 a {
+	font-variant: small-caps;
+	text-decoration: none;
+	color: #fff;
+}
+
+h1#comments {
+	margin-bottom: 10px;
+}
+
+h2 {
+	margin: 0 0 10px 10px;
+	padding-top: 5px;
+	font: normal 18px verdana, helvetica, sans-serif;
+	color: #000;
+}
+
+h2 a:link, h2 a:active, h2 a:visited, h2 a {
+	color: #000;
+	text-decoration: none;
+}
+
+h2#comments, h2#respond {
+	padding-left: 10px;
+}
+
+h2 span.comments {
+	margin-left: 15px;
+}
+
+h2 span.comments, h2 span.comments a:link, h2 span.comments a:active, h2 span.comments a:visited, h2 span.comments a {
+	color: #aaa;
+	text-decoration: none;
+}
+
+#header {
+	margin-left: 15px;
+	height: 200px;
+    width: 710px;
+    overflow: hidden;
+}
+
+#header div#description {
+	color: #fff;
+	font-size: 12px;
+	text-align: right;
+	margin-right: 75px;
+}
+
+input#s {
+	border: 0;
+	border-bottom: solid 1px #ccc;
+	background: #fff;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+input#searchsubmit {
+	font: 9px verdana, helvetica, sans-serif;
+}
+
+input, textarea {
+	background: #FAFAFA;
+	border-bottom: solid 1px #ddd;
+	border-right: solid 1px #ddd;
+	border-top: solid 1px #666;
+	border-left: solid 1px #666;
+}
+
+#main {
+	width: 520px;
+	float: left;
+	margin-top: 12px;
+}
+
+.navigation {
+	padding: 0;
+	margin-left: 0;
+	margin-bottom: 15px;
+}
+
+.navigation .alignleft {
+	float: left;
+	text-align: left;
+	padding-left: 25px;
+	margin: 0;
+}
+
+
+.navigation .alignright {
+	float: right;
+	text-align: right;
+	padding: 0;
+}
+
+ol.commentlist {
+	margin: 10px 0 0 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+ol.commentlist li {
+	width: 490px;
+	margin: 0 0 15px 25px;
+	padding: 5px;
+	list-style-type: none;
+}
+
+ol.commentlist li.alt {
+	background: #F4EBFA;
+	border: solid 1px #ddd;
+}
+
+ol.commentlist li.normal p, ol.commentlist li.alt p {
+	margin: 3px 10px 10px 10px;
+}
+
+#sidebar {
+	width: 230px;
+	float: right;
+	margin-top: 10px;
+	font-size: 12px;
+}
+
+#sidebar ul, #sidebar ul li, #sidebar ul li ul, #sidebar ul li ul li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#sidebar ul li h2 {
+	font: italic normal normal 15px verdana, helvetica, sans-serif;
+	color: #999;
+	padding: 0 0 0 10px;
+	margin: 0;
+}
+
+#sidebar ul li p {
+	font: 9px/16px verdana, helvetica, sans-serif;
+	margin: 0 40px 10px 10px;
+}
+
+#sidebar ul li ul {
+	background: #eee;
+	border-top: solid 1px #ddd;
+	border-left: solid 1px #ddd;
+	border-right: solid 1px #ddd;
+	font-size: 11px;
+	margin: 0 45px 15px 10px;
+}
+
+#sidebar ul li ul li {
+	background: #eee;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	color: #999;
+	border-bottom: solid 1px #ddd;
+}
+
+#sidebar ul li ul li a:link, #sidebar ul li ul li a:active, #sidebar ul li ul li a:visited, #sidebar ul li ul li a {
+	background: #eee;
+	color: #999;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	padding: 5px;
+}
+
+#sidebar ul li ul li a:hover {
+	background: #ddd;
+}
+
+.entry img.wp-smiley {
+	display: inline;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+/* 12852-1333369299 */

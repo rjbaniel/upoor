@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-22 23:48+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\flex\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:19
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:19
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:19
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:14
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:41
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:59
+msgid "No comments yet. Be the first."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:73
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:73
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:73
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:85
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:86
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:87
+msgid "Logout &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:93
+msgid "name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:93
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:97
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:97
+msgid "email"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:97
+msgid "will not be shown"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:101
+msgid "website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:104
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/comments.php:109
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/footer.php:4
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/footer.php:5
+msgid "Proudly Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/footer.php:6
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/functions.php:40
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/functions.php:45
+msgid "edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:14
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:14
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:14
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:14
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:26
+msgid "(more...)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:25
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:25
+msgid " 1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:25
+msgid " % Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:58
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:46
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:63
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:51
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/index.php:63
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/single.php:51
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:5
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:8
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:9
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:9
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:16
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:21
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:26
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\flex/sidebar.php:31
+msgid "Search"
+msgstr ""
+

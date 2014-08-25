@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: citrus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-17 08:00+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\citrus islandwp\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/404.php:13
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/404.php:16
+#: islandwp/index.php:25
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:25
+#: islandwp/search.php:25
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:25
+#: islandwp/search.php:25
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:34
+#: islandwp/archive.php:44
+#: islandwp/archive.php:54
+#: islandwp/search.php:34
+#: islandwp/search.php:44
+#: islandwp/search.php:54
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:35
+#: islandwp/archive.php:131
+#: islandwp/index.php:14
+#: islandwp/search.php:35
+#: islandwp/search.php:131
+#: islandwp/single.php:13
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:64
+#: islandwp/search.php:64
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:73
+#: islandwp/search.php:73
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:82
+#: islandwp/search.php:82
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:100
+#: islandwp/archive.php:171
+#: islandwp/index.php:20
+#: islandwp/search.php:100
+#: islandwp/search.php:171
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:103
+#: islandwp/archive.php:174
+#: islandwp/index.php:21
+#: islandwp/search.php:103
+#: islandwp/search.php:174
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:118
+#: islandwp/index.php:9
+#: islandwp/search.php:118
+#: islandwp/single.php:6
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:131
+#: islandwp/search.php:131
+msgid "Posted in "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:134
+#: islandwp/functions.php:45
+#: islandwp/index.php:14
+#: islandwp/page.php:17
+#: islandwp/search.php:134
+#: islandwp/single.php:13
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:134
+#: islandwp/index.php:14
+#: islandwp/search.php:134
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:134
+#: islandwp/index.php:14
+#: islandwp/search.php:134
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:134
+#: islandwp/index.php:14
+#: islandwp/search.php:134
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archive.php:189
+#: islandwp/index.php:24
+#: islandwp/search.php:189
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archives.php:13
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/archives.php:28
+msgid "Archives by Subject:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:23
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:51
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:79
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:86
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:86
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:86
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:93
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:93
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:93
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:97
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:100
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:103
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:108
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/comments.php:112
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/footer.php:19
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/footer.php:25
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/functions.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/functions.php:45
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/header.php:6
+msgid "Blog Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/header.php:32
+#: islandwp/searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/header.php:46
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/index.php:11
+#: islandwp/single.php:8
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/index.php:14
+#: islandwp/single.php:13
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/page.php:9
+msgid "<p>Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/page.php:10
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/rbar.php:25
+msgid "Latest Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:7
+msgid "Subscribe"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:22
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:43
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:64
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:82
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:82
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:85
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/sidebar.php:85
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:16
+msgid "You can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:16
+msgid "leave a response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:16
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:16
+#: islandwp/single.php:19
+msgid "trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:16
+#: islandwp/single.php:19
+msgid "from your own site"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:19
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:22
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:25
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\citrus
+#: islandwp/single.php:41
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

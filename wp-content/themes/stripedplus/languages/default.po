@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stripedplus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-02 20:06+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\stripedplus\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/404.php:6
+msgid "The requested URL is not found, try to do a search or go back to the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/404.php:6
+msgid "front page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/404.php:6
+msgid "to look for it."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:19
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "Filed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/page.php:8
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/page.php:8
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "No comments on this post yet"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "1 person have commented this post"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/archive.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/single.php:15
+msgid "% persons have commented this post"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/bottombar.php:3
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/bottombar.php:8
+msgid "10 most commented"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/bottombar.php:21
+msgid "Latest 10 posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/bottombar.php:29
+msgid "Blogroll"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:2
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:9
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:9
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:9
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:9
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:32
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:48
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:51
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:51
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:51
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:62
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:62
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:67
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:67
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:70
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:70
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:73
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:77
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/comments.php:81
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/footer.php:7
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/footer.php:7
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/footer.php:8
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/footer.php:9
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/functions.php:37
+msgid "edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/functions.php:147
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/functions.php:156
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/topbar.php:3
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/functions.php:154
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/functions.php:155
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/functions.php:497
+msgid "Reset"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/header.php:46
+msgid "Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/index.php:11
+msgid "and tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/topbar.php:5
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\stripedplus/topbar.php:12
+msgid "Categories"
+msgstr ""
+

@@ -1,0 +1,201 @@
+/*
+Theme Name: CBOX Child Theme
+Theme URI: http://yoururl.com
+Description: My CBOX Child Theme
+Tags: buddypress
+Version: 1.0
+Author: Bowe Frankema
+Author URI: http://yourlink.co.uk
+Template: cbox-theme
+*/
+/*
+----------------------------------------------------------------
+CBOX combines all the stylesheets into one file called dynamic.css. You can also write CSS using LESS. To learn all about this visit
+http://commonsinabox.org/documentation/themes/developer-guide/adding-and-overwriting-custom-css
+--------------------------------------------------------------*/
+
+/* Global */
+body {
+	background-image:none !important;
+	background-color:#F3F3F3;
+}
+
+.main-wrap {
+	overflow:hidden;
+	border-left:1px solid #CCC;
+	border-right:1px solid #CCC;
+}
+
+#content {
+	overflow:hidden;
+}
+
+#wrapper {
+	width:90%;
+	margin-top:25px;
+	overflow:hidden;
+}
+
+/* Homepage */
+.main-menu {
+	margin-right:-20px;
+}
+div.footer-wrap {
+	background-color:black;
+	border-bottom-left-radius:3px;
+	border-bottom-right-radius:3px;
+	border:none;
+}
+div.footer-wrap, div#top-homepage {
+	background-image:none;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	margin-bottom:0px;
+}
+
+#homepage-widget-left h4,
+#homepage-widget-middle h4,
+#homepage-widget-right h4 {
+	padding-left:10px;
+	padding-right:10px;
+	border-radius:3px;
+	color:white;
+	background-color:#222222;
+}
+
+#homepage-widget-left h4 a,
+#homepage-widget-middle h4 a,
+#homepage-widget-right h4 a {
+	color:white;
+}
+
+#homepage-widget-left .item-options,
+#homepage-widget-middle .item-options {
+	padding-right:10px;
+	color:white;
+}
+
+#homepage-widget-left .item-options a,
+#homepage-widget-middle .item-options a {
+	color:white;
+}
+
+#homepage-widget-left .item-options a.selected,
+#homepage-widget-middle .item-options a.selected {
+	color:#99AACC;
+}
+
+.homepage-widgets > div > div {
+	background-color: #CFCFDA;
+}
+
+.homepage-widgets .item-list {
+	padding-left:10px !important;
+	padding-right:10px !important;
+}
+
+.homepage-widgets .item-list li:first-child {
+	padding-top:0px;
+}
+
+.homepage-widgets .item-list li:last-child {
+	padding-bottom:10px;
+}
+
+.homepage-widgets .item-list li a{
+	color:black;/*#222240*/
+}
+
+.cac-more-link {
+	margin-left:10px;
+	padding-bottom: 10px;
+}
+
+.icext-header-logo img {
+	margin-top:-17px;
+	margin-left:-20px;
+}
+
+.flex-caption h3 a {
+	color:white;
+}
+
+#homepage-widget-right span.time {
+	color:white;
+}
+
+/* Activity */
+.activity-meta {
+	padding-right:15px;
+}
+
+/* Members */
+
+/* pretty avatars */
+#members-dir-list div.item-avatar {
+	width:180px;
+	height:180px;
+}
+#members-dir-list img.avatar {
+	width: 180px;
+	height: 180px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+	-webkit-box-shadow: 0 1px 0 #fff;
+	-moz-box-shadow: 0 1px 0 #fff;
+	box-shadow: 0 1px 0 #fff;
+}
+
+.friendship-button.is_friend {
+	display:none;
+}
+
+.is_friend.remove {
+	display: none;
+}
+
+/* formatting */
+#members-dir-list #members-list li {
+	display:inline-block;
+	overflow: auto;
+	width: 30%;
+	margin: 0 20px 28px 0;
+	border: 0;
+	overflow:visible;
+}
+
+#members-dir-list #members-list li * {
+	display:block;
+}
+
+/* text size and alignment */
+#members-dir-list ul.item-list li div.item-title,
+#members-dir-list ul.item-list li div.item-meta {
+	width: 100%;
+	text-align: center;
+}
+
+#members-dir-list ul.item-list li div.item-title {
+	font-size: 110%;
+}
+
+#members-dir-list ul.item-list li div.item-meta {
+	text-transform: uppercase;
+	font-size: 80%;
+}
+
+#members-dir-list ul.item-list li img.avatar {
+	margin-bottom: 8px;
+}
+
+#bbpress-forums #subscription-toggle:before {
+	right: 0;
+}
+
+#favorite-toggle {
+	margin-right: 10px;
+}

@@ -1,0 +1,612 @@
+# Copyright (C) 2013 Andreas Viklund and Ainslie Johnson
+# This file is distributed under the same license as the Andreas09 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Andreas09 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/andreas09\n"
+"POT-Creation-Date: 2013-06-28 10:17:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 2-col-archives.php:14 archives.php:15
+msgid "Archives by Month:"
+msgstr ""
+
+#: 2-col-archives.php:18 archives.php:19
+msgid "Archives by Category:"
+msgstr ""
+
+#: 2-col-archives.php:24 2-col-links.php:22 2-col-page.php:27 archives.php:25
+#: attachment.php:51 links.php:26 page.php:20 single.php:48
+msgid "Edit this entry."
+msgstr ""
+
+#: 2-col-page.php:18 page.php:11
+msgid "Read the rest of this page &raquo;"
+msgstr ""
+
+#: 2-col-page.php:21 attachment.php:22 page.php:14
+msgid "Pages"
+msgstr ""
+
+#: 404.php:7
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: alt-right-sidebar.php:8 sidebar.php:10
+msgid "Categories"
+msgstr ""
+
+#: alt-right-sidebar.php:14 sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: alt-right-sidebar.php:20 functions.php:399 sidebar.php:22
+msgid "Subscribe"
+msgstr ""
+
+#: alt-right-sidebar.php:22 functions.php:401 sidebar.php:24
+msgid "Entries (RSS)"
+msgstr ""
+
+#: alt-right-sidebar.php:23 functions.php:402 sidebar.php:25
+msgid "Comments (RSS)"
+msgstr ""
+
+#: alt-right-sidebar.php:27 functions.php:413 functions.php:423 sidebar.php:29
+msgid "Meta"
+msgstr ""
+
+#: archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:9
+msgid "Category"
+msgstr ""
+
+#: archive.php:12 archive.php:14 archive.php:16
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:12 functions.php:343
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:18 search.php:22 search.php:103
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:20
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:26 archive.php:68 index.php:25 search.php:31 search.php:85
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:27 archive.php:69 index.php:26 search.php:34 search.php:88
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:32 index.php:11 search.php:55 search.php:64 single.php:13
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:34 index.php:12 single.php:15
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:34 index.php:12 single.php:15
+msgid "on"
+msgstr ""
+
+#: archive.php:34
+msgid "jS F Y"
+msgstr ""
+
+#: archive.php:47 attachment.php:20 index.php:16 single.php:21
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: archive.php:62 index.php:20 search.php:67
+msgid "Posted in"
+msgstr ""
+
+#: archive.php:62 index.php:20 search.php:67
+msgid "Edit"
+msgstr ""
+
+#: archive.php:62 index.php:20 search.php:67
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:62 index.php:20 search.php:67
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:62 index.php:20 search.php:67
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:74 index.php:31 search.php:106
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:75 index.php:32 search.php:109
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: archive.php:76 index.php:33
+msgid ""
+"Perhaps you would like to try a search or select from one of the links on "
+"the menu."
+msgstr ""
+
+#: attachment.php:16
+msgid "Permanent Link:"
+msgstr ""
+
+#: attachment.php:26 single.php:27
+msgid "This entry was posted on"
+msgstr ""
+
+#: attachment.php:31 search.php:58
+msgid "l, F jS, Y"
+msgstr ""
+
+#: attachment.php:31 functions.php:343 single.php:27
+msgid "at"
+msgstr ""
+
+#: attachment.php:32 single.php:28
+msgid "and is filed under"
+msgstr ""
+
+#: attachment.php:33 single.php:30
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: attachment.php:33 single.php:30
+msgid "feed"
+msgstr ""
+
+#: attachment.php:37 single.php:34
+msgid "You can"
+msgstr ""
+
+#: attachment.php:37 single.php:34
+msgid "leave a response"
+msgstr ""
+
+#: attachment.php:37 single.php:34
+msgid "or"
+msgstr ""
+
+#: attachment.php:37 attachment.php:41 single.php:34 single.php:38
+msgid "trackback"
+msgstr ""
+
+#: attachment.php:37 attachment.php:41 single.php:34 single.php:38
+msgid "from your own site"
+msgstr ""
+
+#: attachment.php:41 single.php:38
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: attachment.php:45 single.php:42
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: attachment.php:49 single.php:46
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: attachment.php:61
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: comments.php:26
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:26
+msgid "to"
+msgstr ""
+
+#: comments.php:47
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:80
+msgid "You must be"
+msgstr ""
+
+#: comments.php:80
+msgid "logged in"
+msgstr ""
+
+#: comments.php:80
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:87
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:87
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:92
+msgid "Name"
+msgstr ""
+
+#: comments.php:92 comments.php:95
+msgid "(required)"
+msgstr ""
+
+#: comments.php:95
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:98
+msgid "Website"
+msgstr ""
+
+#: comments.php:102
+msgid "You can use these tags"
+msgstr ""
+
+#: comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:14
+msgid "Y"
+msgstr ""
+
+#: footer.php:14
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:16
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:22
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:49
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:67
+msgid "Home"
+msgstr ""
+
+#: functions.php:163
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:164
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:168
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:200
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:201
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:221
+msgid "Position"
+msgstr ""
+
+#: functions.php:222
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:225
+msgid "Left"
+msgstr ""
+
+#: functions.php:229
+msgid "Center"
+msgstr ""
+
+#: functions.php:233
+msgid "Right"
+msgstr ""
+
+#: functions.php:239
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:240
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:242
+msgid "Tile"
+msgstr ""
+
+#: functions.php:243
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:244
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:249
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:250
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:253
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:257
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:265
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:268
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:337
+msgid "Says"
+msgstr ""
+
+#: functions.php:339
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:394 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: functions.php:408
+msgid "RSS Subscribe"
+msgstr ""
+
+#: functions.php:428 functions.php:436 right-sidebar.php:8
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:469
+msgid "Colour Options"
+msgstr ""
+
+#: functions.php:473
+msgid "Settings saved."
+msgstr ""
+
+#: functions.php:474
+msgid "Settings reset."
+msgstr ""
+
+#: functions.php:480
+msgid "was designed by"
+msgstr ""
+
+#: functions.php:480
+msgid "and Ported to WordPress by"
+msgstr ""
+
+#: functions.php:482
+msgid "Available Image Colours:"
+msgstr ""
+
+#: functions.php:504 functions.php:525
+msgid "Original Blue"
+msgstr ""
+
+#: functions.php:505 functions.php:526
+msgid "Original Green"
+msgstr ""
+
+#: functions.php:506
+msgid "Original  Red"
+msgstr ""
+
+#: functions.php:507 functions.php:528
+msgid "Original Orange"
+msgstr ""
+
+#: functions.php:508 functions.php:529
+msgid "Original Purple"
+msgstr ""
+
+#: functions.php:509 functions.php:530
+msgid "Original Black"
+msgstr ""
+
+#: functions.php:510
+msgid "Blue - Curtesy of"
+msgstr ""
+
+#: functions.php:511 functions.php:532
+msgid "Pretty Pink"
+msgstr ""
+
+#: functions.php:512 functions.php:533
+msgid "Striped Blue"
+msgstr ""
+
+#: functions.php:513 functions.php:534
+msgid "Striped Green"
+msgstr ""
+
+#: functions.php:514 functions.php:535
+msgid "Striped Red"
+msgstr ""
+
+#: functions.php:515 functions.php:536
+msgid "Striped Orange"
+msgstr ""
+
+#: functions.php:516 functions.php:537
+msgid "Striped Purple"
+msgstr ""
+
+#: functions.php:517 functions.php:538
+msgid "Striped Black"
+msgstr ""
+
+#: functions.php:519
+msgid "Image Colour Settings"
+msgstr ""
+
+#: functions.php:521
+msgid "Select colour from list:"
+msgstr ""
+
+#: functions.php:527
+msgid "Original Red"
+msgstr ""
+
+#: functions.php:531
+msgid "Isecore Blue"
+msgstr ""
+
+#: functions.php:544
+msgid "Save Settings"
+msgstr ""
+
+#: functions.php:547
+msgid "With credit to"
+msgstr ""
+
+#: functions.php:547
+msgid ""
+"I could not have implemented the <strong>Current Theme Options</strong> "
+"without his excellent example in the"
+msgstr ""
+
+#: header.php:51
+msgid "Blog Archive"
+msgstr ""
+
+#: index.php:20 single.php:29
+msgid "Tagged"
+msgstr ""
+
+#: search.php:58
+msgid "Posted on"
+msgstr ""
+
+#: search.php:64
+msgid "Read the rest of this post..."
+msgstr ""
+
+#: search.php:112
+msgid ""
+"Perhaps you would like to try another search or select from one of the links "
+"on the menu."
+msgstr ""
+
+#: searchform.php:2
+msgid "Enter search text"
+msgstr ""
+
+#: searchform.php:3
+msgid "Submit for search results"
+msgstr ""
+
+#: single.php:25
+msgid "Pages:"
+msgstr ""
+
+#: single.php:60
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Andreas09"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Highly customisable three column goodness."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andreas Viklund and Ainslie Johnson"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "2 Column Archives List"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "2 Column Links List"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "2 Column Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives List"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links List"
+msgstr ""

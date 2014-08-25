@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seashore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-01 19:35+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\seashore\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/404.php:16
+msgid "404 - The Server can not find it !"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/404.php:18
+msgid ""
+"The post or the page that you are looking for, is not available at this time.\n"
+"              It could have been moved / deleted."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/404.php:20
+msgid "Please browse through the archives / search through the site."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/404.php:23
+msgid "Posted as "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:9
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:25
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:14
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:30
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:33
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:36
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:20
+msgid "Published by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:20
+msgid "under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:68
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/contact.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:23
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:23
+msgid "Continue Reading &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:80
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:27
+msgid "No responses yet"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:80
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:27
+msgid "One response so far"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:80
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page.php:40
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:27
+msgid "% responses so far"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:84
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page.php:47
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:35
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:86
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:33
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:37
+msgid "&#171; Prev"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/archive.php:86
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:33
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:37
+msgid "Next &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:8
+msgid "About:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:10
+msgid "Full Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:113
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/contact.php:76
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:14
+msgid "Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:18
+msgid "Posts by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:24
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/author.php:27
+msgid "No posts by this author."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:23
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:47
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:65
+msgid "Comments are closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:72
+msgid "Trackback URI"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:75
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:13
+msgid "Comments RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:83
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:88
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:88
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:88
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:102
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:102
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:102
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:107
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:107
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:110
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:110
+msgid "Mail (hidden)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:117
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/comments.php:122
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/contact.php:78
+msgid "AntiSpam Challenge"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/contact.php:82
+msgid "Send Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/footer.php:4
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/footer.php:5
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/functions.php:42
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/functions.php:42
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/functions.php:42
+msgid "edit this"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/functions.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/header.php:38
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/index.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/single.php:20
+msgid "and tagged:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page-archives.php:7
+msgid "Recent 20 Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page-archives.php:11
+msgid "by Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page-archives.php:15
+msgid "by Month"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/page.php:27
+msgid "This page has the following sub pages."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:6
+msgid "Latest Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:10
+msgid "Feed on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:12
+msgid "RSS Feed of Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:12
+msgid "Posts RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:13
+msgid "RSS Feed of Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:20
+msgid "Go"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:34
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:42
+msgid "Monthly"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:49
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:55
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\seashore/sidebar.php:60
+msgid "XHTML Friends Network"
+msgstr ""
+

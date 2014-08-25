@@ -1,0 +1,367 @@
+# Copyright (C) 2013 FTL/DreamTemplate
+# This file is distributed under the same license as the Color Paper package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Color Paper 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/colorpaper\n"
+"POT-Creation-Date: 2013-06-28 10:17:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:7 404.php:31
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"Something has gone horribly wrong. Please go back, or try some of the links "
+"below:"
+msgstr ""
+
+#: 404.php:35
+msgid "Archives by Date:"
+msgstr ""
+
+#: 404.php:43 archives.php:51 search.php:71
+msgid "Archives by Subject:"
+msgstr ""
+
+#: archive.php:13
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:13
+msgid "Category"
+msgstr ""
+
+#: archive.php:17
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:21 archive.php:25 archive.php:29
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:33
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:45
+msgid ""
+"You can use the search form below to go through the content and find a "
+"specific post or page:"
+msgstr ""
+
+#: archive.php:78 search.php:45
+msgid "&laquo; Newer Posts"
+msgstr ""
+
+#: archive.php:78 search.php:45
+msgid "Older Posts &raquo;"
+msgstr ""
+
+#: archives.php:39 search.php:59
+msgid "Archives by Month:"
+msgstr ""
+
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:75
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:106
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:114
+msgid "You must be"
+msgstr ""
+
+#: comments.php:114
+msgid "logged in"
+msgstr ""
+
+#: comments.php:114
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:128
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:128
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:128
+msgid "Logout"
+msgstr ""
+
+#: footer.php:7 functions.php:80 header.php:98
+msgid "Home"
+msgstr ""
+
+#: footer.php:16
+msgid "Hosted by"
+msgstr ""
+
+#: footer.php:25
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:35
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:62
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:176
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:177
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:181
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:213
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:214
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:234
+msgid "Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:238
+msgid "Left"
+msgstr ""
+
+#: functions.php:242
+msgid "Center"
+msgstr ""
+
+#: functions.php:246
+msgid "Right"
+msgstr ""
+
+#: functions.php:252
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:253
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:255
+msgid "Tile"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:257
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:262
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:266
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:270
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:278
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:281
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:359 single.php:25
+msgid "on"
+msgstr ""
+
+#: functions.php:367
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:8 index.php:54 search.php:35
+msgid "Permanent Link to"
+msgstr ""
+
+#: index.php:13 index.php:60
+msgid "Read More"
+msgstr ""
+
+#: index.php:13 index.php:60
+msgid "0 Comments"
+msgstr ""
+
+#: index.php:13 index.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:13 index.php:60
+msgid "% Comments"
+msgstr ""
+
+#: index.php:13 index.php:60
+msgid "Posted by"
+msgstr ""
+
+#: index.php:60
+msgid "Read More of"
+msgstr ""
+
+#: index.php:74
+msgid "Previous Page"
+msgstr ""
+
+#: index.php:75
+msgid "Next Page"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Color Paper 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: links.php:39
+msgid "Links"
+msgstr ""
+
+#: page.php:13
+msgid "Written by"
+msgstr ""
+
+#: page.php:21
+msgid ""
+"Comments <a href=\"#respond\">are open</a> on this page, you can <a href="
+"\"#respond\">leave a response</a>"
+msgstr ""
+
+#: page.php:27
+msgid "You may"
+msgstr ""
+
+#: page.php:27
+msgid "also"
+msgstr ""
+
+#: page.php:27
+msgid "leave a"
+msgstr ""
+
+#: page.php:27
+msgid "trackback"
+msgstr ""
+
+#: page.php:27
+msgid "from your site."
+msgstr ""
+
+#: page.php:56
+msgid "Edit this entry."
+msgstr ""
+
+#: search.php:7
+msgid "Search Results"
+msgstr ""
+
+#: search.php:53
+msgid "No Posts Found. Please try searching something else."
+msgstr ""
+
+#: searchform.php:5 sidebar.php:181
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:34
+msgid "About"
+msgstr ""
+
+#: sidebar.php:71
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:135
+msgid "ecent Articles"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Color Paper 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:151
+msgid "Archives"
+msgstr ""
+
+#: single.php:25
+msgid "Posted in"
+msgstr ""
+
+#: single.php:25
+msgid "by"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Color Paper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Colorful, carefree and kinda cute - Color Paper will make your blog feel "
+"like a boutique."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FTL/DreamTemplate"
+msgstr ""

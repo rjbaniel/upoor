@@ -1,0 +1,445 @@
+# Copyright (C) 2013 Kyle Neath
+# This file is distributed under the same license as the Hemingway package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hemingway 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/hemingway\n"
+"POT-Creation-Date: 2013-06-28 10:17:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"It looks like there's a problem with the page you're trying to get to. If "
+"you're looking for something in particular, try using the search form below, "
+"or by browsing the archives."
+msgstr ""
+
+#: 404.php:9
+msgid "Search this site:"
+msgstr ""
+
+#: 404.php:12
+msgid "Archives by month:"
+msgstr ""
+
+#: 404.php:17
+msgid "Archives by subject:"
+msgstr ""
+
+#: 404.php:23
+msgid "Why am I seeing this?"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"You requested a page that doesn't exist on this site any more. This could be "
+"caused by a link you followed that was out of date, by a typing in the wrong "
+"address in the address bar, or simply because the post has been deleted."
+msgstr ""
+
+#: archive.php:13 archive.php:19 archive.php:22 archive.php:25
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:16
+msgid "Posts tagged with"
+msgstr ""
+
+#: archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:41
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:45
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:46
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:47
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:48
+msgid "AIM:"
+msgstr ""
+
+#: archive.php:55
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:66 search.php:16
+msgid "posted in"
+msgstr ""
+
+#: archive.php:68 search.php:18
+msgid "tagged "
+msgstr ""
+
+#: archive.php:75 search.php:25
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:76 search.php:26
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:82 index.php:36
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:89
+msgid "About the archives"
+msgstr ""
+
+#: archive.php:91
+msgid ""
+"Welcome to the archives here at <?php bloginfo('name'); ?>. Have a look "
+"around."
+msgstr ""
+
+#: attachment.php:18 single.php:8
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: attachment.php:24
+msgid "This entry was posted"
+msgstr ""
+
+#: attachment.php:29
+msgid "on"
+msgstr ""
+
+#: attachment.php:29 index.php:26 search.php:40
+msgid "at"
+msgstr ""
+
+#: attachment.php:30
+msgid "and is filed under"
+msgstr ""
+
+#: attachment.php:31
+msgid ""
+"You can follow any responses to this entry through the <?php "
+"post_comments_feed_link('RSS 2.0'); ?> feed."
+msgstr ""
+
+#: attachment.php:35
+msgid "You can"
+msgstr ""
+
+#: attachment.php:35
+msgid "leave a response"
+msgstr ""
+
+#: attachment.php:35
+msgid "or"
+msgstr ""
+
+#: attachment.php:35 attachment.php:39
+msgid "trackback"
+msgstr ""
+
+#: attachment.php:35 attachment.php:39
+msgid "from your own site."
+msgstr ""
+
+#: attachment.php:39
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: attachment.php:43
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: attachment.php:47
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: attachment.php:49 page.php:12 single.php:30
+msgid "Edit this entry."
+msgstr ""
+
+#: attachment.php:61
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments.php:45
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:71
+msgid "Have your say"
+msgstr ""
+
+#: comments.php:72
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:74
+msgid "You must be"
+msgstr ""
+
+#: comments.php:74
+msgid "logged in"
+msgstr ""
+
+#: comments.php:74
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:83
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:83
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:83
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:86
+msgid "Name"
+msgstr ""
+
+#: comments.php:87
+msgid "Email"
+msgstr ""
+
+#: comments.php:88
+msgid "Website"
+msgstr ""
+
+#: comments.php:94
+msgid "Safari hates me"
+msgstr ""
+
+#: comments.php:95
+msgid "Add your comment"
+msgstr ""
+
+#: footer.php:8
+msgid "Y"
+msgstr ""
+
+#: footer.php:9
+msgid "Using"
+msgstr ""
+
+#: footer.php:10
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:90
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:149
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:176
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:194
+msgid "Home"
+msgstr ""
+
+#: functions.php:476
+msgid "Hemingway Options"
+msgstr ""
+
+#: index.php:19
+msgid "Permanent Link to"
+msgstr ""
+
+#: index.php:26
+msgid "Posted by"
+msgstr ""
+
+#: index.php:26
+msgid "no comments;"
+msgstr ""
+
+#: index.php:26
+msgid "1 comment"
+msgstr ""
+
+#: index.php:26
+msgid "% comments"
+msgstr ""
+
+#: index.php:26
+msgid "Filed Under:"
+msgstr ""
+
+#: index.php:26
+msgid "Tagged: "
+msgstr ""
+
+#: index.php:26
+msgid "read on"
+msgstr ""
+
+#: index.php:26
+msgid "edit"
+msgstr ""
+
+#: index.php:37
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: links.php:11
+msgid "Links:"
+msgstr ""
+
+#: page.php:8
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: page.php:25 single.php:45
+msgid "0 Comments"
+msgstr ""
+
+#: page.php:25 single.php:45
+msgid "One Comment"
+msgstr ""
+
+#: page.php:25 single.php:45
+msgid "% Comments"
+msgstr ""
+
+#: page.php:26 single.php:46
+msgid "Jump to comment form"
+msgstr ""
+
+#: page.php:26 single.php:46
+msgid "trackback uri"
+msgstr ""
+
+#: search.php:31
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: search.php:38
+msgid "Search"
+msgstr ""
+
+#: search.php:40
+msgid "You searched for &ldquo;"
+msgstr ""
+
+#: search.php:40
+msgid "There were"
+msgstr ""
+
+#: search.php:42
+msgid "no results, better luck next time."
+msgstr ""
+
+#: search.php:43
+msgid "one result found. It must be your lucky day."
+msgstr ""
+
+#: search.php:44
+msgid " results found."
+msgstr ""
+
+#: single.php:13
+msgid "About this entry"
+msgstr ""
+
+#: single.php:15
+msgid "You&rsquo;re currently reading &ldquo;"
+msgstr ""
+
+#: single.php:15
+msgid "an entry on"
+msgstr ""
+
+#: single.php:17
+msgid "Published:"
+msgstr ""
+
+#: single.php:21
+msgid "Category:"
+msgstr ""
+
+#: single.php:26
+msgid "Tags:"
+msgstr ""
+
+#: single.php:51
+msgid "Comments are closed"
+msgstr ""
+
+#: single.php:52
+msgid "Comments are currently closed on this entry."
+msgstr ""
+
+#: single.php:59
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: static_sidebar.php:5
+msgid "About"
+msgstr ""
+
+#: static_sidebar.php:15
+msgid "Recently"
+msgstr ""
+
+#: static_sidebar.php:28
+msgid "Categories"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Hemingway"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hemingway is a simple weblog theme aimed at giving bloggers a great platform "
+"on which to customize."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kyle Neath"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""

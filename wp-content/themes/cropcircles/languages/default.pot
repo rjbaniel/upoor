@@ -1,0 +1,442 @@
+# Copyright (C) 2013 Marianne
+# This file is distributed under the same license as the Crop Circles package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Crop Circles 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/cropcircles\n"
+"POT-Creation-Date: 2013-06-28 10:17:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: archive.php:10
+msgid "Category"
+msgstr ""
+
+#: archive.php:13 archive.php:42 index.php:12 search.php:21
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:22 search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:25
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:28
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:34 archive.php:59 index.php:27 search.php:11 search.php:38
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:35 archive.php:60 index.php:28 search.php:12 search.php:39
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:40 index.php:10 search.php:19
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:42 index.php:12 search.php:21
+msgid "Posted in "
+msgstr ""
+
+#: archive.php:42 index.php:12 search.php:21
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:42 index.php:12 search.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:42 index.php:12 search.php:21
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:65 index.php:33 search.php:44
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:13
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:18
+msgid "Archives by Subject:"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:45
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:73
+msgid "You must be"
+msgstr ""
+
+#: comments.php:73
+msgid "logged in"
+msgstr ""
+
+#: comments.php:73
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:84
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:84
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:84
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:89
+msgid "Name"
+msgstr ""
+
+#: comments.php:92
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:95
+msgid "Website"
+msgstr ""
+
+#: comments.php:106
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:3
+msgid "Y"
+msgstr ""
+
+#: footer.php:10
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:34
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:65
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:83 header.php:49
+msgid "Home"
+msgstr ""
+
+#: functions.php:179
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:180
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:184
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:216
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:217
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:237
+msgid "Position"
+msgstr ""
+
+#: functions.php:238
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:241
+msgid "Left"
+msgstr ""
+
+#: functions.php:245
+msgid "Center"
+msgstr ""
+
+#: functions.php:249
+msgid "Right"
+msgstr ""
+
+#: functions.php:255
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:256
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:257
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:258
+msgid "Tile"
+msgstr ""
+
+#: functions.php:259
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:260
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:265
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:266
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:269
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:273
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:281
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:284
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:359
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:363 single.php:29
+msgid "at"
+msgstr ""
+
+#: functions.php:363
+msgid "edit"
+msgstr ""
+
+#: header.php:5
+msgid "Blog Archive"
+msgstr ""
+
+#: index.php:15
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:34
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: links.php:11
+msgid "Links:"
+msgstr ""
+
+#: page.php:11 single.php:19
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: page.php:15
+msgid "laquo; Return Home"
+msgstr ""
+
+#: searchform.php:5
+msgid "Go!"
+msgstr ""
+
+#: sidebar.php:15
+msgid "Pages"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Crop Circles 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:29
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:35
+msgid "Themes"
+msgstr ""
+
+#: sidebar.php:43
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:47
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: sidebar.php:47
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> 2.0"
+msgstr ""
+
+#: sidebar.php:48
+msgid "Syndicate this site using Atom"
+msgstr ""
+
+#: sidebar.php:48
+msgid "Atom"
+msgstr ""
+
+#: single.php:13
+msgid "Permanent Link:"
+msgstr ""
+
+#: single.php:24
+msgid "This entry was posted"
+msgstr ""
+
+#: single.php:29
+msgid "on"
+msgstr ""
+
+#: single.php:29
+msgid "l, F jS, Y"
+msgstr ""
+
+#: single.php:30
+msgid "and is filed under"
+msgstr ""
+
+#: single.php:30
+msgid "Tagged"
+msgstr ""
+
+#: single.php:31
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: single.php:31
+msgid "RSS 2.0"
+msgstr ""
+
+#: single.php:32
+msgid "feed"
+msgstr ""
+
+#: single.php:36
+msgid "You can"
+msgstr ""
+
+#: single.php:36
+msgid "leave a response"
+msgstr ""
+
+#: single.php:36
+msgid "or"
+msgstr ""
+
+#: single.php:36 single.php:40
+msgid "trackback"
+msgstr ""
+
+#: single.php:36
+msgid "from your own site"
+msgstr ""
+
+#: single.php:40
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: single.php:40
+msgid "from your own site."
+msgstr ""
+
+#: single.php:42 single.php:50
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: single.php:46
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: single.php:52
+msgid "Edit this entry."
+msgstr ""
+
+#: single.php:64
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Crop Circles"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A theme invaded by aliens."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Marianne"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""

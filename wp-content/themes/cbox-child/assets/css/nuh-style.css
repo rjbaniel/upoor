@@ -1,0 +1,129 @@
+html, body {
+	height:100%;
+	background:url("");
+}
+
+body.theme-option {
+	background-image:none;
+}
+
+/* header */
+#nuh-header {
+	background-color:lightgray;
+	margin-bottom:20px;
+	padding-top:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+
+#nuh-header * {
+	display:inline;
+	vertical-align:bottom;
+}
+
+#header-nav {
+	list-style:none;
+}
+
+#header-nav a {
+	color:black;
+	text-decoration:none;
+	border-left:2px black solid;
+	padding-left:5px;
+	margin-right:-5px;
+	padding-right:5px;
+}
+
+#header-nav a:hover {
+	background-color:black;
+	color:white;
+}
+/* end header */
+
+/* flex stuff for the middle */
+#middle-flex {
+	margin:auto;
+	width:100%;
+	
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-box-direction: normal;
+  -moz-box-direction: normal;
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+/* end .middle-flex */
+
+/* sidebar */
+#home-sidebar {
+  width: 1px;
+	-webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+	border:2px solid black;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:20px;
+	margin-bottom:5px;
+	font-size:.7em
+}
+/* end sidebar */
+
+/* home content */
+#home-content {
+	width: 1px;
+  -webkit-box-flex: 4;
+  -moz-box-flex: 4;
+  -webkit-flex: 4 4 auto;
+  -ms-flex: 4 4 auto;
+  flex: 4 4 auto;
+}
+
+#home-content section {
+	border:2px solid black;
+	margin-bottom:5px;
+	padding-left:10px;
+	height:300px;
+	overflow:hidden;
+}
+
+#home-content h1 {
+	margin-top:5px;
+}
+
+.home-section-content {
+	text-align:center;
+}
+
+.home-section-content a {
+	text-decoration:none;
+}
+
+.home-section-content-box {
+	display:inline-block;
+	width:200px;
+	height:200px;
+	background-color:gray;
+	margin:0 20px;
+	border:3px red dashed;
+}
+/* end home content */

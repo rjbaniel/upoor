@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: newsportal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-28 09:08+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\newsportal\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:23
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:44
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:74
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:74
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:74
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:85
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:85
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:85
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:90
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:90
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:93
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:93
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:96
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/comments.php:104
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/footer.php:2
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/footer.php:2
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/footer.php:5
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/footer.php:8
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:36
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:42
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:108
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:120
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:110
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/header.php:68
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:128
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:133
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/functions.php:143
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/right.php:38
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:22
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:25
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:16
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:41
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:45
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:46
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:47
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:48
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:55
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:63
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/page.php:22
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:21
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:23
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:23
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:65
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:23
+msgid "and tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:78
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:87
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:38
+msgid "Posted in "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:87
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/page.php:31
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:38
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:87
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:38
+msgid "No Comments &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:87
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:38
+msgid "1 Comment &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:87
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:38
+msgid "% Comments &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:46
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:95
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:46
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:99
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/page.php:44
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:50
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/index.php:101
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/page.php:46
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/single.php:52
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:10
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:20
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:33
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:46
+msgid "Meta:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:50
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:50
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:52
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:52
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/left.php:54
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/right.php:7
+msgid "Blogroll"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\newsportal/right.php:16
+msgid "Recent Posts"
+msgstr ""
+

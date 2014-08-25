@@ -1,0 +1,387 @@
+# Copyright (C) 2013 Peterandrej
+# This file is distributed under the same license as the Fjords package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fjords 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/fjords\n"
+"POT-Creation-Date: 2013-06-28 10:17:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:3 index.php:83 single.php:33
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:5 single.php:35
+msgid "Sorry, but the page you requested cannot be found."
+msgstr ""
+
+#: 404.php:7 index.php:87 searchform.php:4 sidebar.php:44 single.php:37
+msgid "Search"
+msgstr ""
+
+#: comments.php:4
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: comments.php:7
+msgid "No comments yet"
+msgstr ""
+
+#: comments.php:7
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:7
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:9
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:54
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:58
+msgid "You must be"
+msgstr ""
+
+#: comments.php:58
+msgid "logged in"
+msgstr ""
+
+#: comments.php:58
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:73
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:73
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:73
+msgid "Logout"
+msgstr ""
+
+#: comments.php:78
+msgid "Name"
+msgstr ""
+
+#: comments.php:78 comments.php:81
+msgid "(required)"
+msgstr ""
+
+#: comments.php:81
+msgid "E-Mail"
+msgstr ""
+
+#: comments.php:84
+msgid "Website"
+msgstr ""
+
+#: comments.php:90
+msgid "Submit"
+msgstr ""
+
+#: comments.php:102
+msgid "Tags"
+msgstr ""
+
+#: comments.php:111
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:77
+msgid "Home"
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:174
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:178
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:211
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:231
+msgid "Position"
+msgstr ""
+
+#: functions.php:232
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Left"
+msgstr ""
+
+#: functions.php:239
+msgid "Center"
+msgstr ""
+
+#: functions.php:243
+msgid "Right"
+msgstr ""
+
+#: functions.php:249
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:259
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:260
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:267
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:278
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:352
+msgid "wrote"
+msgstr ""
+
+#: functions.php:352 index.php:60 single.php:10
+msgid "at"
+msgstr ""
+
+#: index.php:8 index.php:14 index.php:17 index.php:20
+msgid "Archive for"
+msgstr ""
+
+#: index.php:11
+msgid "Posts tagged with"
+msgstr ""
+
+#: index.php:23
+msgid "Author Archive"
+msgstr ""
+
+#: index.php:36
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: index.php:40
+msgid "Homepage:"
+msgstr ""
+
+#: index.php:41
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: index.php:42
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: index.php:43
+msgid "AIM:"
+msgstr ""
+
+#: index.php:50
+msgid "Search Results"
+msgstr ""
+
+#: index.php:57 single.php:7 single.php:24
+msgid "Permanent link to"
+msgstr ""
+
+#: index.php:60 single.php:10
+msgid "by"
+msgstr ""
+
+#: index.php:60 single.php:10
+msgid "on"
+msgstr ""
+
+#: index.php:61 single.php:11
+msgid "Filed under"
+msgstr ""
+
+#: index.php:62 single.php:12
+msgid " and "
+msgstr ""
+
+#: index.php:62 single.php:12
+msgid "tagged"
+msgstr ""
+
+#: index.php:63 page.php:10 single.php:13
+msgid "Edit"
+msgstr ""
+
+#: index.php:69 single.php:18
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:73
+msgid "Comments"
+msgstr ""
+
+#: index.php:73
+msgid "Comments (1)"
+msgstr ""
+
+#: index.php:73
+msgid "Comments (%)"
+msgstr ""
+
+#: index.php:73
+msgid "Comments off"
+msgstr ""
+
+#: index.php:79
+msgid "&laquo; Previous entries"
+msgstr ""
+
+#: index.php:79
+msgid "Next entries &raquo;"
+msgstr ""
+
+#: index.php:85
+msgid "Sorry, but no posts matched your criteria."
+msgstr ""
+
+#: page.php:7
+msgid "Read the rest of this page &raquo;"
+msgstr ""
+
+#: sidebar.php:8
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:34
+msgid "About"
+msgstr ""
+
+#: sidebar.php:39
+msgid "Links"
+msgstr ""
+
+#: sidebar.php:55
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:59
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: sidebar.php:59
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: sidebar.php:60
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: sidebar.php:60
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: sidebar.php:66
+msgid "Credits"
+msgstr ""
+
+#: sidebar.php:68
+msgid "Y"
+msgstr ""
+
+#: sidebar.php:72
+msgid "Hosted by"
+msgstr ""
+
+#: single.php:24
+msgid "Permalink"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Fjords"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A 4-column theme with a split custom header."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Peterandrej"
+msgstr ""

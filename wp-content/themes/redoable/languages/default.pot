@@ -1,0 +1,459 @@
+# Copyright (C) 2013 Dean Robinson
+# This file is distributed under the same license as the Redoable package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Redoable 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/redoable\n"
+"POT-Creation-Date: 2013-06-28 10:18:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:19 searchloop.php:185 theloop.php:183
+msgid ""
+"Oh no! You're looking for something which just isn't here! Fear not however, "
+"errors are to be expected, and luckily there are tools on the sidebar for "
+"you to use in your search for what you need."
+msgstr ""
+
+#: attachment.php:28 page.php:11 searchloop.php:75 searchloop.php:113
+#: single_post.php:19 theloop.php:114
+msgid "Permanent Link to \"%s\""
+msgstr ""
+
+#: attachment.php:34
+msgid "Published %1$s %2$s"
+msgstr ""
+
+#: attachment.php:35
+msgid "by %s"
+msgstr ""
+
+#: attachment.php:37 searchloop.php:108
+msgid "%s ago"
+msgstr ""
+
+#: attachment.php:52 attachment.php:54 page.php:53 page.php:55
+#: searchloop.php:152 searchloop.php:154 single_post.php:97 single_post.php:99
+#: theloop.php:152 theloop.php:154
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:63
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments.php:7
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:21
+msgid "%1$s %2$s to &#8220;%3$s&#8221;"
+msgstr ""
+
+#: comments.php:21
+msgid "Response"
+msgstr ""
+
+#: comments.php:21
+msgid "Responses"
+msgstr ""
+
+#: comments.php:24
+msgid "Feed for this Entry"
+msgstr ""
+
+#: comments.php:25
+msgid "Copy this URI to trackback this entry."
+msgstr ""
+
+#: comments.php:25
+msgid "Trackback Address"
+msgstr ""
+
+#: comments.php:81 comments.php:93 functions.php:353 functions.php:369
+msgid "Permanent Link to this Comment"
+msgstr ""
+
+#: comments.php:85
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: comments.php:86
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:86
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:90 functions.php:366
+msgid "%s ago."
+msgstr ""
+
+#: comments.php:95 functions.php:371
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:96
+msgid "M jS, Y"
+msgstr ""
+
+#: comments.php:102 functions.php:378 searchloop.php:115 single_post.php:69
+#: theloop.php:115
+msgid "Edit"
+msgstr ""
+
+#: comments.php:112
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:118
+msgid "Comments are currently closed."
+msgstr ""
+
+#: comments.php:128
+msgid "Edit Your Comment"
+msgstr ""
+
+#: comments.php:128
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:132
+msgid "You must <a href=\"%s\">login</a> to post a comment."
+msgstr ""
+
+#: comments.php:151
+msgid "Logged in as %s."
+msgstr ""
+
+#: comments.php:151
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:151
+msgid "Logout"
+msgstr ""
+
+#: comments.php:155
+msgid "Welcome back <strong>%s</strong>"
+msgstr ""
+
+#: comments.php:156
+msgid "Change"
+msgstr ""
+
+#: comments.php:157
+msgid "Close"
+msgstr ""
+
+#: comments.php:164
+msgid "Name"
+msgstr ""
+
+#: comments.php:164 comments.php:167
+msgid "(required)"
+msgstr ""
+
+#: comments.php:167
+msgid "Mail"
+msgstr ""
+
+#: comments.php:167
+msgid "will not be published"
+msgstr ""
+
+#: comments.php:170
+msgid "Website"
+msgstr ""
+
+#: comments.php:179
+msgid "Submit"
+msgstr ""
+
+#: footer.php:14 searchloop.php:23 theloop.php:32
+msgid "Y"
+msgstr ""
+
+#: footer.php:15
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:35
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:66
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:84
+msgid "Home"
+msgstr ""
+
+#: functions.php:180
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:181
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:185
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:217
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:218
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:238
+msgid "Position"
+msgstr ""
+
+#: functions.php:239
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:242
+msgid "Left"
+msgstr ""
+
+#: functions.php:246
+msgid "Center"
+msgstr ""
+
+#: functions.php:250
+msgid "Right"
+msgstr ""
+
+#: functions.php:256
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:257
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:258
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:259
+msgid "Tile"
+msgstr ""
+
+#: functions.php:260
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:261
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:266
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:267
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:270
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:274
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:282
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:285
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:386
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:507
+msgid "Uncategorized"
+msgstr ""
+
+#: functions.php:524
+msgid "View all posts in %s"
+msgstr ""
+
+#: navigation-page.php:16
+msgid "%s"
+msgstr ""
+
+#: navigation-page.php:16
+msgid "Subpages"
+msgstr ""
+
+#: navigation.php:20
+msgid "on"
+msgstr ""
+
+#: navigation.php:21
+msgid "Previous Entries"
+msgstr ""
+
+#: navigation.php:22
+msgid "Next Entries"
+msgstr ""
+
+#: page.php:26 searchloop.php:106 searchloop.php:121 single_post.php:13
+#: single_post.php:28 theloop.php:107 theloop.php:121
+msgid "%1$s"
+msgstr ""
+
+#: page.php:26 searchloop.php:121 single_post.php:28 theloop.php:121
+msgid "<span class=\"authordata\">By %s</span>"
+msgstr ""
+
+#: searchform.php:2
+msgid "search blog archives"
+msgstr ""
+
+#: searchform.php:9
+msgid "GO"
+msgstr ""
+
+#: searchloop.php:19 theloop.php:19
+msgid "Archive for the '%s' Category"
+msgstr ""
+
+#: searchloop.php:21 searchloop.php:22 searchloop.php:23 theloop.php:30
+#: theloop.php:31 theloop.php:32
+msgid "Archive for %s"
+msgstr ""
+
+#: searchloop.php:21 theloop.php:30
+msgid "F jS, Y"
+msgstr ""
+
+#: searchloop.php:22 theloop.php:31
+msgid "F, Y"
+msgstr ""
+
+#: searchloop.php:24 theloop.php:33
+msgid "Search Results for '%s'"
+msgstr ""
+
+#: searchloop.php:25 theloop.php:34
+msgid "Tag Archive for '%s'"
+msgstr ""
+
+#: searchloop.php:29 theloop.php:38
+msgid "Author Archive for %s"
+msgstr ""
+
+#: searchloop.php:30 theloop.php:39
+msgid "Archive Page %s"
+msgstr ""
+
+#: searchloop.php:108
+msgid "d"
+msgstr ""
+
+#: searchloop.php:108
+msgid "M"
+msgstr ""
+
+#: searchloop.php:124 single_post.php:39 theloop.php:124
+msgid "Comments"
+msgstr ""
+
+#: searchloop.php:124 single_post.php:39 theloop.php:124
+msgid "Comment"
+msgstr ""
+
+#: searchloop.php:124 single_post.php:39 theloop.php:124
+msgid "Closed"
+msgstr ""
+
+#: searchloop.php:134 single_post.php:33 theloop.php:134
+msgid "<span class=\"entry-category\">Categories: %s</span>"
+msgstr ""
+
+#: searchloop.php:134 single_post.php:33 theloop.php:134
+msgid "and"
+msgstr ""
+
+#: searchloop.php:137 single_post.php:44
+msgid "Tags:"
+msgstr ""
+
+#: searchloop.php:148 single_post.php:93 theloop.php:148
+msgid "Continue reading"
+msgstr ""
+
+#: searchloop.php:181 theloop.php:179
+msgid "Not Found"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:33
+msgid "Months"
+msgstr ""
+
+#: sidebar.php:41
+msgid "Blogroll"
+msgstr ""
+
+#: sidebar.php:52
+msgid "Recent Entries"
+msgstr ""
+
+#: single_post.php:35 theloop.php:137
+msgid "Tags: "
+msgstr ""
+
+#: theloop.php:25
+msgid "Posts Tagged &#8216;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Redoable"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Kinda swanky magaziney black 'n red feel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dean Robinson"
+msgstr ""

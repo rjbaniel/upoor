@@ -1,0 +1,638 @@
+# Copyright (C) 2013 Jose Mulia
+# This file is distributed under the same license as the Batavia package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Batavia 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/batavia\n"
+"POT-Creation-Date: 2013-06-28 10:17:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:13
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:9
+msgid "Category"
+msgstr ""
+
+#: archive.php:12 archive.php:16 archive.php:20
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:13 index.php:10
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:24 search.php:19
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:27
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:36 archive.php:59 index.php:25 search.php:28 search.php:101
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: archive.php:37 archive.php:60 index.php:26 search.php:31 search.php:102
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: archive.php:42 index.php:9 search.php:52
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:49 index.php:15 search.php:73
+msgid "Posted in "
+msgstr ""
+
+#: archive.php:49 index.php:15 search.php:73
+msgid "Edit"
+msgstr ""
+
+#: archive.php:49 index.php:15 search.php:73
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archive.php:49 index.php:15 search.php:73
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archive.php:49 index.php:15 search.php:73
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archive.php:65 index.php:30 search.php:115
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:37
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:52
+msgid "Archives by Subject:"
+msgstr ""
+
+#: comments-popup.php:25
+msgid "Comments on %s"
+msgstr ""
+
+#: comments-popup.php:64
+msgid "Comments"
+msgstr ""
+
+#: comments-popup.php:70
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments-popup.php:79
+msgid ""
+"The <acronym title=\"Uniform Resource Identifier\">URI</acronym> to "
+"TrackBack this entry is:"
+msgstr ""
+
+#: comments-popup.php:136
+msgid "Comment"
+msgstr ""
+
+#: comments-popup.php:136
+msgid "Trackback"
+msgstr ""
+
+#: comments-popup.php:136
+msgid "Pingback"
+msgstr ""
+
+#: comments-popup.php:136
+msgid "by"
+msgstr ""
+
+#: comments-popup.php:154
+msgid "No comments yet."
+msgstr ""
+
+#: comments-popup.php:166
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-popup.php:169
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: comments-popup.php:184 comments.php:96
+msgid "Name"
+msgstr ""
+
+#: comments-popup.php:205
+msgid "E-mail"
+msgstr ""
+
+#: comments-popup.php:220
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr ""
+
+#: comments-popup.php:232
+msgid "Your Comment"
+msgstr ""
+
+#: comments-popup.php:250
+msgid "Say It!"
+msgstr ""
+
+#: comments-popup.php:265
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-popup.php:280
+msgid "Close this window."
+msgstr ""
+
+#: comments-popup.php:304
+msgid ""
+"<cite>Provided by <a href=\"http://wordpress.org\" title=\"%s"
+"\"><strong>Wordpress</strong></a></cite>"
+msgstr ""
+
+#: comments-popup.php:304
+msgid ""
+"Provided by WordPress, state-of-the-art semantic personal publishing "
+"platform."
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: comments.php:26
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:26
+msgid "to"
+msgstr ""
+
+#: comments.php:47
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:84
+msgid "You must be"
+msgstr ""
+
+#: comments.php:84
+msgid "logged in"
+msgstr ""
+
+#: comments.php:84
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:91
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:91
+msgid "Logout"
+msgstr ""
+
+#: comments.php:96 comments.php:99
+msgid "(required)"
+msgstr ""
+
+#: comments.php:99
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:102
+msgid "Website"
+msgstr ""
+
+#: comments.php:106
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:109
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:13
+msgid "Y"
+msgstr ""
+
+#: footer.php:16
+msgid "Hosted by"
+msgstr ""
+
+#: footer.php:18
+msgid "Entries (RSS)"
+msgstr ""
+
+#: footer.php:21
+msgid "and "
+msgstr ""
+
+#: footer.php:21
+msgid "Comments (RSS)"
+msgstr ""
+
+#: functions.php:37
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:68
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:86 header.php:66
+msgid "Home"
+msgstr ""
+
+#: functions.php:182
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:183
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:187
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:219
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:220
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:240
+msgid "Position"
+msgstr ""
+
+#: functions.php:241
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:244 header.php:48
+msgid "Left"
+msgstr ""
+
+#: functions.php:248
+msgid "Center"
+msgstr ""
+
+#: functions.php:252 header.php:50
+msgid "Right"
+msgstr ""
+
+#: functions.php:258
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:259
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:260
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:261
+msgid "Tile"
+msgstr ""
+
+#: functions.php:262
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:263
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:268
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:269
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:272
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:276
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:284
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:287
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:358
+msgid "Says"
+msgstr ""
+
+#: functions.php:360
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:364 single.php:25
+msgid "at"
+msgstr ""
+
+#: header.php:7
+msgid "Blog Archive"
+msgstr ""
+
+#: header.php:46
+msgid "Bigger"
+msgstr ""
+
+#: header.php:46
+msgid "Bigger Font Size"
+msgstr ""
+
+#: header.php:47
+msgid "Smaller"
+msgstr ""
+
+#: header.php:47
+msgid "Smaller Font Size"
+msgstr ""
+
+#: header.php:48
+msgid "Left Align"
+msgstr ""
+
+#: header.php:49
+msgid "Justify"
+msgstr ""
+
+#: header.php:49
+msgid "Justify Align"
+msgstr ""
+
+#: header.php:50
+msgid "Right Align"
+msgstr ""
+
+#: header.php:51
+msgid "Bookmark<span>Bookmark This Page</span>"
+msgstr ""
+
+#: header.php:52
+msgid "Print<span>Print This Page</span>"
+msgstr ""
+
+#: index.php:12
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:15 search.php:73 single.php:26
+msgid "Tagged"
+msgstr ""
+
+#: index.php:31
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: links.php:31
+msgid "Links:"
+msgstr ""
+
+#: page.php:8
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: page.php:10 single.php:16
+msgid "Pages:"
+msgstr ""
+
+#: page.php:11 single.php:46
+msgid "Edit this entry."
+msgstr ""
+
+#: searchform.php:3
+msgid "Find"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Author"
+msgstr ""
+
+#: sidebar.php:18
+msgid "You are currently browsing the archives for the"
+msgstr ""
+
+#: sidebar.php:18
+msgid "category."
+msgstr ""
+
+#: sidebar.php:21 sidebar.php:25 sidebar.php:29 sidebar.php:37
+msgid "You are currently browsing the"
+msgstr ""
+
+#: sidebar.php:21 sidebar.php:25 sidebar.php:29 sidebar.php:33 sidebar.php:37
+msgid "weblog archives"
+msgstr ""
+
+#: sidebar.php:22
+msgid "for the day"
+msgstr ""
+
+#: sidebar.php:30
+msgid "for the year"
+msgstr ""
+
+#: sidebar.php:33
+msgid "You have searched the"
+msgstr ""
+
+#: sidebar.php:34
+msgid "for"
+msgstr ""
+
+#: sidebar.php:34
+msgid ""
+"If you are unable to find anything in these search results, you can try one "
+"of these links."
+msgstr ""
+
+#: sidebar.php:48
+msgid "Themes"
+msgstr ""
+
+#: sidebar.php:52
+msgid "Pages"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Batavia 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:54
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:60
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:69
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:73
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr ""
+
+#: sidebar.php:73
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+
+#: sidebar.php:74
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: single.php:12
+msgid "Permanent Link:"
+msgstr ""
+
+#: single.php:14
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: single.php:20
+msgid "This entry was posted"
+msgstr ""
+
+#: single.php:25
+msgid "on"
+msgstr ""
+
+#: single.php:25
+msgid "l, F jS, Y"
+msgstr ""
+
+#: single.php:26
+msgid "and is filed under"
+msgstr ""
+
+#: single.php:27
+msgid "feed"
+msgstr ""
+
+#: single.php:31
+msgid "You can"
+msgstr ""
+
+#: single.php:31
+msgid "leave a response"
+msgstr ""
+
+#: single.php:31
+msgid "or"
+msgstr ""
+
+#: single.php:31 single.php:35
+msgid "trackback"
+msgstr ""
+
+#: single.php:31
+msgid "from your own site"
+msgstr ""
+
+#: single.php:35
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: single.php:35
+msgid "from your own site."
+msgstr ""
+
+#: single.php:40
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: single.php:44
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Batavia"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Quick, simple and classic."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jose Mulia"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""

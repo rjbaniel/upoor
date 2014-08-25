@@ -1,0 +1,323 @@
+# Copyright (C) 2013 Evan Eckard
+# This file is distributed under the same license as the Notepad Chaos package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Notepad Chaos 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/notepad-chaos\n"
+"POT-Creation-Date: 2013-06-28 10:18:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archives.php:7 category.php:7 home.php:7 index.php:7 page.php:7
+#: single.php:7
+msgid "Find It &raquo;"
+msgstr ""
+
+#: archives.php:23 category.php:23 home.php:25 index.php:92 page.php:21
+#: single.php:25
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: archives.php:25 category.php:25 home.php:29 index.php:101 single.php:29
+msgid "posted under"
+msgstr ""
+
+#: archives.php:25 category.php:25 home.php:29 index.php:101 single.php:29
+msgid "No Comments &#187;"
+msgstr ""
+
+#: archives.php:25 category.php:25 home.php:29 index.php:101 single.php:29
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: archives.php:25 category.php:25 home.php:29 index.php:101 single.php:29
+msgid "% Comments &#187;"
+msgstr ""
+
+#: archives.php:28 category.php:28 home.php:32 index.php:104 single.php:33
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: archives.php:28 category.php:28 home.php:32 index.php:104 single.php:33
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: archives.php:31 category.php:31 home.php:35 index.php:107 page.php:31
+#: single.php:36
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:32 category.php:32 home.php:36 index.php:108 page.php:32
+#: single.php:37
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: columns.php:5 functions.php:81 navigation.php:2
+msgid "Home"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:84
+msgid "You must be"
+msgstr ""
+
+#: comments.php:84
+msgid "logged in"
+msgstr ""
+
+#: comments.php:84
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:93
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:93
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:93
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:99
+msgid "Name:"
+msgstr ""
+
+#: comments.php:100
+msgid "Email:"
+msgstr ""
+
+#: comments.php:101
+msgid "Email will not be published"
+msgstr ""
+
+#: comments.php:102
+msgid "Website Address:"
+msgstr ""
+
+#: comments.php:103
+msgid "Website example"
+msgstr ""
+
+#: comments.php:107
+msgid "Your Comment:"
+msgstr ""
+
+#: comments.php:109
+msgid "Add Comment &raquo;"
+msgstr ""
+
+#: footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:36
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:63
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:177
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:178
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:182
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:214
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:215
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:235
+msgid "Position"
+msgstr ""
+
+#: functions.php:236
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:239
+msgid "Left"
+msgstr ""
+
+#: functions.php:243
+msgid "Center"
+msgstr ""
+
+#: functions.php:247
+msgid "Right"
+msgstr ""
+
+#: functions.php:253
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:255
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile"
+msgstr ""
+
+#: functions.php:257
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:258
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:263
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:264
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:267
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:271
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:279
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:282
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:396
+msgid "Says:"
+msgstr ""
+
+#: functions.php:397
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: home.php:29 index.php:101 single.php:29
+msgid "by"
+msgstr ""
+
+#: home.php:29 index.php:101
+msgid "tagged under "
+msgstr ""
+
+#: home.php:29 single.php:29
+msgid "Edit"
+msgstr ""
+
+#: index.php:22 index.php:28 index.php:31 index.php:34
+msgid "Archive for"
+msgstr ""
+
+#: index.php:25
+msgid "Posts tagged with"
+msgstr ""
+
+#: index.php:37
+msgid "Author Archive"
+msgstr ""
+
+#: index.php:50
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: index.php:54
+msgid "Homepage:"
+msgstr ""
+
+#: index.php:55
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: index.php:56
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: index.php:57
+msgid "AIM:"
+msgstr ""
+
+#: index.php:64
+msgid "Search Results"
+msgstr ""
+
+#: navigation.php:3
+msgid "About"
+msgstr ""
+
+#: navigation.php:4
+msgid "Archives"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Notepad Chaos"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A real delight of a theme with beautiful touches all over."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Evan Eckard"
+msgstr ""

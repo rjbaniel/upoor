@@ -1,0 +1,137 @@
+/* -----------------------------------*/
+/* >> Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom-navigation {
+	margin: 0px 0px 15px;
+	padding: 0px 0px 8px;
+	float: left;
+	width: 100%;
+	}
+    
+
+#nav ul {
+	background: transparent;
+}
+
+
+#nav li {
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	}   
+
+#nav li li{
+	background: url(none)!important;
+	padding: 0px!important;
+	z-index: 999;
+	}
+
+#nav li ul {
+	position: absolute;
+	left: 0px; /* Set 1px less than menu width */
+	top: 24px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 150px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+	}
+
+/* Styles for Menu Items */
+
+
+#nav li a {
+	background: url("images/nav-button-bg.gif") repeat-x scroll 0 0 #5C8D0C;
+    border-left: 1px solid #AFCD69;
+    border-right: 1px solid #AFCD69;
+    border-top: 1px solid #E6EED0;
+    color: #FFFFFF;
+    display: block;
+    font: bold 14px/100% Arial,Helvetica,sans-serif;
+    padding: 5px 15px;
+    text-decoration: none;
+	}
+#nav li a:hover {
+	background: url("images/nav-button-bg.gif") repeat-x scroll 0 0 #5C8D0C;
+    border-left: 1px solid #AFCD69;
+    border-right: 1px solid #AFCD69;
+    border-top: 1px solid #E6EED0;
+    color: #FFFFFF;
+    display: block;
+    font: bold 14px/100% Arial,Helvetica,sans-serif;
+    padding: 5px 15px;
+    text-decoration: underline;
+	}
+
+
+#nav li ul li a {
+	background: #5C8D0C;
+    border: 0px none;
+    color: #FFFFFF;
+    display: block;
+    width: 120px;
+    font: bold 14px/100% Arial,Helvetica,sans-serif;
+    padding: 5px 15px;
+    text-decoration: none;
+	}
+#nav li ul li a:hover {
+   	background: #5E7C18;
+    border: 0px none;
+    color: #FFFFFF;
+    display: block;
+    width: 120px;
+    font: bold 14px/100% Arial,Helvetica,sans-serif;
+    padding: 5px 15px;
+    text-decoration: none;
+	}
+
+/* Holly Hack. IE Requirement \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+
+#nav li:hover ul, #nav li.over ul { display: block; } /* The magic */
+#custom #nav li ul li:hover ul, #custom #nav li ul li.over ul { display: block; } /* The magic */
+#custom #nav li ul li ul li:hover ul, #custom #nav li ul li ul li.over ul { display: block !important; } /* The magic */
+/* -----------------------------------*/
+/* >> End Dropdown Navigations <<<-----*/
+/* -----------------------------------*/
+#custom #nav li ul li ul {
+	position: absolute;
+	left: 140px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	width: 150px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+#custom #nav li ul li ul li ul {
+	position: absolute;
+	left: 140px; /* Set 1px less than menu width */
+	top: 0px;
+	display: none !important;
+	margin: 0px;
+	padding: 0px;
+	width: 150px;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	border-top-width: 0px;
+	border-top-style: none;
+	list-style-type: none;
+}
+
+/* 12852-1333369299 */

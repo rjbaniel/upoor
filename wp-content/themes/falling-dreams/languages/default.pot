@@ -1,0 +1,279 @@
+# Copyright (C) 2013 Razvan Teodorescu
+# This file is distributed under the same license as the Falling Dreams package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Falling Dreams 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/falling-dreams\n"
+"POT-Creation-Date: 2013-06-28 10:17:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comments.php:2
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: comments.php:5
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:5 index.php:38
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:7 comments.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:34
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:45
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:48
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments.php:50
+msgid "TrackBack"
+msgstr ""
+
+#: comments.php:50 comments.php:80
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: comments.php:58
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, "
+"<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: comments.php:68
+msgid "Name"
+msgstr ""
+
+#: comments.php:68 comments.php:75
+msgid "(required)"
+msgstr ""
+
+#: comments.php:75
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:84
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:90
+msgid "Say It!"
+msgstr ""
+
+#: comments.php:99
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: footer.php:6
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:31
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:58
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:76
+msgid "Home"
+msgstr ""
+
+#: functions.php:172
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:177
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:209
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:230
+msgid "Position"
+msgstr ""
+
+#: functions.php:231
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:234
+msgid "Left"
+msgstr ""
+
+#: functions.php:238
+msgid "Center"
+msgstr ""
+
+#: functions.php:242
+msgid "Right"
+msgstr ""
+
+#: functions.php:248
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:249
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "Tile"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:258
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:259
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:262
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:266
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:274
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:277
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:348
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:356
+msgid "Edit This"
+msgstr ""
+
+#: index.php:7
+msgid "F jS, Y"
+msgstr ""
+
+#: index.php:13
+msgid "Posted by"
+msgstr ""
+
+#: index.php:13
+msgid "in"
+msgstr ""
+
+#: index.php:13
+msgid "Tagged"
+msgstr ""
+
+#: index.php:14
+msgid "Edit"
+msgstr ""
+
+#: index.php:28
+msgid "(more...)"
+msgstr ""
+
+#: index.php:38
+msgid "0 Comments"
+msgstr ""
+
+#: index.php:38
+msgid "1 Comments"
+msgstr ""
+
+#: index.php:54
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: index.php:57
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: index.php:57
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: sidebar.php:10 sidebar.php:16
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:29
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:40
+msgid "Monthly"
+msgstr ""
+
+#: sidebar.php:50
+msgid "Themes"
+msgstr ""
+
+#: sidebar.php:58
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Falling Dreams"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Don't go breaking my heart."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Razvan Teodorescu"
+msgstr ""

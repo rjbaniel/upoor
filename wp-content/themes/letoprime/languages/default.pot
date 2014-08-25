@@ -1,0 +1,573 @@
+# Copyright (C) 2013 david hodgkins
+# This file is distributed under the same license as the LetoPrime package.
+msgid ""
+msgstr ""
+"Project-Id-Version: LetoPrime 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/letoprime\n"
+"POT-Creation-Date: 2013-06-28 10:18:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"Looks like you're looking for something that isn't here.  Use the search box "
+"to try your search again."
+msgstr ""
+
+#: archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:9
+msgid "Category"
+msgstr ""
+
+#: archive.php:12 archive.php:15 archive.php:18
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:36
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:40
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:41
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:42
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:43
+msgid "AIM:"
+msgstr ""
+
+#: archive.php:58
+msgid "You are currently browsing the archives for the"
+msgstr ""
+
+#: archive.php:58
+msgid "category."
+msgstr ""
+
+#: archive.php:61 archive.php:65 archive.php:69 archive.php:74
+msgid "You are currently browsing the"
+msgstr ""
+
+#: archive.php:61 archive.php:65 archive.php:69 archive.php:74
+msgid "weblog archives"
+msgstr ""
+
+#: archive.php:62
+msgid "for the day"
+msgstr ""
+
+#: archive.php:70
+msgid "for the year"
+msgstr ""
+
+#: archive.php:79 archive.php:114 index.php:39
+msgid "Previous Entries"
+msgstr ""
+
+#: archive.php:80 archive.php:115 index.php:40
+msgid "Next Entries"
+msgstr ""
+
+#: archive.php:85 index.php:10 searchtags.php:16 single.php:15
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:86 index.php:11 single.php:16
+msgid "Edit Link"
+msgstr ""
+
+#: archive.php:86 index.php:11 single.php:16
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:86 index.php:11 single.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:86 index.php:11 single.php:16
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:87 index.php:12 single.php:17 single.php:35
+msgid "Tags: "
+msgstr ""
+
+#: archive.php:102 index.php:27
+msgid "...read more"
+msgstr ""
+
+#: archive.php:120 index.php:45
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:13
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:18
+msgid "Archives by Subject:"
+msgstr ""
+
+#: attachment.php:14
+msgid "Permanent Link:"
+msgstr ""
+
+#: attachment.php:18 single.php:24
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: attachment.php:20 page.php:11
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:24
+msgid "This entry was posted"
+msgstr ""
+
+#: attachment.php:29 single.php:33
+msgid "on"
+msgstr ""
+
+#: attachment.php:29 single.php:33
+msgid "l, F jS, Y"
+msgstr ""
+
+#: attachment.php:29 single.php:33
+msgid "at"
+msgstr ""
+
+#: attachment.php:30
+msgid "and is filed under"
+msgstr ""
+
+#: attachment.php:31 single.php:36
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: attachment.php:31 single.php:36
+msgid "feed"
+msgstr ""
+
+#: attachment.php:35 single.php:40
+msgid "You can"
+msgstr ""
+
+#: attachment.php:35 single.php:40
+msgid "leave a response"
+msgstr ""
+
+#: attachment.php:35 single.php:40
+msgid "or"
+msgstr ""
+
+#: attachment.php:35 attachment.php:39 single.php:40 single.php:44
+msgid "trackback"
+msgstr ""
+
+#: attachment.php:35 attachment.php:39 single.php:40 single.php:44
+msgid "from your own site"
+msgstr ""
+
+#: attachment.php:39 single.php:44
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: attachment.php:43 single.php:48
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: attachment.php:47 single.php:52
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: attachment.php:49 page.php:12 single.php:54
+msgid "Edit this entry."
+msgstr ""
+
+#: attachment.php:61
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: comments-ajax.php:28
+msgid "Sorry, comments are closed for this item."
+msgstr ""
+
+#: comments-ajax.php:44
+msgid "Sorry, you must be logged in to post a comment."
+msgstr ""
+
+#: comments-ajax.php:51
+msgid "Error: please fill the required fields (name, email)."
+msgstr ""
+
+#: comments-ajax.php:53
+msgid "Error: please enter a valid email address."
+msgstr ""
+
+#: comments-ajax.php:57
+msgid "Error: please type a comment."
+msgstr ""
+
+#: comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "No Comments Yet"
+msgstr ""
+
+#: comments.php:19
+msgid "1 Comment Already"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments Already"
+msgstr ""
+
+#: comments.php:44
+msgid "Trackback and Pingback"
+msgstr ""
+
+#: comments.php:59
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:67
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:75
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:84
+msgid "Logged in as %s."
+msgstr ""
+
+#: comments.php:84
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:84
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:90
+msgid "Name"
+msgstr ""
+
+#: comments.php:90 comments.php:94
+msgid "(required)"
+msgstr ""
+
+#: comments.php:94
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:98
+msgid "Website"
+msgstr ""
+
+#: comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:5
+msgid "Y"
+msgstr ""
+
+#: footer.php:6
+msgid "Hosted by"
+msgstr ""
+
+#: footer.php:8
+msgid "Entries (RSS)"
+msgstr ""
+
+#: footer.php:9
+msgid "and"
+msgstr ""
+
+#: footer.php:9
+msgid "Comments (RSS)"
+msgstr ""
+
+#: footer.php:10
+msgid "queries"
+msgstr ""
+
+#: footer.php:10
+msgid "seconds"
+msgstr ""
+
+#: functions.php:33
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:60
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:78
+msgid "Home"
+msgstr ""
+
+#: functions.php:174
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:175
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:179
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:211
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:212
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:232
+msgid "Position"
+msgstr ""
+
+#: functions.php:233
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:236
+msgid "Left"
+msgstr ""
+
+#: functions.php:240
+msgid "Center"
+msgstr ""
+
+#: functions.php:244
+msgid "Right"
+msgstr ""
+
+#: functions.php:250
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:255
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:260
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:261
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:264
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:268
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:276
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:279
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:358
+msgid "comment by"
+msgstr ""
+
+#: functions.php:358
+msgid "said:"
+msgstr ""
+
+#: functions.php:360
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:360
+msgid "Permalink"
+msgstr ""
+
+#: functions.php:360
+msgid "edit"
+msgstr ""
+
+#: functions.php:367
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:46
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: links.php:11
+msgid "Links:"
+msgstr ""
+
+#: page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: searchtags.php:19
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: searchtags.php:22
+msgid "Edit"
+msgstr ""
+
+#: searchtags.php:22
+msgid "No Comments &#187;"
+msgstr ""
+
+#: searchtags.php:22
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: searchtags.php:22
+msgid "% Comments &#187;"
+msgstr ""
+
+#: searchtags.php:142
+msgid "All of the Selected Tags"
+msgstr ""
+
+#: searchtags.php:143
+msgid "Any of the Selected Tags"
+msgstr ""
+
+#: searchtags.php:151
+msgid "Matching Posts"
+msgstr ""
+
+#: sidebar.php:14 single.php:26
+msgid "Pages"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (LetoPrime 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:31
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:36
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: single.php:33
+msgid "posted this entry"
+msgstr ""
+
+#: single.php:34
+msgid "Posted in the category"
+msgstr ""
+
+#: single.php:68
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: tags.php:12
+msgid "Tags"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "LetoPrime"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Nice headers and round corners, just for you."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "david hodgkins"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Tag Search"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Tag Archive"
+msgstr ""

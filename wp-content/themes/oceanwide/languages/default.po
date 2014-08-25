@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oceanwide\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-29 03:38+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\oceanwide\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/archives.php:12
+msgid "By Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/archives.php:19
+msgid "By Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:35
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:83
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:85
+msgid "Filed Under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:85
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:37
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:413
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:451
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:489
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:85
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:49
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:106
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:60
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:121
+msgid "Post a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:62
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:42
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:123
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:68
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:129
+msgid "(0) Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:68
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:129
+msgid "(1) Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:68
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:129
+msgid "(%) Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:70
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:131
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:89
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/attachment.php:91
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:26
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:26
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:26
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:48
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:81
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:81
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:81
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:94
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:94
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:94
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:99
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:99
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:102
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:102
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:105
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/comments.php:116
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:21
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:21
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:23
+msgid "Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:25
+msgid "comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:27
+msgid "queries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:27
+msgid "seconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/footer.php:32
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:36
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:42
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/functions.php:518
+msgid "Reset"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:21
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:12
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:37
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:41
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:42
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:43
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:44
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:51
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:85
+msgid "and tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:149
+msgid "Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:151
+msgid "Next Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:165
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/index.php:167
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/links.php:14
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/page.php:15
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/page.php:19
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/sidebar_right.php:11
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/page.php:23
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/sidebar.php:7
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/sidebar_right.php:23
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/sidebar_right.php:33
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\oceanwide/single.php:79
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

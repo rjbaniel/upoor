@@ -1,0 +1,358 @@
+# Copyright (C) 2013 Devolux
+# This file is distributed under the same license as the jQ package.
+msgid ""
+msgstr ""
+"Project-Id-Version: jQ 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/jq\n"
+"POT-Creation-Date: 2013-06-28 10:18:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6 page.php:20 single.php:30 wp-loop.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: archive.php:8
+msgid "CAT"
+msgstr ""
+
+#: archive.php:10
+msgid "TAG"
+msgstr ""
+
+#: archive.php:12 archive.php:14 archive.php:16
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:18
+msgid "Blog Archive"
+msgstr ""
+
+#: archive.php:31
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:35
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:36
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:37
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:38
+msgid "AIM:"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:13 index.php:23 single.php:17 wp-loop.php:13
+msgid "No comments"
+msgstr ""
+
+#: comments.php:13
+msgid "1 comment"
+msgstr ""
+
+#: comments.php:13
+msgid "% comments"
+msgstr ""
+
+#: comments.php:22
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:25
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:34
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:34
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:41
+msgid "logged in"
+msgstr ""
+
+#: comments.php:41
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:48
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:48
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:48
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:52
+msgid "Name"
+msgstr ""
+
+#: comments.php:55 header.php:91 header.php:108
+msgid "Mail"
+msgstr ""
+
+#: comments.php:58
+msgid "Website"
+msgstr ""
+
+#: comments.php:66
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:69
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:7
+msgid "Find it!"
+msgstr ""
+
+#: footer.php:12
+msgid "Theme Design by"
+msgstr ""
+
+#: footer.php:19
+msgid "Tag Cloud"
+msgstr ""
+
+#: footer.php:28
+msgid "Archives"
+msgstr ""
+
+#: footer.php:35
+msgid "Y"
+msgstr ""
+
+#: footer.php:37
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:35
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:62
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:80 header.php:97
+msgid "Home"
+msgstr ""
+
+#: functions.php:176
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:177
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:181
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:213
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:214
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:234
+msgid "Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:238
+msgid "Left"
+msgstr ""
+
+#: functions.php:242
+msgid "Center"
+msgstr ""
+
+#: functions.php:246
+msgid "Right"
+msgstr ""
+
+#: functions.php:252
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:253
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:255
+msgid "Tile"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:257
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:262
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:266
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:270
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:278
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:281
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:369
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:372
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: header.php:93 header.php:110
+msgid "RSS"
+msgstr ""
+
+#: index.php:23 single.php:17 wp-loop.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:23 single.php:17 wp-loop.php:13
+msgid "% Comments"
+msgstr ""
+
+#: index.php:24
+msgid "Posted"
+msgstr ""
+
+#: index.php:24 single.php:17 wp-loop.php:13
+msgid "in"
+msgstr ""
+
+#: page.php:5 sidebar2.php:2
+msgid "Sidebar"
+msgstr ""
+
+#: search.php:5
+msgid "Search"
+msgstr ""
+
+#: searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: sidebar.php:2
+msgid "Toggle posts"
+msgstr ""
+
+#: sidebar.php:9 sidebar2.php:7
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:15 sidebar2.php:13
+msgid "Blogroll"
+msgstr ""
+
+#: sidebar.php:21 sidebar2.php:19
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:25 sidebar2.php:23
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: sidebar.php:25 sidebar2.php:23
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: sidebar.php:26 sidebar2.php:24
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: sidebar.php:26 sidebar2.php:24
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: single.php:17 wp-loop.php:13
+msgid "Posted by"
+msgstr ""
+
+#: wp-loop.php:49
+msgid "&laquo; Latest posts"
+msgstr ""
+
+#: wp-loop.php:50
+msgid "Older posts &raquo;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "jQ"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A real cracker of a theme with dropdown navigation, font resizing, content "
+"slider, movable sidebars, custom colours, excerpts on index pages, category "
+"or page navigation, different font and colour schemes.  Phew!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Devolux"
+msgstr ""

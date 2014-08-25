@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: diary-cute\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-07 03:01+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\bptrunk\\wp-content\\themes\\diary-cute\n"
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/404.php:17
+msgid "Error 404-Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/404.php:19
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:101
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/guestbook.php:77
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:71
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:71
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:72
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:21
+msgid "Archive for the"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:21
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:25
+msgid "Posts Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:29
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:37
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:41
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:45
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:61
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:55
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/guestbook.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:31
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:31
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:63
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:33
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:63
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:33
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:63
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:33
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:63
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:33
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:33
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:69
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/guestbook.php:41
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:39
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:39
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:39
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:75
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:45
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:45
+msgid "Tags: "
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:87
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:57
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:57
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:58
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:89
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:59
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:59
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:60
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archive.php:99
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/guestbook.php:75
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/index.php:69
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/page.php:69
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/single.php:70
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:37
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:39
+msgid "All internal pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:47
+msgid "All internal blog posts:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:61
+msgid "Topical archive pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:69
+msgid "Monthly archive pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/archives.php:79
+msgid "Available RSS Feeds:"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:33
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:33
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:33
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:395
+msgid "Comments are closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:403
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:495
+msgid "Back to top"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:411
+msgid "Leave a reply"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:437
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:441
+msgid "(<b>*</b>)"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/comments.php:465
+msgid "Submit"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/footer.php:9
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/header.php:25
+msgid "RSS 2.0 - all posts"
+msgstr ""
+
+#: C:\xampp\htdocs\bptrunk\wp-content\themes\diary-cute/searchform.php:3
+msgid "Search"
+msgstr ""
+

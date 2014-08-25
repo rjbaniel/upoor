@@ -1,0 +1,317 @@
+# Copyright (C) 2013 Eli Foner
+# This file is distributed under the same license as the Twenty-eight Thirteen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty-eight Thirteen 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/twenty-eight\n"
+"POT-Creation-Date: 2013-06-28 10:18:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:3
+msgid "404 - Not Found"
+msgstr ""
+
+#: 404.php:5
+msgid ""
+"You seem to be a little lost or have followed a broken link. Perhaps what "
+"you are looking for can be found by searching:"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:31 comments.php:48 home.php:8 page-archives.php:6
+#: page-comments.php:3 page.php:8 theloop.php:44
+msgid "Edit Link"
+msgstr ""
+
+#: comments.php:33 comments.php:48
+msgid "at"
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:68
+msgid "log in"
+msgstr ""
+
+#: comments.php:68
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:68
+msgid "There was an error with your comment, please try again."
+msgstr ""
+
+#: comments.php:70
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:70
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:70
+msgid "Logout"
+msgstr ""
+
+#: comments.php:72
+msgid "(required)"
+msgstr ""
+
+#: comments.php:74
+msgid "Submit"
+msgstr ""
+
+#: footer.php:2
+msgid "Y"
+msgstr ""
+
+#: footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:34
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:61
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:79
+msgid "Home"
+msgstr ""
+
+#: functions.php:175
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:176
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:180
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:212
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:213
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:233
+msgid "Position"
+msgstr ""
+
+#: functions.php:234
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:237
+msgid "Left"
+msgstr ""
+
+#: functions.php:241
+msgid "Center"
+msgstr ""
+
+#: functions.php:245
+msgid "Right"
+msgstr ""
+
+#: functions.php:251
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:253
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile"
+msgstr ""
+
+#: functions.php:255
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:256
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:261
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:262
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:265
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:269
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:277
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:280
+msgid "Reset Settings"
+msgstr ""
+
+#: home.php:9 theloop.php:46
+msgid "in"
+msgstr ""
+
+#: home.php:9 theloop.php:46
+msgid "with"
+msgstr ""
+
+#: home.php:16 theloop.php:54
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: home.php:18 page-comments.php:3 page.php:11 theloop.php:57
+msgid "Pages"
+msgstr ""
+
+#: navigation.php:1
+msgid " Previous Entries"
+msgstr ""
+
+#: navigation.php:1
+msgid "Next Entries"
+msgstr ""
+
+#: page-archives.php:7
+msgid "Browse by Category"
+msgstr ""
+
+#: page-archives.php:7
+msgid "Browse by Month"
+msgstr ""
+
+#: page-archives.php:8
+msgid "Stats"
+msgstr ""
+
+#: page-archives.php:8
+msgid "Entries"
+msgstr ""
+
+#: page-archives.php:8
+msgid "Comments"
+msgstr ""
+
+#: page-archives.php:8
+msgid "Categories"
+msgstr ""
+
+#: page-comments.php:3 page.php:11
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: page.php:20
+msgid "Not Found"
+msgstr ""
+
+#: page.php:23
+msgid "Oh no! You're looking for something which just isn't here."
+msgstr ""
+
+#: searchform.php:1
+msgid "Go"
+msgstr ""
+
+#: theloop.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: theloop.php:9
+msgid "Category"
+msgstr ""
+
+#: theloop.php:12
+msgid "Posts Tagged"
+msgstr ""
+
+#: theloop.php:15 theloop.php:18 theloop.php:21
+msgid "Archive for"
+msgstr ""
+
+#: theloop.php:15
+msgid "F jS, Y"
+msgstr ""
+
+#: theloop.php:24
+msgid "Search Results for"
+msgstr ""
+
+#: theloop.php:27
+msgid "Author Archive for"
+msgstr ""
+
+#: theloop.php:31
+msgid "Archive Page"
+msgstr ""
+
+#: theloop.php:46
+msgid "Tags: "
+msgstr ""
+
+#: theloop.php:69
+msgid "Oops, I Did Not Find Anything"
+msgstr ""
+
+#: theloop.php:69
+msgid ""
+"What you were searching for could not be found. Maybe what you are looking "
+"for can be found by trying an alternate search query or browsing through the "
+"archives."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Twenty-eight Thirteen"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Another in our range of clean white crispness."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Eli Foner"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Default Template w. Comments"
+msgstr ""

@@ -1,0 +1,4 @@
+<form method="get" id="searchform" action="<?php bloginfo('url'); ?>/">
+	<input type="text" value="<?php echo isset($s)?esc_html($s, 1):''; ?>" name="s" id="s" size="15" />
+	<input type="submit" id="searchsubmit" value="<?php _e('Search',TEMPLATE_DOMAIN);?>" />
+</form>

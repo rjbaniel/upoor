@@ -1,0 +1,491 @@
+# Copyright (C) 2013 Ravi Varma
+# This file is distributed under the same license as the PrimePress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PrimePress 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/primepress\n"
+"POT-Creation-Date: 2013-06-28 10:18:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:4
+msgid "Oops! Page Not Found (Error 404)"
+msgstr ""
+
+#: 404.php:6
+msgid ""
+"Oops... sorry! For one reason or another the <strong>page</strong> you are "
+"looking for could not be found and its probably not your fault. It might be:"
+msgstr ""
+
+#: 404.php:8
+msgid "A mis-typed URL"
+msgstr ""
+
+#: 404.php:9
+msgid "An out-of-date or a faulty referral from another site"
+msgstr ""
+
+#: 404.php:10
+msgid "Or an old page that has been deleted or moved"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"You could maybe visit the <a href=\"<?php bloginfo(\"url\"); ?>\">Home Page</"
+"a> to start fresh or try the search."
+msgstr ""
+
+#: archive.php:17
+msgid "Posts under"
+msgstr ""
+
+#: archive.php:21
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:25
+msgid "Posts on"
+msgstr ""
+
+#: archive.php:29
+msgid "Posts from"
+msgstr ""
+
+#: archive.php:34
+msgid "Posts in"
+msgstr ""
+
+#: archive.php:49
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: archive.php:53
+msgid "Homepage:"
+msgstr ""
+
+#: archive.php:54
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: archive.php:55
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: archive.php:56
+msgid "AIM:"
+msgstr ""
+
+#: archive.php:63
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:77 search.php:10
+msgid "Permalink to"
+msgstr ""
+
+#: archive.php:85 image.php:29 index.php:29 search.php:18 single.php:29
+msgid "by "
+msgstr ""
+
+#: archive.php:87 image.php:31 index.php:31 search.php:20 single.php:31
+msgid "No comments yet"
+msgstr ""
+
+#: archive.php:87 image.php:31 index.php:31 search.php:20 single.php:31
+msgid "1 comment"
+msgstr ""
+
+#: archive.php:87 image.php:31 index.php:31 search.php:20 single.php:31
+msgid "% comments"
+msgstr ""
+
+#: archive.php:87 image.php:31 index.php:31 search.php:20 single.php:31
+msgid "Comments are off for this post"
+msgstr ""
+
+#: archive.php:89 image.php:33 index.php:33 page-comments.php:35
+#: page-nosidebars.php:35 page.php:27 search.php:22 single.php:33
+msgid "Edit"
+msgstr ""
+
+#: archive.php:105
+msgid "<p>Click here to read more</p>"
+msgstr ""
+
+#: comments-legacy.php:3 comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments-legacy.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments-legacy.php:25 comments-legacy.php:57 comments.php:25
+msgid "No Comments"
+msgstr ""
+
+#: comments-legacy.php:25 comments-legacy.php:57 comments.php:25
+msgid "One Comment"
+msgstr ""
+
+#: comments-legacy.php:25 comments-legacy.php:57 comments.php:25
+msgid "% Comments"
+msgstr ""
+
+#: comments-legacy.php:35
+msgid "on"
+msgstr ""
+
+#: comments-legacy.php:35
+msgid "at"
+msgstr ""
+
+#: comments-legacy.php:37
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments-legacy.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: comments-legacy.php:73 comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments-legacy.php:73 comments.php:77
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments-legacy.php:87 comments.php:91
+msgid "You must be"
+msgstr ""
+
+#: comments-legacy.php:87 comments.php:91
+msgid "logged in"
+msgstr ""
+
+#: comments-legacy.php:87 comments.php:91
+msgid "to post a comment."
+msgstr ""
+
+#: comments-legacy.php:103 comments.php:107
+msgid "Logged in as"
+msgstr ""
+
+#: comments-legacy.php:103 comments.php:107
+msgid "Log out of this account"
+msgstr ""
+
+#: comments-legacy.php:103 comments.php:107
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments-legacy.php:113 comments.php:117
+msgid "Name"
+msgstr ""
+
+#: comments-legacy.php:119 comments.php:123
+msgid "Email"
+msgstr ""
+
+#: comments-legacy.php:119 comments.php:123
+msgid "(will not be published)"
+msgstr ""
+
+#: comments-legacy.php:125 comments.php:129
+msgid "Website"
+msgstr ""
+
+#: comments-legacy.php:141 comments.php:145
+msgid "Submit"
+msgstr ""
+
+#: comments.php:9
+msgid ""
+"<p class=\"nocomments\">This post is password protected. Enter the password "
+"to view comments.</p>"
+msgstr ""
+
+#: comments.php:39
+msgid "&#8592; Older Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Newer Comments &#8594;"
+msgstr ""
+
+#: comments.php:55
+msgid "<p class='nocomments'>Comments are closed.</p>"
+msgstr ""
+
+#: footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:45
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:72
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:90 main-menu.php:3
+msgid "Home"
+msgstr ""
+
+#: functions.php:186
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:187
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:191
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:223
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:224
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:244
+msgid "Position"
+msgstr ""
+
+#: functions.php:245
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:248
+msgid "Left"
+msgstr ""
+
+#: functions.php:252
+msgid "Center"
+msgstr ""
+
+#: functions.php:256
+msgid "Right"
+msgstr ""
+
+#: functions.php:262
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:263
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:264
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:265
+msgid "Tile"
+msgstr ""
+
+#: functions.php:266
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:267
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:272
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:273
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:276
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:280
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:288
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:291
+msgid "Reset Settings"
+msgstr ""
+
+#: header-images.php:3
+msgid "Rotating Header Image"
+msgstr ""
+
+#: header-images.php:3
+msgid "Random Header Image"
+msgstr ""
+
+#: header.php:100
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:100
+msgid "Skip to Content &darr;"
+msgstr ""
+
+#: image.php:45 index.php:41
+msgid "Continue reading..."
+msgstr ""
+
+#: image.php:83 index.php:75 single.php:81
+msgid "Not Found"
+msgstr ""
+
+#: image.php:87 index.php:79 single.php:85
+msgid "Sorry, what you are looking for isn't here."
+msgstr ""
+
+#: index.php:43 page-comments.php:45 page-home.php:33 page-nosidebars.php:45
+#: page.php:37 single.php:43
+msgid "Pages:"
+msgstr ""
+
+#: index.php:49 single.php:49
+msgid "Posted in: "
+msgstr ""
+
+#: navigation.php:23
+msgid "&#8592; Earlier Posts"
+msgstr ""
+
+#: navigation.php:25
+msgid "Newer Posts &#8594;"
+msgstr ""
+
+#: page-archives.php:27
+msgid "The following is the list of archives organized by time and category."
+msgstr ""
+
+#: page-archives.php:29
+msgid "Category Archives"
+msgstr ""
+
+#: page-archives.php:37 page-sitemap.php:57
+msgid "Monthly Archives"
+msgstr ""
+
+#: page-archives.php:49
+msgid "Tag Archives"
+msgstr ""
+
+#: page-sitemap.php:27 sidebar-two.php:27
+msgid "Pages"
+msgstr ""
+
+#: page-sitemap.php:37
+msgid "Posts"
+msgstr ""
+
+#: page-sitemap.php:47 sidebar-one.php:13
+msgid "Categories"
+msgstr ""
+
+#: search.php:4
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:51
+msgid "No posts found. Try a different search"
+msgstr ""
+
+#: searchform.php:1
+msgid "Search"
+msgstr ""
+
+#: searchform.php:7
+msgid "Type in and hit enter to search"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (PrimePress 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar-one.php:27
+msgid "Archives"
+msgstr ""
+
+#: sidebar-two.php:13
+msgid "Calendar"
+msgstr ""
+
+#: sidebar-two.php:41
+msgid "Meta"
+msgstr ""
+
+#: sidebar-wide.php:13
+msgid "Recent Posts"
+msgstr ""
+
+#: subscribe.php:7
+msgid "Subscribe <span class=\"email-narrow\">to our Feed</span> via RSS"
+msgstr ""
+
+#: subscribe.php:17
+msgid "Subscribe via Email"
+msgstr ""
+
+#: subscribe.php:17
+msgid "Subscribe via eMail"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "PrimePress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean, attractive and customizable theme with multiple sidebar options, "
+"great custom header space and more... prime indeed!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ravi Varma"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Enable Comments"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "HomePage"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebars"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sitemap"
+msgstr ""

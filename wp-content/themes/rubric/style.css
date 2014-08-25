@@ -1,0 +1,420 @@
+/*
+
+Theme Name: Rubric
+Description: Flexible and somewhat academic, wouldn't you say.
+Author: Hadley Wickham
+Tags: white, red, two column, flexible width, widget, custom header, threaded comments
+WDP ID: 128
+Version: 1.3.7.9
+
+*/
+
+/* Captions and image alignment for wordpress */
+
+div.aligncenter {
+	display: block !important;
+    margin: 0px auto 10px;
+}
+div.alignleft {
+	float: left !important;
+	margin-right: 10px;
+}
+div.alignright {
+	float: right !important;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.wp-caption {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+	background-color: #F8F8F8;
+	padding-top: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wp-caption img {
+	margin: 0 !important;
+	padding: 0 !important;
+	border: 0 none !important;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 16px;
+    text-align: center !important;
+	padding: 5px 4px;
+	margin: 0;
+	font-family: Arial, Tahoma, "Lucida Sans";
+	color: #949494;
+	font-style: normal;
+}
+
+blockquote p {
+	margin: 0px !important;
+	padding: 0px;
+}
+
+blockquote {
+	margin: 1em 25px;
+	line-height: 24px;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 10px;
+	font-family: Georgia, "Times New Roman", Helvetica, sans-serif;
+	font-style: italic;
+	border-left: 5px solid #000000;
+}
+
+
+pre {
+	margin: 8px 0px;
+	padding: 10px;
+	clear: both;
+	width: 92%;
+	overflow: scroll;
+	font-family: "Courier New", "MS Sans Serif", sans-serif, serif;
+	background: #FFFFFF;
+	color: #000000;
+	font-size: 13px;
+	line-height: 22px;
+	white-space: nowrap;
+	border: 1px solid #eeeeee;
+}
+em {
+	font-style: italic;
+}
+
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	float: right;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	float: left;
+	}
+
+.alignright {
+	float: right;
+	}
+
+.alignleft {
+	float: left;
+	}
+
+.commentlist {
+  margin: 10px 0px 10px 20px;
+  padding: 0px;
+  list-style: none;
+}
+.commentlist li {
+  margin-left: 0px;
+  padding: 8px;
+}
+.thread-alt {
+  background: #eee;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.commentlist .children {
+padding-left: 0px;
+}
+
+.commentlist .children img.avatar {
+  width: 32px;
+  height: 32px;
+}
+.commentlist .children {
+padding-left: 10px;
+margin-left: 20px;
+margin-top: 10px;
+border-left: 2px solid #ddd;
+list-style: none;
+}
+
+.commentlist .children .children img.avatar {
+  width: 25px;
+  height: 25px;
+}
+
+#post-navigator-single {
+width: 100%;
+float: left;
+}
+
+#pings {
+  list-style: none;
+}
+#author-block {
+  width: 94%;
+  padding: 3%;
+  float: left;
+  margin-bottom: 25px;
+  background: #eee;
+}
+#author-block h1 {
+display: block;
+width: 100%;
+float: left;
+font-size: 20px;
+  margin-bottom: 10px;
+}
+#author-block .info {
+ float: left;
+ width: 70%;
+ padding-left: 15px;
+}
+#author-block .info p {
+ font-size: 12px;
+ width: 100%;
+float: left;
+ margin-top: 0px;
+ margin-bottom: 16px;
+ line-height: 20px;
+}
+
+
+/* End captions and image alignment */
+
+.post {
+  width: 96%;
+  padding: 1% 2% 1% 2%;
+  float: left;
+  background-color: #FFF;
+}
+
+.post .feedback {
+  width: 100%;
+  padding-top: 2%;
+  float: left;
+}
+.post img {
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+.post img.wp-smiley, #menu img {
+  padding: 0px !important;
+  border: 0 none !important;
+}
+#menu ul li {
+  padding-bottom: 15px;
+}
+#menu ul li ul li {
+  padding-bottom: 3px !important;
+}
+
+#wpcombar a {
+	border: none;
+}
+#wpcombar a:hover {
+	background: #6da6d1;
+	color: black;
+}
+
+body {
+	background-color: #fff;
+	background-image: url("images/rubric/gradient.gif");
+	background-attachment: fixed;
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+
+#content {
+    width: 73%;
+    float:left;
+	margin-left: 40px;
+	background-color: #fff;
+	padding: 0.5em;
+	margin-top: 60px;
+	border: 1px #eee solid;
+}
+* html #content { margin-top: 60px; }
+/* Image from sxc.hu (http://www.sxc.hu/browse.phtml?f=view&id=16710)
+   Thanks bradleym! */
+
+
+#header {
+	position: absolute;
+	top: 40px;
+	left: 0px;
+	background-image: url("images/rubric/pen-sm.jpg");
+	background-position: top right;
+	background-repeat: no-repeat;
+	width:80%;
+	margin: 0;
+	height: 150px;
+	
+	padding-left: 45px;
+	
+	font-family: Georgia;
+	font-weight: normal;
+	font-size: 3em;
+}
+
+
+/* Content & menu
+   -------------------------------------------- */
+
+#menu {
+
+	float: right;
+    width: 20%;
+	margin-top: 60px;
+	font-size: 90%;
+    display: inline;
+}
+* html #menu { /* make IE put it in the right place */
+	right: 5em;
+}
+
+
+#menu ul {
+	margin-top: 0;
+	padding-left: 0;
+	margin-left: 0;
+	list-style: none;	
+	font-weight: bold;
+	color: #B54141;
+}
+
+#menu h2 {
+	font-size: 1em;
+}
+
+#menu a:link, #menu a:visited {
+	color: black;
+	border: none;
+}
+
+#menu ul ul {
+	margin-left: 0;
+	list-style: disc;
+	list-style-position: inside;
+	padding-left: 0.5em;
+	text-indent: 0;
+	font-weight: normal;
+	color: black;
+}
+
+
+#menu form{
+	margin: 0;	 
+}
+#menu form br {
+	display:none;
+}
+
+ 
+/* Post
+   -------------------------------------------- */
+
+
+#content h2 {
+	font-size: 0.9em;
+	color: #666;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 0.33em;
+}
+
+.storytitle {
+	margin-top: 0.25em;
+}
+
+.post-categories {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+.post-categories li {
+	display: inline;
+	margin-left: 0 3px 0 0;
+	padding: 0;
+}
+
+.post .meta {
+	font-size: 0.85em;
+	color: #666;
+}
+.post .meta * {
+	margin-top: 0;
+}	
+
+.post .feedback {
+	margin-bottom: 3em;
+	border-bottom: 1px solid #ccc; 
+	padding-bottom: 1px;
+}
+
+
+/* Credit
+   -------------------------------------------- */
+	 
+p.credit {	
+	margin-right: 20em;
+	margin-left: 40px;
+	padding: 2%;
+	font-size: 96%;
+    float:left;
+    display: block;
+}
+p.credit a:visited, p.credit a:link {
+	border: none;
+}
+	
+
+/* Basic typography
+   -------------------------------------------- */
+
+body {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 80%;
+}
+
+p, td, th, li {
+	font-size: 1em;
+	line-height: 1.65em;
+}
+
+
+a {
+	text-decoration: none;
+	color: #B54141;
+}
+a:hover {
+	color: #000;
+    text-decoration: underline;
+}
+.post h2 {
+  font-size: 18px !important;
+  font-weight: normal;
+  margin-bottom: 10px !important;
+}
+
+
+#comment { width: 95%; }
+* html #comment { width: 400px; }
+
+/* 12852-1333369299 */

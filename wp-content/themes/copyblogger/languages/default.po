@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: copyblogger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-19 03:24+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\copyblogger\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:6
+msgid "My 404 page is better than yours."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:8
+msgid "Welcome to the seedy underbelly of this otherwise upstanding Web site. Please choose from the following in order to get back on track:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:10
+msgid "Try the ol' back button on your browser&#8212;it <em>is</em> the most used button on the Web, you know."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:11
+msgid "Head on back"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/nav_menu.php:1
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:13
+msgid "Search or click on a link over in the sidebar."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:14
+msgid "Subscribe to this site's feed"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:14
+msgid "so you don't have to come here for updates."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/404.php:15
+msgid "Relive the glory days of high school football and punt, but <em>please</em> do not strain your groin."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:12
+msgid "Entries Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:15
+msgid "Entries from"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:22
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:14
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:18
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:29
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:16
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:18
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archive.php:37
+msgid "Welp, we couldn't find that...try again?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archives.php:13
+msgid "Browse the Archives..."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archives.php:15
+msgid "Monthly archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/archives.php:19
+msgid "Topical archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:36
+msgid "0 comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:36
+msgid "1 comment so far"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:36
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:59
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:78
+msgid "There are no comments yet...Kick things off by filling out the form below."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:87
+msgid "Like gas stations in rural Texas after 10 pm, comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:101
+msgid "You must"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:101
+msgid "log in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:101
+msgid "to post a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:106
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:115
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:115
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:115
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:118
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:119
+msgid "Mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:120
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:122
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/comments.php:129
+msgid "Submit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/footer.php:2
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/footer.php:3
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/functions.php:37
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/functions.php:37
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/functions.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/single.php:12
+msgid "Tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:14
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:16
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:24
+msgid "No content here I'm afraid, please make a post or place a page here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/index.php:27
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/navigation.php:11
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/navigation.php:12
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/page.php:11
+msgid "Read the rest of this page &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/page.php:13
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:9
+msgid "Search Results for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/search.php:26
+msgid "Hmm, no results... try again?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/searchform.php:3
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sidebar.php:5
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sidebar.php:12
+msgid "Latest Blog Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sidebar.php:21
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/single.php:22
+msgid "Uh oh."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/single.php:23
+msgid "You better <em>never</em> see this text."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/single.php:25
+msgid "Sorry, no posts matched your criteria. Wanna search instead?"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sitemap.php:17
+msgid "All internal pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sitemap.php:21
+msgid "All internal blog posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sitemap.php:25
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sitemap.php:28
+msgid "Monthly archive pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sitemap.php:32
+msgid "Topical archive pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\copyblogger/sitemap.php:36
+msgid "Available RSS Feeds"
+msgstr ""
+

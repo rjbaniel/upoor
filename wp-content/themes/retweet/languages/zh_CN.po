@@ -1,0 +1,693 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Retweet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-25 21:08+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sivan <sun.sivan@qq.com>\n"
+"Language-Team: Sivan <sun.sivan@qq.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: retweet/404.php:9
+#: retweet/404.php:48
+#: retweet/archive.php:66
+#: retweet/attachment.php:47
+#: retweet/index.php:33
+#: retweet/page.php:46
+#: retweet/search.php:36
+#: retweet/single.php:42
+msgid "Not Found"
+msgstr "没有找到"
+
+#: retweet/404.php:11
+#: retweet/archive.php:67
+#: retweet/attachment.php:48
+#: retweet/index.php:34
+#: retweet/page.php:47
+#: retweet/single.php:43
+msgid "Sorry, but you are searching for something that is not here."
+msgstr "抱歉，但是你要找的东西不在这儿。"
+
+#: retweet/archive.php:12
+#, php-format
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr "分类为&#8216;%1$s&#8217;的日志"
+
+#: retweet/archive.php:15
+#, php-format
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr "标签为&#8216;%1$s&#8217;的日志"
+
+#: retweet/archive.php:18
+#: retweet/archive.php:21
+#: retweet/archive.php:24
+#, php-format
+msgid "Archive for %1$s"
+msgstr "%1$s的日志"
+
+#: retweet/archive.php:18
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/attachment.php:21
+#: retweet/index.php:12
+#: retweet/page.php:20
+#: retweet/search.php:15
+#: retweet/single.php:12
+#: retweet/single.php:20
+msgid "F jS, Y"
+msgstr "Y年m月j日"
+
+#: retweet/archive.php:21
+msgid "F, Y"
+msgstr "Y年m月"
+
+#: retweet/archive.php:24
+msgid "Y"
+msgstr "Y年"
+
+#: retweet/archive.php:37
+msgid "Blog Archives"
+msgstr "归档"
+
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/index.php:12
+#: retweet/search.php:15
+#: retweet/single.php:12
+msgid "Date : "
+msgstr "日期 : "
+
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/index.php:12
+#: retweet/search.php:15
+#: retweet/single.php:12
+msgid "Category : "
+msgstr "分类 : "
+
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/index.php:12
+#: retweet/page.php:12
+#: retweet/search.php:15
+#: retweet/single.php:12
+msgid "Author : "
+msgstr "作者 : "
+
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/index.php:12
+#: retweet/page.php:12
+#: retweet/search.php:15
+#: retweet/single.php:12
+msgid "No comments"
+msgstr "没有评论"
+
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/index.php:12
+#: retweet/page.php:12
+#: retweet/search.php:15
+#: retweet/single.php:12
+msgid "1 Comment"
+msgstr "1条评论"
+
+#: retweet/archive.php:45
+#: retweet/attachment.php:12
+#: retweet/index.php:12
+#: retweet/page.php:12
+#: retweet/search.php:15
+#: retweet/single.php:12
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: retweet/archive.php:48
+#: retweet/index.php:15
+#: retweet/search.php:18
+msgid "Tweet This"
+msgstr ""
+
+#: retweet/archive.php:49
+#: retweet/index.php:16
+#: retweet/search.php:19
+msgid "Add a comment"
+msgstr "添加评论"
+
+#: retweet/archive.php:52
+#: retweet/attachment.php:14
+#: retweet/index.php:19
+#: retweet/page.php:13
+#: retweet/search.php:22
+#: retweet/single.php:13
+msgid "More &raquo;"
+msgstr "继续阅读 &raquo;"
+
+#: retweet/archive.php:60
+#: retweet/index.php:27
+#: retweet/search.php:30
+msgid "&laquo; Older Entries"
+msgstr "上一页"
+
+#: retweet/archive.php:61
+#: retweet/index.php:28
+#: retweet/search.php:31
+msgid "Newer Entries &raquo;"
+msgstr "下一页"
+
+#: retweet/attachment.php:12
+#: retweet/page.php:12
+#: retweet/single.php:12
+msgid "Edit"
+msgstr "编辑"
+
+#: retweet/attachment.php:15
+#: retweet/page.php:14
+#: retweet/single.php:14
+msgid "<p><strong>Pages:</strong>"
+msgstr "<p><strong>分页：</strong>"
+
+#: retweet/attachment.php:21
+#: retweet/page.php:20
+#: retweet/single.php:20
+msgid "This entry was posted on"
+msgstr "这篇日志发表于"
+
+#: retweet/attachment.php:21
+#: retweet/page.php:20
+#: retweet/single.php:20
+msgid " at "
+msgstr " "
+
+#: retweet/attachment.php:21
+#: retweet/attachment.php:23
+#: retweet/attachment.php:26
+#: retweet/attachment.php:29
+#: retweet/attachment.php:32
+#: retweet/page.php:20
+#: retweet/page.php:22
+#: retweet/page.php:25
+#: retweet/page.php:28
+#: retweet/page.php:31
+#: retweet/single.php:20
+#: retweet/single.php:22
+#: retweet/single.php:24
+#: retweet/single.php:26
+#: retweet/single.php:28
+msgid "."
+msgstr "。"
+
+#: retweet/attachment.php:22
+#: retweet/page.php:21
+#: retweet/single.php:21
+msgid "You can follow any responses to this entry through the "
+msgstr "你可以订阅该日志的所有评论通过"
+
+#: retweet/attachment.php:26
+#: retweet/attachment.php:32
+#: retweet/page.php:25
+#: retweet/page.php:31
+#: retweet/single.php:24
+#: retweet/single.php:28
+msgid "You can "
+msgstr "你可以"
+
+#: retweet/attachment.php:26
+#: retweet/attachment.php:32
+#: retweet/page.php:25
+#: retweet/page.php:31
+#: retweet/single.php:24
+#: retweet/single.php:28
+msgid "Leave a response"
+msgstr "发表评论"
+
+#: retweet/attachment.php:26
+#: retweet/page.php:25
+#: retweet/single.php:24
+msgid ", or "
+msgstr "，或者"
+
+#: retweet/attachment.php:26
+#: retweet/page.php:25
+#: retweet/single.php:24
+msgid "Trackback"
+msgstr "引用通告"
+
+#: retweet/attachment.php:29
+#: retweet/page.php:28
+#: retweet/single.php:26
+msgid "Responses are currently closed, but you can "
+msgstr "评论当前被关闭，你可以"
+
+#: retweet/attachment.php:29
+#: retweet/page.php:28
+#: retweet/single.php:26
+msgid "Trackback."
+msgstr "引用通告"
+
+#: retweet/attachment.php:35
+#: retweet/page.php:34
+#: retweet/single.php:30
+msgid "Both comments and pings are currently closed. "
+msgstr "评论跟引用通告当前被关闭。"
+
+#: retweet/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "该日志设有密码保护。请输入密码浏览评论。"
+
+#: retweet/comments.php:17
+msgid "No Response"
+msgstr "没有回应"
+
+#: retweet/comments.php:17
+msgid "One Response"
+msgstr "1条回应"
+
+#: retweet/comments.php:17
+msgid "% Responses"
+msgstr "% 条回应"
+
+#: retweet/comments.php:19
+msgid "Comments"
+msgstr "评论"
+
+#: retweet/comments.php:19
+msgid "Trackbacks"
+msgstr "引用通告"
+
+#: retweet/comments.php:36
+msgid "Comments are closed."
+msgstr "评论当前被关闭。"
+
+#: retweet/comments.php:48
+msgid "&laquo; Previous"
+msgstr "&laquo; 上一页"
+
+#: retweet/comments.php:49
+msgid "Next &raquo;"
+msgstr "下一页 &raquo;"
+
+#: retweet/comments.php:59
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: retweet/comments.php:59
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "向 %s 发表评论"
+
+#: retweet/comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须<a href=\"%s\">登入</a>后发表评论。"
+
+#: retweet/comments.php:68
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "以<a href=\"%1$s\">%2$s</a>登入。"
+
+#: retweet/comments.php:68
+msgid "Log out of this account"
+msgstr "登出该帐号"
+
+#: retweet/comments.php:68
+msgid "Log out &raquo;"
+msgstr "登出 &raquo;"
+
+#: retweet/comments.php:73
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "欢迎回来 <strong>%s</strong>."
+
+#: retweet/comments.php:74
+msgid "Change &raquo;"
+msgstr "更改 &raquo;"
+
+#: retweet/comments.php:75
+msgid "Close &raquo;"
+msgstr "关闭 &raquo;"
+
+#: retweet/comments.php:81
+msgid "Name"
+msgstr "昵称"
+
+#: retweet/comments.php:81
+#: retweet/comments.php:85
+msgid "(required)"
+msgstr "(必须)"
+
+#: retweet/comments.php:85
+msgid "E-mail"
+msgstr "邮箱"
+
+#: retweet/comments.php:85
+msgid "will not be published"
+msgstr "不会被公布"
+
+#: retweet/comments.php:89
+msgid "Website"
+msgstr "网站"
+
+#: retweet/comments.php:98
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: retweet/comments.php:114
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong>你可以使用这些标签：<code>%s</code>"
+
+#: retweet/footer.php:12
+#, php-format
+msgid "Welcome back %s,you are reading "
+msgstr "欢迎 %s，你正在阅读 "
+
+#: retweet/functions.php:124
+msgid "Default Style"
+msgstr "默认风格"
+
+#: retweet/functions.php:125
+msgid "&quot;Sun hand&quot; Style"
+msgstr "&quot;Sun hand&quot; 风格"
+
+#: retweet/functions.php:126
+msgid "&quot;I like to fly&quot; Style"
+msgstr "&quot;I like to fly&quot; 风格"
+
+#: retweet/functions.php:127
+msgid "&quot;Fantasy Island&quot; Style"
+msgstr "&quot;Fantasy Island&quot; 风格"
+
+#: retweet/functions.php:128
+msgid "&quot;Photosynthesis&quot; Style"
+msgstr "&quot;Photosynthesis&quot; 风格"
+
+#: retweet/functions.php:129
+msgid "Custom Style"
+msgstr "自定义风格"
+
+#: retweet/functions.php:134
+msgid "Retweet Theme Options"
+msgstr "Retweet主题设定"
+
+#: retweet/functions.php:139
+msgid "Option"
+msgstr "功能设定"
+
+#: retweet/functions.php:141
+msgid "Basic option"
+msgstr "基本设定"
+
+#: retweet/functions.php:144
+msgid "Enable it to show notice at homepage.You can also use HTML to add a link,js code etc."
+msgstr "开启后在主页显示公告。你可以通过HTML使用链接等。"
+
+#: retweet/functions.php:146
+msgid "Show Notice(HTML enabled)"
+msgstr "显示公告（支持HTML）"
+
+#: retweet/functions.php:153
+msgid "Input a description and it is good for SEO."
+msgstr "给博客填写一个描述方便搜索引擎记录。"
+
+#: retweet/functions.php:154
+msgid "Blog description(Input for SEO,text only)"
+msgstr "博客描述（便于SEO，只允许文本）"
+
+#: retweet/functions.php:160
+msgid "You can use your Feedburner feed instead original.If you don' need it please leave it blank."
+msgstr "使用Feedburner等第三方种子烧制工具替代原有的种子。留空则不开启。"
+
+#: retweet/functions.php:161
+msgid "Custom RSS Feed (Leave blank if you don't need it)"
+msgstr "自定义RSS种子（不用请留空）"
+
+#: retweet/functions.php:167
+#: retweet/functions.php:170
+msgid "Input your twitter username to show your tweets at homepage"
+msgstr "输入twiiter用户名后将在主页显示tweet"
+
+#: retweet/functions.php:168
+msgid "Your twitter username : "
+msgstr "你的Twitter用户名"
+
+#: retweet/functions.php:171
+msgid "Tweet display number :"
+msgstr "显示Tweet数量："
+
+#: retweet/functions.php:174
+msgid "I recommend you enable it though it doesn's work in IE and invalid CSS3"
+msgstr "尽管不支持IE且不符合CSS3标准，但为了美观仍建议开启"
+
+#: retweet/functions.php:176
+msgid "Use Roundborder(do not work in IE and invalid CSS3)."
+msgstr "使用圆角边框（在非IE浏览器有效，不符合CSS3标准）"
+
+#: retweet/functions.php:179
+msgid "I recommend you enable it,but first of all you need to make a Logo image for yourself."
+msgstr "建议开启，但首先你要自己制作一个自己的Logo图像。"
+
+#: retweet/functions.php:181
+msgid "Use logo image instead of text(The logo image PSD is under the theme image folder)"
+msgstr "使用Logo图片代替文本显示（Logo 的PSD文件位于主题的images目录下）"
+
+#: retweet/functions.php:184
+msgid "Wide mode looks better in widescreen.The guests can control it at navmenu and save their habit by cookies."
+msgstr "宽屏模式在宽屏分辨率下更美观。访客可以自己选择并通过cookies保存偏好。"
+
+#: retweet/functions.php:186
+msgid "Use wide mode default"
+msgstr "默认使用宽屏模式"
+
+#: retweet/functions.php:189
+msgid "Open @reply and a link target the comment you reply."
+msgstr "开启@reply效果并且添加原评论链接。"
+
+#: retweet/functions.php:191
+msgid "Use @reply"
+msgstr "开启 @reply 功能"
+
+#: retweet/functions.php:197
+msgid "Design"
+msgstr "风格设计"
+
+#: retweet/functions.php:199
+msgid "Just like your twitter!"
+msgstr "像你的twitter后台设定一样即可。"
+
+#: retweet/functions.php:202
+msgid "There is a default twitter style and four add-on style from twittergallery dot com.You can select &quot;Custom Style&quot; to design the style by yourself."
+msgstr "有1个默认的Twitter风格和4个附加的风格，你也可以选择“自定义风格”来自行设计。"
+
+#: retweet/functions.php:203
+msgid "Stylelist : "
+msgstr "风格清单："
+
+#: retweet/functions.php:216
+msgid "Please install a valid style first!"
+msgstr "请保留一个风格！"
+
+#: retweet/functions.php:222
+#: retweet/functions.php:230
+msgid "It works when you select &quot;Custom Style&quot; mode."
+msgstr "开启“自定义风格”后生效"
+
+#: retweet/functions.php:223
+msgid "Change background image : "
+msgstr "改变背景图像："
+
+#: retweet/functions.php:227
+msgid "Tile background"
+msgstr ""
+
+#: retweet/functions.php:231
+msgid "Change design colors(Don't contain '#') : "
+msgstr "改变主题颜色（不要包含#）："
+
+#: retweet/functions.php:235
+msgid "background :"
+msgstr ""
+
+#: retweet/functions.php:238
+msgid "text :"
+msgstr ""
+
+#: retweet/functions.php:241
+msgid "links :"
+msgstr ""
+
+#: retweet/functions.php:245
+msgid "sidebar :"
+msgstr ""
+
+#: retweet/functions.php:248
+msgid "sidebar border :"
+msgstr ""
+
+#: retweet/functions.php:256
+msgid "Update Options &raquo;"
+msgstr "更新设定 &raquo;"
+
+#: retweet/header.php:70
+msgid "Home"
+msgstr "主页"
+
+#: retweet/header.php:74
+#: retweet/header.php:75
+#: retweet/header.php:77
+#: retweet/header.php:78
+#: retweet/header.php:81
+#: retweet/header.php:82
+#: retweet/header.php:84
+#: retweet/header.php:85
+msgid "Switch to "
+msgstr "切换到"
+
+#: retweet/header.php:74
+#: retweet/header.php:77
+#: retweet/header.php:81
+#: retweet/header.php:84
+msgid "Wide"
+msgstr "宽屏显示"
+
+#: retweet/header.php:75
+#: retweet/header.php:78
+#: retweet/header.php:82
+#: retweet/header.php:85
+msgid "Normal"
+msgstr "窄屏显示"
+
+#: retweet/search.php:9
+#, php-format
+msgid "Results for &#8216;%1$s&#8217;"
+msgstr "&#8216;%1$s&#8217; 的搜索结果"
+
+#: retweet/search.php:38
+#, php-format
+msgid "Sorry,you are searching for &#8216;%1$s&#8217; but not found."
+msgstr "抱歉，你搜索的&#8216;%1$s&#8217;没有找到。"
+
+#: retweet/sidebar.php:16
+msgid "Categories"
+msgstr "分类"
+
+#: retweet/sidebar.php:22
+msgid "Links"
+msgstr "链接"
+
+#: retweet/sidebar.php:28
+msgid "Archives"
+msgstr "归档"
+
+#: retweet/profilebox.php:18
+msgid "Recent Posts"
+msgstr "最近文章"
+
+#: retweet/profilebox.php:25
+#: retweet/profilebox.php:27
+#: retweet/profilebox.php:28
+#: retweet/profilebox.php:29
+msgid "Subscribe my blog"
+msgstr "订阅我的博客"
+
+#: retweet/profilebox.php:34
+msgid "Close"
+msgstr "关闭"
+
+#~ msgid "Add to your favorite"
+#~ msgstr "添加到收藏"
+#~ msgid "Sorry, comments are closed for this item."
+#~ msgstr "抱歉，评论当前被关闭。"
+#~ msgid "Sorry, you must be logged in to post a comment."
+#~ msgstr "抱歉，你必须<a href=\"%s\">登入</a>后发表评论。"
+#~ msgid "Error: please type a comment."
+#~ msgstr "错误：请输入评论内容。"
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "你的评论正在审核中……"
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s 于 %2$s"
+#~ msgid "(Edit)"
+#~ msgstr "[编辑]"
+#~ msgid "reply on"
+#~ msgstr "回复于"
+#~ msgid "Show Notice"
+#~ msgstr "显示公告"
+#~ msgid "Use wide screen"
+#~ msgstr "使用宽屏模式"
+#~ msgid "Use custom design"
+#~ msgstr "使用自定义样式"
+#~ msgid "Sidebar Off"
+#~ msgstr "宽屏显示"
+#~ msgid "Add Fav"
+#~ msgstr "添加收藏"
+#~ msgid "Notice"
+#~ msgstr "公告"
+#~ msgid "Only the first line can be displayed."
+#~ msgstr "只有第一行内容会显示。"
+#~ msgid " and is filed under "
+#~ msgstr " 于分类 "
+#~ msgid "Add a Comment"
+#~ msgstr "添加一条评论"
+#~ msgid "Home Notice One"
+#~ msgstr "主页公告1"
+#~ msgid "Home Notice Two"
+#~ msgstr "主页公告2"
+#~ msgid "Home Notice Three"
+#~ msgstr "主页公告3"
+#~ msgid "Home Notice Four"
+#~ msgstr "主页公告4"
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "抱歉，没有文章符合你的请求。"
+#~ msgid "Search:"
+#~ msgstr "搜索："
+#~ msgid "Meta"
+#~ msgstr "控制台"
+#~ msgid "Reply"
+#~ msgstr "发表回复"
+#~ msgid "to"
+#~ msgstr "于"
+#~ msgid "to %s"
+#~ msgstr "于 %s"
+#~ msgid "You must be "
+#~ msgstr "你必须"
+#~ msgid "logged in"
+#~ msgstr "登入"
+#~ msgid "Logged in as "
+#~ msgstr "登入于"
+#~ msgid "Submit"
+#~ msgstr "发表"
+#~ msgid "'s page"
+#~ msgstr "的页面"
+#~ msgid "Homepage"
+#~ msgstr "主页"
+#~ msgid "You can subscribe my blog via Google Reader or other tools."
+#~ msgstr "你可以通过Google Reader或其他阅读工具订阅我的博客。"
+#~ msgid "E-mail Me"
+#~ msgstr "给我发邮件"
+#~ msgid "Admin Login"
+#~ msgstr "管理员登录"
+#~ msgid " or "
+#~ msgstr "或者"
+#~ msgid "other tool"
+#~ msgstr "其他方式"
+#~ msgid ".And you can also follow me on "
+#~ msgstr "订阅我的博客。你也可以关注我的"
+#~ msgid "About"
+#~ msgstr "关于"
+#~ msgid "On/Off Sidebar"
+#~ msgstr "显示/关闭 侧边栏"
+#~ msgid "or "
+#~ msgstr "或者"
+#~ msgid ""
+#~ "STheme By <a href=\"http://sivan.in/\" title=\"Theme by Sivan\">Sivan</a>"
+#~ msgstr ""
+#~ "STheme主题由<a href=\"http://sivan.in/\" title=\"Theme by Sivan\">Sivan</"
+#~ "a>制作"
+

@@ -1,0 +1,68 @@
+@import "style.css"
+
+#container {
+	width:90%;
+	margin:0 auto;
+}
+
+/* header */
+header {
+	background-color:lightgray;
+	margin-bottom:20px;
+	border-bottom:1px solid maroon;
+}
+
+header * {
+	display:inline;
+	vertical-align:bottom;
+}
+
+#logo {
+	height:60px;
+}
+
+#header-nav {
+	list-style:none;
+	margin-left:-30px;
+}
+
+#header-nav a {
+	color:black;
+	text-decoration:none;
+	border-left:2px black solid;
+	padding-left:5px;
+	margin-right:-5px;
+	padding-right:5px;
+	font-size:.7em;
+}
+/* end header */
+
+/* flex stuff for the middle */
+#middle-flex {
+	margin:auto;
+	/*border: 1px dotted black;*/
+	width:100%;
+	
+  display:block;
+}
+/* end .middle-flex */
+
+/* sidebar */
+#home-sidebar {
+  width:100%;
+	float:none;
+	border:2px solid black;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:20px;
+	font-size:.7em
+  -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+/* end sidebar */
+
+/* home content */
+#home-content {
+	width:100%;
+}

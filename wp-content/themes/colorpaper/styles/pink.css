@@ -1,0 +1,9 @@
+#right-content li ul.tabs li a:hover {
+		color:#cd5863; text-decoration:none;
+	}
+	
+	#navigation a:hover, #navigation li.current_page_item a {
+		color:#cd5863;
+	}
+
+/* 12852-1333369299 */

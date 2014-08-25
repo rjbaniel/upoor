@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: whiteasmilk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-07 21:20+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\whiteasmilk\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/404.php:5
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:17
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:23
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:14
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:26
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:39
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:43
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:44
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:45
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:46
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:53
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:60
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:99
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:26
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:61
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:100
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:27
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:66
+msgid "Permanent Link to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:78
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:23
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:19
+msgid "Posted by "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:19
+msgid "in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:19
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:19
+msgid "No Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:19
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:19
+msgid "% Comments &#187;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archive.php:105
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:32
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archives.php:13
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/archives.php:18
+msgid "Archives by Subject:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:24
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:24
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:24
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:24
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:47
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:79
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:79
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:79
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:91
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:91
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:91
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:96
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:96
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:99
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:99
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:102
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:106
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/comments.php:110
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/footer.php:3
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/footer.php:3
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/footer.php:6
+msgid "Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/footer.php:6
+msgid "and "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/footer.php:6
+msgid "comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/functions.php:35
+msgid "Says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/functions.php:37
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/functions.php:41
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:34
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:10
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:16
+msgid "Permanent Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/index.php:33
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/links.php:11
+msgid "Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/page.php:9
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/page.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:25
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/page.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:37
+msgid "Edit this entry."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:6
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:19
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:28
+msgid "Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:33
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/sidebar.php:38
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:25
+msgid "<p><strong>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:29
+msgid "This entry was posted on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:35
+msgid "and is filed under"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:40
+msgid "Tags: "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\whiteasmilk/single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

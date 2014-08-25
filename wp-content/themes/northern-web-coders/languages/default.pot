@@ -1,0 +1,344 @@
+# Copyright (C) 2013 Kai Ackermann
+# This file is distributed under the same license as the Northern-Web-Coders package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Northern-Web-Coders 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/northern-web-coders\n"
+"POT-Creation-Date: 2013-06-28 10:18:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comments.php:3
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: comments.php:8
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:8
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:8
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:8 comments.php:62
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:39
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:51
+msgid ""
+"<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+"this post."
+msgstr ""
+
+#: comments.php:53
+msgid "TrackBack"
+msgstr ""
+
+#: comments.php:53
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: comments.php:66
+msgid "You must be"
+msgstr ""
+
+#: comments.php:66
+msgid "logged in"
+msgstr ""
+
+#: comments.php:66
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:77
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:77
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:77
+msgid "Logout"
+msgstr ""
+
+#: comments.php:82
+msgid "Name"
+msgstr ""
+
+#: comments.php:82 comments.php:85
+msgid "(required)"
+msgstr ""
+
+#: comments.php:85
+msgid "E-Mail"
+msgstr ""
+
+#: comments.php:88
+msgid "Website"
+msgstr ""
+
+#: comments.php:92
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:95
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:111
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: footer.php:6
+msgid "Y"
+msgstr ""
+
+#: footer.php:7
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:32
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:77
+msgid "Home"
+msgstr ""
+
+#: functions.php:173
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:174
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:178
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:210
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:211
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:231
+msgid "Position"
+msgstr ""
+
+#: functions.php:232
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:235
+msgid "Left"
+msgstr ""
+
+#: functions.php:239
+msgid "Center"
+msgstr ""
+
+#: functions.php:243
+msgid "Right"
+msgstr ""
+
+#: functions.php:249
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:250
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:251
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:252
+msgid "Tile"
+msgstr ""
+
+#: functions.php:253
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:254
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:259
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:260
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:263
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:267
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:278
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:352 index.php:33 page.php:8 single.php:6
+msgid "Edit This"
+msgstr ""
+
+#: index.php:16
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: index.php:20
+msgid "Homepage:"
+msgstr ""
+
+#: index.php:21
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: index.php:22
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: index.php:23
+msgid "AIM:"
+msgstr ""
+
+#: index.php:33 single.php:6
+msgid "Filed under:"
+msgstr ""
+
+#: index.php:33 single.php:6
+msgid "tagged"
+msgstr ""
+
+#: index.php:45 page.php:10
+msgid "(more...)"
+msgstr ""
+
+#: index.php:53 single.php:15
+msgid "Comments (0)"
+msgstr ""
+
+#: index.php:53 single.php:15
+msgid "Comments (1)"
+msgstr ""
+
+#: index.php:53 single.php:15
+msgid "Comments (%)"
+msgstr ""
+
+#: index.php:61 single.php:25
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: index.php:63 page.php:25 single.php:27
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: index.php:63 page.php:25 single.php:27
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: sidebar.php:11 sidebar.php:21 sidebar.php:30 sidebar.php:39 sidebar.php:48
+#: sidebar.php:57 sidebar.php:66
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:80
+msgid "Themes"
+msgstr ""
+
+#: sidebar.php:85
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:91
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:98
+msgid "Meta:"
+msgstr ""
+
+#: sidebar.php:102
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: sidebar.php:102
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: sidebar.php:103
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: sidebar.php:103
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: sidebar.php:104
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr ""
+
+#: sidebar.php:104
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+
+#: sidebar.php:105
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: sidebar.php:106
+msgid ""
+"Provided by WordPress, state-of-the-art semantic personal publishing "
+"platform."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Northern-Web-Coders"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Moody skies and a classic look."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kai Ackermann"
+msgstr ""

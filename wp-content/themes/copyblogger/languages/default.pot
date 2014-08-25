@@ -1,0 +1,405 @@
+# Copyright (C) 2013 Chris Pearson
+# This file is distributed under the same license as the Copyblogger package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Copyblogger 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/copyblogger\n"
+"POT-Creation-Date: 2013-06-28 10:17:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6
+msgid "My 404 page is better than yours."
+msgstr ""
+
+#: 404.php:8
+msgid ""
+"Welcome to the seedy underbelly of this otherwise upstanding Web site. "
+"Please choose from the following in order to get back on track:"
+msgstr ""
+
+#: 404.php:10
+msgid ""
+"Try the ol' back button on your browser&#8212;it <em>is</em> the most used "
+"button on the Web, you know."
+msgstr ""
+
+#: 404.php:11
+msgid "Head on back"
+msgstr ""
+
+#: 404.php:11 functions.php:82 header.php:60 nav_menu.php:1
+msgid "Home"
+msgstr ""
+
+#: 404.php:13
+msgid "Search or click on a link over in the sidebar."
+msgstr ""
+
+#: 404.php:14
+msgid "Subscribe to this site's feed"
+msgstr ""
+
+#: 404.php:14
+msgid "so you don't have to come here for updates."
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"Relive the glory days of high school football and punt, but <em>please</em> "
+"do not strain your groin."
+msgstr ""
+
+#: archive.php:12
+msgid "Entries Tagged"
+msgstr ""
+
+#: archive.php:15
+msgid "Entries from"
+msgstr ""
+
+#: archive.php:22 index.php:12 search.php:14
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:29 index.php:16 search.php:18
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:29 index.php:16 search.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:29 index.php:16 search.php:18
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:37
+msgid "Welp, we couldn't find that...try again?"
+msgstr ""
+
+#: archives.php:13
+msgid "Browse the Archives..."
+msgstr ""
+
+#: archives.php:15
+msgid "Monthly archives:"
+msgstr ""
+
+#: archives.php:19
+msgid "Topical archives:"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:36
+msgid "0 comments"
+msgstr ""
+
+#: comments.php:36
+msgid "1 comment so far"
+msgstr ""
+
+#: comments.php:36
+msgid "% comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:76
+msgid ""
+"There are no comments yet...Kick things off by filling out the form below."
+msgstr ""
+
+#: comments.php:85
+msgid "Like gas stations in rural Texas after 10 pm, comments are closed."
+msgstr ""
+
+#: comments.php:99
+msgid "You must"
+msgstr ""
+
+#: comments.php:99
+msgid "log in"
+msgstr ""
+
+#: comments.php:99
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:104
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:113
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:113
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:113
+msgid "Logout"
+msgstr ""
+
+#: comments.php:116
+msgid "Name"
+msgstr ""
+
+#: comments.php:117
+msgid "Mail"
+msgstr ""
+
+#: comments.php:118
+msgid "Website"
+msgstr ""
+
+#: comments.php:120
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:127
+msgid "Submit"
+msgstr ""
+
+#: footer.php:1
+msgid "Y"
+msgstr ""
+
+#: footer.php:2
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:33
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now\r\n"
+"\r\n"
+"&raquo;\">our free Update Notifications plugin</a> which helps you stay up-"
+"to-date with the most stable, secure versions of WPMU DEV themes and "
+"plugins. <a\r\n"
+"\r\n"
+"href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:64
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:178
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:179
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:183
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:215
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:216
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:236
+msgid "Position"
+msgstr ""
+
+#: functions.php:237
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:240
+msgid "Left"
+msgstr ""
+
+#: functions.php:244
+msgid "Center"
+msgstr ""
+
+#: functions.php:248
+msgid "Right"
+msgstr ""
+
+#: functions.php:254
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:255
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:256
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:257
+msgid "Tile"
+msgstr ""
+
+#: functions.php:258
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:259
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:264
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:265
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:268
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:272
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:280
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:283
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:358
+msgid "on"
+msgstr ""
+
+#: functions.php:358
+msgid "at"
+msgstr ""
+
+#: functions.php:363
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:12 single.php:12
+msgid "Tagged"
+msgstr ""
+
+#: index.php:14 search.php:16
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: index.php:24
+msgid "No content here I'm afraid, please make a post or place a page here."
+msgstr ""
+
+#: index.php:27
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: navigation.php:11
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: navigation.php:12
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: page.php:11
+msgid "Read the rest of this page &rarr;"
+msgstr ""
+
+#: page.php:13
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: search.php:9
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:26
+msgid "Hmm, no results... try again?"
+msgstr ""
+
+#: searchform.php:3 sidebar.php:5
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Latest Blog Entries"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Categories"
+msgstr ""
+
+#: single.php:22
+msgid "Uh oh."
+msgstr ""
+
+#: single.php:23
+msgid "You better <em>never</em> see this text."
+msgstr ""
+
+#: single.php:25
+msgid "Sorry, no posts matched your criteria. Wanna search instead?"
+msgstr ""
+
+#: sitemap.php:17
+msgid "All internal pages:"
+msgstr ""
+
+#: sitemap.php:21
+msgid "All internal blog posts"
+msgstr ""
+
+#: sitemap.php:25
+msgid "Permanent Link to"
+msgstr ""
+
+#: sitemap.php:28
+msgid "Monthly archive pages:"
+msgstr ""
+
+#: sitemap.php:32
+msgid "Topical archive pages:"
+msgstr ""
+
+#: sitemap.php:36
+msgid "Available RSS Feeds"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Copyblogger"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A ubiquitous hairdo for a classic design."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Chris Pearson"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sitemap"
+msgstr ""

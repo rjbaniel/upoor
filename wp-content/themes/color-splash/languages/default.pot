@@ -1,0 +1,405 @@
+# Copyright (C) 2013 Mladen
+# This file is distributed under the same license as the Color Splash package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Color Splash 1.3.7.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/color-splash\n"
+"POT-Creation-Date: 2013-06-28 10:17:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:5
+msgid "Oops! 404!"
+msgstr ""
+
+#: archive.php:16
+msgid "Categories"
+msgstr ""
+
+#: archive.php:16 archive.php:18 archive.php:20 archive.php:22 archive.php:24
+msgid "Archive"
+msgstr ""
+
+#: archive.php:18
+msgid "Tag"
+msgstr ""
+
+#: archive.php:26
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:28
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:35 index.php:21 search.php:23
+msgid "Permanent Link to"
+msgstr ""
+
+#: archive.php:51 index.php:32 search.php:30
+msgid "read more... &raquo;"
+msgstr ""
+
+#: archive.php:73 index.php:50 search.php:45
+msgid "&laquo; older Entries"
+msgstr ""
+
+#: archive.php:74 index.php:51 search.php:46
+msgid "newer Entries &raquo;"
+msgstr ""
+
+#: archive.php:79
+msgid "<h2 class='center'>Sorry, no %s Categories</h2>"
+msgstr ""
+
+#: archive.php:81
+msgid "<h2>Sorry,not found</h2>"
+msgstr ""
+
+#: archive.php:84
+msgid "<h2 class='center'>Sorry, nothing of %.</h2>"
+msgstr ""
+
+#: archive.php:86
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr ""
+
+#: archives.php:15
+msgid "Archive:"
+msgstr ""
+
+#: archives.php:19
+msgid "Monthly"
+msgstr ""
+
+#: archives.php:24
+msgid "Category:"
+msgstr ""
+
+#: archives.php:29
+msgid "Blogroll:"
+msgstr ""
+
+#: comments.php:6
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:9
+msgid "password required"
+msgstr ""
+
+#: comments.php:19
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:59
+msgid "No Comments are allowed"
+msgstr ""
+
+#: comments.php:78
+msgid "You must be"
+msgstr ""
+
+#: comments.php:78
+msgid "logged in"
+msgstr ""
+
+#: comments.php:78
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:85
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:85
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:85
+msgid "Logout"
+msgstr ""
+
+#: footer.php:8
+msgid "Y"
+msgstr ""
+
+#: footer.php:10
+msgid "Hosted by"
+msgstr ""
+
+#: functions.php:40
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#: functions.php:67
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:85 header.php:85
+msgid "Home"
+msgstr ""
+
+#: functions.php:181
+msgid "Background settings saved."
+msgstr ""
+
+#: functions.php:182
+msgid "Background settings reset."
+msgstr ""
+
+#: functions.php:186
+msgid "Preset Background"
+msgstr ""
+
+#: functions.php:218
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:219
+msgid "Choose a preset background image"
+msgstr ""
+
+#: functions.php:239
+msgid "Position"
+msgstr ""
+
+#: functions.php:240
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:243
+msgid "Left"
+msgstr ""
+
+#: functions.php:247
+msgid "Center"
+msgstr ""
+
+#: functions.php:251
+msgid "Right"
+msgstr ""
+
+#: functions.php:257
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:258
+msgid "Background Repeat"
+msgstr ""
+
+#: functions.php:259
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:260
+msgid "Tile"
+msgstr ""
+
+#: functions.php:261
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:262
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:267
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:268
+msgid "Background Attachment"
+msgstr ""
+
+#: functions.php:271
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:275
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:283
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:286
+msgid "Reset Settings"
+msgstr ""
+
+#: functions.php:357
+msgid "Your Comment is awaiting moderation"
+msgstr ""
+
+#: functions.php:374
+msgid "edit"
+msgstr ""
+
+#: image.php:20 single.php:17
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: image.php:30
+msgid "This entry was posted on"
+msgstr ""
+
+#: image.php:30
+msgid "at"
+msgstr ""
+
+#: image.php:31
+msgid "and is filed under"
+msgstr ""
+
+#: image.php:33
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: image.php:37
+msgid ""
+"You can <a href=\"#respond\">leave a response</a>, or <a href=\"<?php "
+"trackback_url(); ?>\" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: image.php:41
+msgid ""
+"Responses are currently closed, but you can <a href=\"<?php "
+"trackback_url(); ?> \" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: image.php:45
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: image.php:49
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: image.php:51
+msgid "Edit this entry."
+msgstr ""
+
+#: image.php:64
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: index.php:47
+msgid "Add some default code here, should the user no wish to use any widget"
+msgstr ""
+
+#: index.php:56
+msgid "Nothing found "
+msgstr ""
+
+#: index.php:57
+msgid "Not here anymore"
+msgstr ""
+
+#: links.php:16
+msgid "Links:"
+msgstr ""
+
+#: page.php:17
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: search.php:13
+msgid "Found:"
+msgstr ""
+
+#: search.php:51
+msgid "Nothing Found "
+msgstr ""
+
+#: sidebar.php:25
+msgid "You are currently browsing the archives for the"
+msgstr ""
+
+#: sidebar.php:25
+msgid "category"
+msgstr ""
+
+#: sidebar.php:28 sidebar.php:31 sidebar.php:34 sidebar.php:40
+msgid "You are currently browsing the"
+msgstr ""
+
+#: sidebar.php:28
+msgid "blog archives for the day"
+msgstr ""
+
+#: sidebar.php:31 sidebar.php:37
+msgid "blog archives for"
+msgstr ""
+
+#: sidebar.php:34
+msgid "blog archives for the year"
+msgstr ""
+
+#: sidebar.php:37
+msgid "You have searched the"
+msgstr ""
+
+#: sidebar.php:37
+msgid ""
+"If you are unable to find anything in these search results, you can try one "
+"of these links."
+msgstr ""
+
+#: sidebar.php:40
+msgid "blog archives"
+msgstr ""
+
+#. #-#-#-#-#  default.pot (Color Splash 1.3.7.7)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:59
+msgid "Meta"
+msgstr ""
+
+#: single.php:35
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Color Splash"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A tiny small colorful theme, with a custom header option."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mladen"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links"
+msgstr ""

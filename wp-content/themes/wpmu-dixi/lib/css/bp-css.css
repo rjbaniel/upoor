@@ -1,0 +1,165 @@
+.bpfb_form_container {
+  margin: 14px 0px;
+}
+#custom ul#topic-post-list {
+  margin: 0 0 15px 0;
+  width: 100%;
+}
+#custom ul#topic-post-list li  {
+  margin: 0;
+  width: 96%;
+  padding: 3% 2%;
+  float:left;
+}
+
+table.forum {
+  margin: 12px 0px !important;
+  width: 100%;
+  float:left;
+}
+
+#content .padder {
+   padding: 0px 0px 20px;
+   clear: both;
+}
+div#topic-meta {
+  margin: 10px 0px;
+  padding: 0px;
+  width: 100%;
+  float:left;
+  position: relative;
+}
+div#topic-meta h3 {
+  margin: 1em 0 !important;
+}
+#custom #content .padder {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+#content .padder table {
+   clear: both;
+}
+div.dir-search {
+    float: right;
+    margin: -20px 0 0;
+}
+div.item-list-tabs {
+    margin: 20px 0px;
+}
+div#subnav.item-list-tabs {
+    margin: 10px 0px;
+    padding: 0px 0px 14px;
+}
+form#whats-new-form textarea {
+margin: 0px 0px 10px;
+  width: 94%;
+}
+#item-body form#whats-new-form {
+  border-bottom: 0px none;
+}
+table.forum {
+   width: 100%;
+   float:left;
+   clear: both;
+   margin: 0px; padding: 0px;
+}
+
+#content .item-list li {
+  margin-bottom: 0em;
+  padding-bottom: 2em;
+}
+#sidebar .item-list li {
+  margin-bottom: 0em;
+  padding-bottom: 0em;
+}
+
+p {
+  line-height: 1.7em;
+}
+
+table tr td {
+    padding: 12px 8px;
+    vertical-align: middle;
+}
+.pagination {
+  float:left;
+  width: 100%;
+  margin: 12px 0px;
+}
+
+div#topic-meta h3 {
+    margin: 45px 0;
+}
+
+.standard-form h2 {
+  font-size: 20px;
+}
+
+.standard-form h4 {
+  font-size: 16px;
+}
+.standard-form .register-section {
+  margin-bottom: 4em;
+}
+.activity-inner embed {
+  max-width: 100%;
+  height: 300px;
+}
+
+
+.standard-form select {
+  width: auto !important;
+  font-size: 11px;
+}
+
+div.bp-widget {
+  margin-bottom: 30px;
+}
+div.bp-widget h4 {
+  font-size: 20px;
+}
+#message p, #content .button-nav a {
+  color: #777 !important;
+}
+.clear {
+	clear: left;
+}
+
+ul.button-nav {
+  padding-top: 24px;
+}
+.item-options {
+  margin-bottom: 16px;
+}
+
+span.activity, div#message p {
+    line-height: 18px;
+}
+
+ul#topic-post-list li div.post-content {
+   width: auto !important;
+   float:none;
+   margin: 0; padding: 0;
+}
+
+#message.notice {
+	margin-bottom: 15px;
+}
+
+.pag-count {
+	margin-bottom: 10px;
+}
+
+table#message-threads tr td input[type=checkbox] {
+	margin-bottom: 10px;
+}
+
+.message-search {
+	float: right;
+}
+
+
+/* 206914-1378156220-au */

@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rubric\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-01 14:07+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\rubric\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:9
+#, php-format
+msgid "Comments on %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:22
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:53
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:27
+msgid "The <acronym title=\"Uniform Resource Identifier\">URI</acronym> to TrackBack this entry is:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:45
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:45
+msgid "Trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:45
+msgid "Pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:45
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:51
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:50
+msgid "No comments yet."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:55
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:61
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:56
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:61
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:82
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:68
+msgid "E-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:73
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:77
+msgid "Your Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:83
+msgid "Say It!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:93
+msgid "Close this window."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:101
+#, php-format
+msgid "<cite>Powered by <a href=\"http://wordpress.org\" title=\"%s\"><strong>Wordpress</strong></a></cite>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments-popup.php:101
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:3
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:7
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:7
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:7
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:55
+msgid "TrackBack"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:55
+msgid "Uniform Resource Identifier"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:65
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:65
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:65
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:77
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:77
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:77
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:82
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:85
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:85
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:88
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:92
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/comments.php:96
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/footer.php:7
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/footer.php:7
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/footer.php:9
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/functions.php:39
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:70
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:93
+msgid "Edit This"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:9
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:15
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:21
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:12
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:37
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:41
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:42
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:43
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:44
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:51
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:70
+msgid "Filed under:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:70
+msgid "Tags: "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:88
+msgid "(more...)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:104
+msgid "Comments (0)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:104
+msgid "Comments (1)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:104
+msgid "Comments (%)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:120
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:124
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/index.php:124
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:18
+msgid "Categories:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:24
+msgid "Search:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:28
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:32
+msgid "Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:37
+msgid "Meta:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:41
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:41
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:42
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:42
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:43
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\rubric/sidebar.php:43
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+

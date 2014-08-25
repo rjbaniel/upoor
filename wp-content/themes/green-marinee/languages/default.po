@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: greenmarinee\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-24 15:30+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\green-marinee\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:24
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:24
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:24
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:27
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:25
+msgid "Subscribe to comments with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:66
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:27
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:27
+msgid "TrackBack"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:51
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:78
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:78
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:78
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:88
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:88
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:88
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:93
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:93
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:96
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:96
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:99
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:103
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:107
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/comments.php:107
+msgid "Please review your comment before submitting"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/footer.php:4
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/footer.php:4
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/footer.php:6
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/functions.php:39
+msgid "said"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/functions.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/functions.php:46
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/functions.php:46
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/functions.php:46
+msgid "edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/header.php:37
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/header.php:38
+msgid "Skip to search - Accesskey = s"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:21
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:24
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:15
+msgid "Posts tagged with"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:27
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:40
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:44
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:45
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:46
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:47
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:54
+msgid "Search Results"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:64
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:12
+msgid "Posted in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:64
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:12
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:64
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:12
+msgid "on the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:64
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:12
+msgid "Edit This"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:78
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:17
+msgid "(more...)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:23
+msgid "<strong>0</strong> Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:23
+msgid "<strong>1</strong> Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:88
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:23
+msgid "<strong>%</strong> Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:99
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:31
+msgid "Sorry, no posts matched your criteria, please try and search again."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:103
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:35
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/index.php:103
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/single.php:35
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:10
+msgid "The Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:19
+msgid "The Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:27
+msgid "The Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:32
+msgid "Enter keyword to search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:33
+msgid "Click to search archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:41
+msgid "The Associates"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:48
+msgid "The Storage"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:55
+msgid "The Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:61
+msgid "The Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:65
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:66
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:67
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:67
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:68
+msgid "back to top"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\green-marinee/sidebar.php:68
+msgid "Back to top"
+msgstr ""
+

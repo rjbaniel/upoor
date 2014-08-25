@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: waterlily\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-07 19:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmu\\wp-content\\themes\\waterlily\n"
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:6
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:6
+msgid "File not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:9
+msgid ""
+"You are <em>totally</em> in the wrong place. Do not pass GO; do not collect $200.<br />\n"
+"Instead, try one of the following:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:12
+msgid "Hit the "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:13
+msgid "Head on over to the"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:13
+msgid "front page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:14
+msgid "Try searching using the form below."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:15
+msgid "Click on a link in the sidebar."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:16
+msgid "Use the navigation menu at the top of the page."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:17
+msgid "Punt."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:20
+msgid "Searching for something in particular?  Enter your keywords below:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/404.php:23
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:7
+msgid "Go!"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:5
+msgid "&raquo; Currently browsing: "
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:14
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:15
+msgid "Posted at:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:15
+msgid "Number of Comments &raquo; 0"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:15
+msgid "Number of Comments &raquo; 1"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:15
+msgid "Number of Comments &raquo; %"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:18
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:25
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:23
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/page.php:24
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:28
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:26
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:31
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/category.php:20
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/date.php:27
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:26
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/search.php:31
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:30
+msgid "No Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:30
+msgid "One Response"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:30
+msgid "% Responses"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:30
+msgid "to"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:53
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:89
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:89
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:89
+msgid "to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:106
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:106
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:106
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:116
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:116
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:122
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:122
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:128
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:136
+msgid "You can use these tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/comments.php:144
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/footer.php:2
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/footer.php:2
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/footer.php:3
+msgid "designed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/footer.php:4
+msgid "Hosted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/functions.php:43
+msgid "says"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/functions.php:45
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:11
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/page.php:12
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:14
+msgid "<strong>&raquo; Continue Reading</strong>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:17
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:17
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:17
+msgid "and tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+msgid "Comments &amp; Trackbacks (0)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+msgid "Comments &amp; Trackbacks (1)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+msgid "Comments &amp; Trackbacks (%)"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/index.php:13
+msgid "Permalink"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:5
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:8
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:14
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:23
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:27
+msgid "Syndicate this site using RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:27
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:28
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:28
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:29
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:34
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/sidebar.php:38
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:17
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wpmu\wp-content\themes\waterlily/single.php:17
+msgid "on"
+msgstr ""
+
